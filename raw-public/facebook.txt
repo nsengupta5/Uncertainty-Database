@@ -140,7 +140,6 @@ p-no
 
 [08/01/2014]
 [FACEBOOK OUTAGE LED TO 3% DECLINE IN TRAFFIC TO NEWS SITES [REPORT]
-]
 http://www.webpronews.com/facebook-outage-led-to-3-decline-in-traffic-to-news-sites-report-2014-08?utm_source=Social+Media_sidebar
 http://venturebeat.com/2014/08/01/facebooks-blackout-cost-about-20000-a-minute-or-the-price-of-a-few-engineers/
 http://cloutage.org/incidents/2376-facebook-social-networkinga-few-engineers/
@@ -186,7 +185,6 @@ f-restore
 
 [09/03/2014]
 [Facebook Is Down On Web And Mobile [Update: It’s Coming Back After 20 Minutes]
-]
 http://techcrunch.com/2014/09/03/why-is-facebook-down/
 http://thedailyedge.thejournal.ie/facebook-went-down-september-1653235-Sep2014/
 r-config
@@ -330,11 +328,9 @@ p-no
 
 [12/16/2010]
 [Facebook Goes Down Amid Rollout of New Brand Pages [UPDATED]
-]
 http://mashable.com/2010/12/16/facebook-down-rollout/
 r-upgrade
 t-30m
 p-no
 i-down
 f-roll
-
