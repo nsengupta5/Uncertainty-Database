@@ -8,6 +8,7 @@ result = {}
 
 fields = ['date', 'title', 'links', 'duration', 'planned', 'causes', 'implications', 'fixes']
 
-# with open(amazon_data) as ad:
+with open(amazon_data) as ad:
 
-#     for line in ad:
+    for line in ad:
+

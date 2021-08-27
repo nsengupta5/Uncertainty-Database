@@ -1,6 +1,6 @@
 
-[04/11/2013]
-[WeChat Experiences Short Service Outage, Blames Hardware Problems as Users Complain]
+04/11/2013
+WeChat Experiences Short Service Outage, Blames Hardware Problems as Users Complain
 http://www.techinasia.com/wechat-experiences-short-service-outage-blames-hardware-problems-users-complain/
 http://cloutage.org/incidents/562-tencent-wechat
 http://weibo.com/1930378853/zrx2h8Un5
@@ -10,8 +10,8 @@ t-10m
 f-fix
 p-no
 
-[07/22/2013]
-[China's WeChat Suffers Major Network Outage]
+07/22/2013
+China's WeChat Suffers Major Network Outage
 http://www.cellular-news.com/story/Services/61130.php
 http://blogs.wsj.com/chinarealtime/2013/07/22/wechat-outage-unleashes-flood-of-sad-emoticons/
 http://thenextweb.com/asia/2013/07/22/line-mocks-messaging-rival-tencent-for-failing-to-prevent-wechats-first-major-outage/
@@ -22,8 +22,8 @@ t-6h30m
 f-fix
 p-no
 
-[08/19/2013]
-[Conspiracy theories swirl as WeChat suffers a service outage the day Yixin launches in China]
+08/19/2013
+Conspiracy theories swirl as WeChat suffers a service outage the day Yixin launches in China
 http://cloutage.org/incidents/1539-tencent-wechat
 http://weibo.com/1930378853/A5wjDCyeq
 http://weibo.com/1930378853/A5x623fGA
@@ -33,8 +33,8 @@ i-down
 f-fix
 p-no
 
-[09/15/2015]
-[Not without my WeChat! People panic as WeChat sees outage]
+09/15/2015
+Not without my WeChat! People panic as WeChat sees outage
 http://www.allchinatech.com/not-without-my-wechat-people-panic-as-wechat-sees-outage/
 r-unk
 t-1d

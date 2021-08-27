@@ -1,6 +1,6 @@
 
-[04/21/2011]
-[Summary of the Amazon EC2 and Amazon RDS Service Disruption in the US East Region]
+04/21/2011
+Summary of the Amazon EC2 and Amazon RDS Service Disruption in the US East Region
 http://aws.amazon.com/message/65648/
 http://money.cnn.com/2011/04/21/technology/amazon_server_outage/
 http://www.rightscale.com/blog/cloud-industry-insights/amazon-ec2-outage-summary-and-lessons-learned
@@ -15,8 +15,8 @@ f-add
 f-restore
 p-no
 
-[06/29/2012]
-[Summary of the AWS Service Event in the US East Region]
+06/29/2012
+Summary of the AWS Service Event in the US East Region
 http://aws.amazon.com/message/67457/
 http://www.datacenterknowledge.com/archives/2012/06/29/another-outage-amazon-cloud/
 http://www.datacenterknowledge.com/archives/2012/07/03/multiple-generator-failures-caused-amazon-outage/
@@ -28,8 +28,8 @@ t-3h36m
 f-fix
 p-no
 
-[08/07/2011]
-[Summary of the Amazon EC2, Amazon EBS, and Amazon RDS Service Event in the EU West Region]
+08/07/2011
+Summary of the Amazon EC2, Amazon EBS, and Amazon RDS Service Event in the EU West Region
 http://aws.amazon.com/message/2329B7/
 http://www.datacenterknowledge.com/archives/2011/08/07/lightning-in-dublin-knocks-amazon-microsoft-data-centers-offline/
 r-natdis
@@ -40,8 +40,8 @@ p-no
 f-restore
 f-fix
 
-[10/22/2012]
-[Summary of the October 22, 2012 AWS Service Event in the US-East Region]
+10/22/2012
+Summary of the October 22, 2012 AWS Service Event in the US-East Region
 http://aws.amazon.com/message/680342/
 http://www.zdnet.com/article/amazon-cloud-down-reddit-github-other-major-sites-affected/
 http://www.networkworld.com/article/2160922/cloud-computing/amazon-outage-started-small--snowballed-into-12-hour-event.html

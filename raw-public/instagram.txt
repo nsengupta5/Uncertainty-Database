@@ -1,6 +1,6 @@
 
-[01/27/2015]
-[Facebook says it caused fault that sent services offline]
+01/27/2015
+Facebook says it caused fault that sent services offline
 http://www.bbc.com/news/technology-30996928
 http://www.wsj.com/articles/facebook-denies-lizard-squad-hacking-claim-1422342613
 http://www.techgeekandmore.com/2015/01/27/alert-facebook-instagram-currently-12715/
@@ -11,8 +11,8 @@ t-1h
 i-down
 p-no
 
-[03/03/2014]
-[Instagram Went Down, And It Might Have Been Justin Bieber’s Fault]
+03/03/2014
+Instagram Went Down, And It Might Have Been Justin Bieber’s Fault
 http://techcrunch.com/2014/03/03/is-instagram-down/
 http://cloutage.org/incidents/2528-instagram-photo-sharing
 http://www.hindustantimes.com/tabloid/did-bieber-s-posting-of-selena-s-oscar-pic-take-down-instagram/article1-1190855.aspx
@@ -21,8 +21,8 @@ t-50m
 i-down
 p-no
 
-[03/21/2013]
-[Instagram URL Shortener Issues: Instagr Outage Across Facebook, Twitter, Photo App Problems Due to Shortlink Glitch, Photos Not Appearing]
+03/21/2013
+Instagram URL Shortener Issues: Instagr Outage Across Facebook, Twitter, Photo App Problems Due to Shortlink Glitch, Photos Not Appearing
 http://www.mstarz.com/articles/10071/20130321/instagram-shortener-issues-instagr-outage-across-facebook-twitter-photo-app-problems-due-to-shortlink-glitch-photos-not-appearing.htm
 http://www.theverge.com/2013/3/21/4132146/instagram-photos-not-appearing-on-twitter-facebook-shortener-bug
 http://cloutage.org/incidents/566-instagram-web-services
@@ -33,8 +33,8 @@ i-op
 p-no
 f-fix
 
-[04/12/2014]
-[Instagram Is Down (Update: It’s Back!)]
+04/12/2014
+Instagram Is Down (Update: It’s Back!)
 http://techcrunch.com/2014/04/12/instagram-is-down/
 http://mashable.com/2014/04/12/instagram-is-down-users-flock-to-twitter-to-complain/
 r-unk
@@ -42,16 +42,16 @@ t-1h
 i-down
 p-no
 
-[05/27/2014]
-[Instagram Briefly Goes Down for All Users]
+05/27/2014
+Instagram Briefly Goes Down for All Users
 http://mashable.com/2014/05/27/instagram-down-all-users/
 r-unk
 t-40m
 i-down
 p-no
 
-[06/30/2012]
-[Instagram down in mass power outage]
+06/30/2012
+Instagram down in mass power outage
 http://news.blogs.cnn.com/2012/06/30/instagram-down-in-mass-power-outage/
 http://hipgenius.com/sundays-instagram-vine-outage/
 http://www.stackify.com/11-worst-server-outages-of-2012/
@@ -63,8 +63,8 @@ i-down
 f-cross
 p-no
 
-[08/07/2011]
-[Amazon EC2 Outage Takes Down Foursquare, Instagram, Quora, Reddit, Etc]
+08/07/2011
+Amazon EC2 Outage Takes Down Foursquare, Instagram, Quora, Reddit, Etc
 http://techcrunch.com/2011/08/08/amazon-ec2-outage/
 r-cross
 t-40m
@@ -72,8 +72,8 @@ i-down
 p-no
 f-cross
 
-[08/25/2013]
-[Amazon Web Services, Inc.'s EC2, Elastic Load Balancing, and Elastic Block store had an outage caused by a partial failure of a networking device causing packet loss]
+08/25/2013
+Amazon Web Services, Inc.'s EC2, Elastic Load Balancing, and Elastic Block store had an outage caused by a partial failure of a networking device causing packet loss
 http://www.pcmag.com/article2/0,2817,2423582,00.asp
 r-cross
 t-1h
@@ -81,24 +81,24 @@ i-down
 p-no
 f-cross
 
-[08/28/2014]
-[Instagram Back After Experiencing 'Technical Issues']
+08/28/2014
+Instagram Back After Experiencing 'Technical Issues'
 http://mashable.com/2014/08/28/instagram-down-technical/
 r-unk
 t-2h
 i-down
 p-no
 
-[10/10/2014]
-[Instagram Is Back After Brief Outage]
+10/10/2014
+Instagram Is Back After Brief Outage
 http://mashable.com/2014/10/10/instagram-down-october-2014/
 r-unk
 t-6h
 i-down
 p-no
 
-[11/09/2013]
-[Instagram Is Down For Some Users Due To ‘System Issues’]
+11/09/2013
+Instagram Is Down For Some Users Due To ‘System Issues’
 http://techcrunch.com/2013/11/09/instagram-apparent-outage-down/
 http://cloutage.org/incidents/1678-instagram-photo-sharing
 http://tech.firstpost.com/news-analysis/instagram-goes-down-briefly-after-facebook-faces-outage-107945.html
