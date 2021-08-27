@@ -1,0 +1,24 @@
+{
+	"blackberry": [
+		{
+			"date": "03/04/2014",
+			"title": "BlackBerry Users Report Email And Messaging Service Outage",
+			"links": [
+				{"url": "http://www.huffingtonpost.ca/2014/03/04/blackberry-outage-canada_n_4896583.html"},
+				{"url": "http://www.thestar.com/business/2014/03/04/blackberry_users_reporting_email_and_messaging_disruptions.html"},
+				{"url": "http://mobilesyrup.com/2014/03/04/blackberry-users-reporting-major-outage-in-many-regions/"},
+				{"url": "http://www.ctvnews.ca/business/blackberry-outage-in-canada-asia-pacific-resolved-1.1713687"},
+				{"url": "http://www.reuters.com/article/2014/03/04/us-blackberry-outage-idUSBREA231RQ20140304"}
+			],
+			"duration": "5h55m",
+			"planned": "no",
+			"causes": [
+				{"cause": "unk"}
+			],
+			"implications": [
+				{"implication": "op"}
+			],
+			"fixes": []
+		}
+	]
+}
