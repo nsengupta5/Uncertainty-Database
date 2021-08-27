@@ -1,25 +1,29 @@
 
-[01/07/2013][Rackspace Suffers Email Outage]
+[01/07/2013]
+[Rackspace Suffers Email Outage]
 http://news.dice.com/2013/01/09/rackspace-suffers-email-outage/
 http://www.bizjournals.com/sanantonio/news/2013/01/14/rackspace-resolves-email-outage.html
 i-op
 t-6h25m
 p-no
 
-[01/14/2010][Performance Problems for Rackspace Cloud]
+[01/14/2010]
+[Performance Problems for Rackspace Cloud]
 http://www.datacenterknowledge.com/archives/2010/01/14/performance-problems-for-rackspace-cloud/
 r-config
 t-unk
 p-no
 
-[03/27/2013][Rackspace Outage & Global DDoS Attack]
+[03/27/2013]
+[Rackspace Outage & Global DDoS Attack]
 http://readymadeweb.com/2013/03/27/rackspace-outage-global-ddos-attack/
 r-sec
 i-down
 t-unk
 p-no
 
-[05/20/2013][3 difficult days for Rackspace Cloud Load Balancers]
+[05/20/2013]
+[3 difficult days for Rackspace Cloud Load Balancers]
 http://iwgcr.org/3-difficult-days-for-rackspace-cloud-load-balancers/
 r-config
 i-down
@@ -30,7 +34,8 @@ f-fix
 f-restart
 f-add
 
-[06/12/2013][Network Virtualization Platform (NVP) Incident Reports]
+[06/12/2013]
+[Network Virtualization Platform (NVP) Incident Reports]
 r-fail
 r-bug
 i-down
@@ -38,14 +43,16 @@ f-fix
 t-6h
 p-no
 
-[06/14/2013][Network Virtualization Platform (NVP) Incident Reports]
+[06/14/2013]
+[Network Virtualization Platform (NVP) Incident Reports]
 r-bug
 i-down
 t-1h
 f-fix
 p-no
 
-[06/20/2013][Network Virtualization Platform (NVP) Incident Reports]
+[06/20/2013]
+[Network Virtualization Platform (NVP) Incident Reports]
 http://www.systemswatch.com/blog/2013/06/rackspace-fanatical-support/
 r-upgrade
 r-config
@@ -55,7 +62,8 @@ p-no
 f-restart
 f-fix
 
-[06/29/2009][Outage for Rackspace Customers]
+[06/29/2009]
+[Outage for Rackspace Customers]
 http://www.datacenterknowledge.com/archives/2009/06/29/outage-for-rackspace-customers/
 http://techcrunch.com/2009/06/29/yes-rackspace-is-down-and-so-are-many-of-your-favorite-sites/
 http://techcrunch.com/2009/06/30/what-went-down-at-rackspace-yesterday-a-power-outage-and-some-backup-failures/
@@ -65,7 +73,8 @@ t-45m
 p-no
 f-fix
 
-[11/02/2009][(Updated) Downtime At Rackspace Cloud]
+[11/02/2009]
+[(Updated) Downtime At Rackspace Cloud]
 http://techcrunch.com/2009/11/02/large-scale-downtime-at-rackspace-cloud/
 http://blog.rackspace.com/update-on-scheduled-maintenanceinterruption/
 r-fail
@@ -75,14 +84,16 @@ t-1h
 p-no
 f-fix
 
-[11/12/2014][Rackspace Outage Nov 12th]
+[11/12/2014]
+[Rackspace Outage Nov 12th]
 http://www.realestatewebmasters.com/blogs/rew-steven/rackspace-outage-nov-12th/show/
 r-fail
 i-down
 t-90m
 p-no
 
-[12/18/2009][Network Issue Cited in Rackspace Outage]
+[12/18/2009]
+[Network Issue Cited in Rackspace Outage]
 http://www.datacenterknowledge.com/archives/2009/12/18/network-issue-cited-in-rackspace-outage/
 http://techcrunch.com/2009/12/18/rackspace-down/?awesm=27XFP&utm_medium=awe.sm-twitter&utm_source=direct-awe.sm&utm_content=twitterfeed
 http://mashable.com/2009/12/18/rackspace-outage/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29
@@ -94,7 +105,8 @@ t-30m
 p-no
 f-fix
 
-[12/21/2014][DDoS Attack Takes Down Rackspace For Almost 12 Hours]
+[12/21/2014]
+[DDoS Attack Takes Down Rackspace For Almost 12 Hours]
 http://www.techweekeurope.co.uk/cloud/datacenter/rackspace-ddos-security-cloud-158093
 r-sec
 i-down

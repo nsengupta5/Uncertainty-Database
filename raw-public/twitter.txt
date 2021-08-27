@@ -1,36 +1,42 @@
 
-[01/04/2012][Streaming Delivery Delay]
+[01/04/2012]
+[Streaming Delivery Delay]
 http://twitterstatus.tumblr.com/post/15313993723/streaming-delivery-delay
 r-unk
 t-unk
 p-no
 
-[01/05/2015][Timeline Delivery Issue]
+[01/05/2015]
+[Timeline Delivery Issue]
 http://twitterstatus.tumblr.com/post/107269077628/timeline-delivery-issue
 r-unk
 t-1h39m
 p-no
 
-[01/06/2009][Delivery delays]
+[01/06/2009]
+[Delivery delays]
 http://twitterstatus.tumblr.com/post/68751921/delivery-delays
 r-unk
 t-unk
 i-op
 p-no
 
-[01/06/2010][Working on Tweet delivery delays]
+[01/06/2010]
+[Working on Tweet delivery delays]
 http://twitterstatus.tumblr.com/post/320662716/working-on-tweet-delivery-delays
 r-unk
 t-unk
 p-no
 
-[01/08/2009][Catching back up]
+[01/08/2009]
+[Catching back up]
 http://twitterstatus.tumblr.com/post/69184677/catching-back-up
 r-unk
 t-unk
 p-no
 
-[01/12/2010][Investigating SMS delivery issues]
+[01/12/2010]
+[Investigating SMS delivery issues]
 http://twitterstatus.tumblr.com/post/331865303/sms-delivery-temporarily-disabled
 http://twitterstatus.tumblr.com/post/331413664/investigating-sms-delivery-issues
 r-unk
@@ -38,28 +44,32 @@ t-2h26m
 i-op
 p-no
 
-[01/15/2014][Brief service issue]
+[01/15/2014]
+[Brief service issue]
 http://twitterstatus.tumblr.com/post/73429900886/brief-service-issue
 t-9m
 r-unk
 i-op
 p-no
 
-[01/15/2015][Service issue]
+[01/15/2015]
+[Service issue]
 http://twitterstatus.tumblr.com/post/108206544668/service-issue
 r-unk
 t-21m
 p-no
 i-op
 
-[01/16/2009][Twitter downtime]
+[01/16/2009]
+[Twitter downtime]
 http://twitterstatus.tumblr.com/post/70991844/twitter-downtime
 r-unk
 t-unk
 i-down
 p-no
 
-[01/16/2013][Twitter Site Issue]
+[01/16/2013]
+[Twitter Site Issue]
 http://twitterstatus.tumblr.com/post/40721891299/twitter-site-issue
 http://techcrunch.com/2013/01/16/twitter-com-experiencing-rendering-issues-so-if-you-like-ugly-websites-visit-it-now/
 r-unk
@@ -67,14 +77,16 @@ t-38m
 i-op
 p-no
 
-[01/19/2009][Search behind realtime]
+[01/19/2009]
+[Search behind realtime]
 http://twitterstatus.tumblr.com/post/71697063/search-behind-realtime
 r-unk
 t-unk
 i-op
 p-yes
 
-[01/20/2009][We’re reconfiguring servers to address some inefficiencies found this morning]
+[01/20/2009]
+[We’re reconfiguring servers to address some inefficiencies found this morning]
 http://twitterstatus.tumblr.com/post/71885776/were-reconfiguring-servers-to-address-some
 http://twitterstatus.tumblr.com/post/71824634/slowness
 r-unk
@@ -82,7 +94,8 @@ t-unk
 i-down
 p-no
 
-[01/20/2010][Extremely high volume of whales]
+[01/20/2010]
+[Extremely high volume of whales]
 http://twitterstatus.tumblr.com/post/344235824/extremely-high-volume-of-whales
 http://www.cnn.com/2010/TECH/01/20/twitter.outage/
 r-fail
@@ -90,7 +103,8 @@ t-1h30m
 i-down
 p-no
 
-[01/21/2013][Twitter Goes Down On Inauguration Day 2013 For Some Users]
+[01/21/2013]
+[Twitter Goes Down On Inauguration Day 2013 For Some Users]
 http://www.huffingtonpost.com/2013/01/21/twitter-down-inauguration-day_n_2522196.html
 http://twitterstatus.tumblr.com/post/41136790651/twitter-site-issue
 http://techcrunch.com/2013/01/21/twitters-having-connectivity-issues-but-the-fail-whale-is-nowhere-to-be-found/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29
@@ -99,20 +113,23 @@ t-7h
 i-down
 p-no
 
-[01/27/2010][Working on Tweet delivery delays]
+[01/27/2010]
+[Working on Tweet delivery delays]
 http://twitterstatus.tumblr.com/post/356402310/working-on-tweet-delivery-delays
 t-3h9m
 r-unk
 p-no
 
-[01/28/2014][brief service issue]
+[01/28/2014]
+[brief service issue]
 http://twitterstatus.tumblr.com/post/74877960893/brief-service-issue
 t-18m
 r-unk
 i-op
 p-no
 
-[01/30/2009][Some fixes out; more coming]
+[01/30/2009]
+[Some fixes out; more coming]
 http://twitterstatus.tumblr.com/post/74391295/some-fixes-out-more-coming
 r-unk
 t-unk
@@ -120,7 +137,8 @@ i-loss
 p-no
 f-restore
 
-[01/31/2013][Twitter site issue]
+[01/31/2013]
+[Twitter site issue]
 http://twitterstatus.tumblr.com/post/41947243581/twitter-site-issue
 http://www.huffingtonpost.com/2013/01/31/twitter-downtime-server-trouble_n_2590266.html
 r-unk
@@ -128,7 +146,8 @@ t-2h50m
 i-down
 p-no
 
-[02/02/2009][Unable to find yourself?]
+[02/02/2009]
+[Unable to find yourself?]
 http://twitterstatus.tumblr.com/post/75102341/unable-to-find-yourself
 http://twitterstatus.tumblr.com/post/75182201/missing-updates-were-bringing-them-back
 r-bug
@@ -136,28 +155,32 @@ t-unk
 i-op
 p-no
 
-[02/05/2013][Photo upload issue]
+[02/05/2013]
+[Photo upload issue]
 http://twitterstatus.tumblr.com/post/42401746370/photo-upload-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[02/06/2009][Delays in posting text messages]
+[02/06/2009]
+[Delays in posting text messages]
 http://twitterstatus.tumblr.com/post/76219963/delays-in-posting-text-messages
 http://twitterstatus.tumblr.com/post/76230951/seeing-inconsistencies-in-followers-followings
 r-unk
 t-unk
 p-no
 
-[02/07/2013][Profile viewing issue ]
+[02/07/2013]
+[Profile viewing issue ]
 http://twitterstatus.tumblr.com/post/42539886184/profile-viewing-issue
 r-bug
 t-unk
 i-op
 p-no
 
-[02/09/2009][User restoration temporarily disabled]
+[02/09/2009]
+[User restoration temporarily disabled]
 http://twitterstatus.tumblr.com/post/77015155/user-restoration-temporarily-disabled
 http://twitterstatus.tumblr.com/post/77325694/updates-on-a-couple-bugs
 r-bug
@@ -165,28 +188,32 @@ t-unk
 i-op
 p-no
 
-[02/10/2015][Some users unable to Tweet]
+[02/10/2015]
+[Some users unable to Tweet]
 http://twitterstatus.tumblr.com/post/110673635718/some-users-unable-to-tweet
 r-unk
 t-53m
 i-op
 p-no
 
-[02/11/2009][site back up]
+[02/11/2009]
+[site back up]
 http://twitterstatus.tumblr.com/post/77438630/site-back-up
 r-fail
 t-1h
 i-down
 p-no
 
-[02/13/2009][back from maintenance mode]
+[02/13/2009]
+[back from maintenance mode]
 http://twitterstatus.tumblr.com/post/78228774/back-from-maintenance-mode
 r-upgrade
 t-30m
 i-down
 p-no
 
-[02/18/2009][Working on site latency issues]
+[02/18/2009]
+[Working on site latency issues]
 http://twitterstatus.tumblr.com/post/79456053/working-on-site-latency-issues
 http://twitterstatus.tumblr.com/post/79582042/entering-maintenance-window
 http://twitterstatus.tumblr.com/post/79591466/exiting-maintenance-window
@@ -194,21 +221,24 @@ r-upgrade
 t-1h
 p-yes
 
-[03/02/2009][Power failure this morning ]
+[03/02/2009]
+[Power failure this morning ]
 http://twitterstatus.tumblr.com/post/82874378/power-failure-this-morning
 r-fail
 t-5m
 i-down
 p-no
 
-[03/02/2014][brief service issue]
+[03/02/2014]
+[brief service issue]
 http://twitterstatus.tumblr.com/post/78400054104/brief-service-issue
 r-unk
 t-24m
 i-op
 p-no
 
-[03/04/2009][Problems logging in ]
+[03/04/2009]
+[Problems logging in ]
 http://twitterstatus.tumblr.com/post/83602310/problems-logging-in
 http://twitterstatus.tumblr.com/post/83611682/signing-in-back-to-normal
 r-unk
@@ -216,7 +246,8 @@ t-unk
 i-op
 p-no
 
-[03/06/2011][Twitter.com “Add your location” temporarily disabled on web]
+[03/06/2011]
+[Twitter.com “Add your location” temporarily disabled on web]
 http://status.twitter.com/post/3682240237/add-your-location-temporarily-disabled-on-web
 http://cloutage.org/incidents/471-twitter-inc-twitter
 r-unk
@@ -224,7 +255,8 @@ t-unk
 i-op
 p-no
 
-[03/07/2011][Twitter Some accounts not receiving emails]
+[03/07/2011]
+[Twitter Some accounts not receiving emails]
 http://status.twitter.com/post/3710534975/some-accounts-not-receiving-emails
 http://cloutage.org/incidents/470-twitter-inc-twitter
 r-unk
@@ -232,13 +264,15 @@ t-unk
 i-op
 p-no
 
-[03/09/2009][Inbound SMS Delay]
+[03/09/2009]
+[Inbound SMS Delay]
 http://twitterstatus.tumblr.com/post/84921942/inbound-sms-delay
 r-unk
 t-unk
 p-no
 
-[03/11/2009][SMS maintenance tonight]
+[03/11/2009]
+[SMS maintenance tonight]
 http://twitterstatus.tumblr.com/post/85740094/sms-maintenance-tonight
 http://twitterstatus.tumblr.com/post/85668067/working-on-sms-issues
 http://twitterstatus.tumblr.com/post/85644965/update-on-inconsistencies
@@ -248,7 +282,8 @@ t-30m
 i-op
 p-yes
 
-[03/11/2011][Twitter Down? Users Report Slow Connectivity: Check Status Here]
+[03/11/2011]
+[Twitter Down? Users Report Slow Connectivity: Check Status Here]
 http://www.huffingtonpost.com/2010/03/11/twitter-down-users-report_n_493926.html
 http://twitterstatus.tumblr.com/post/441927368/high-rate-of-site-errors-and-general-slowness
 r-unk
@@ -256,7 +291,8 @@ t-unk
 p-no
 p-no
 
-[03/11/2014][Service issue]
+[03/11/2014]
+[Service issue]
 http://status.twitter.com/post/79278902130/service-issue
 http://cloutage.org/incidents/2599-twitter-inc-twitter
 http://abcnews.go.com/blogs/business/2014/03/twitter-stock-twtr-dropped-1-during-site-outage/
@@ -273,20 +309,23 @@ i-down
 f-roll
 p-no
 
-[03/12/2009][Some missing updates, actions]
+[03/12/2009]
+[Some missing updates, actions]
 http://twitterstatus.tumblr.com/post/86067236/some-missing-updates-actions
 r-unk
 t-1h
 p-no
 
-[03/16/2009][Unplanned maintenance]
+[03/16/2009]
+[Unplanned maintenance]
 http://twitterstatus.tumblr.com/post/87009894/unplanned-maintenance
 http://twitterstatus.tumblr.com/post/86986973/some-delays-on-followings-direct-messages
 r-upgrade
 t-unk
 p-no
 
-[03/16/2011][Intermittent access to some features]
+[03/16/2011]
+[Intermittent access to some features]
 http://status.twitter.com/post/3902683774/intermittent-access-to-some-features
 http://cloutage.org/incidents/468-twitter-inc-twitter
 r-unk
@@ -294,7 +333,8 @@ t-unk
 i-down
 p-no
 
-[03/17/2009][Update on bugs: device registration and image uploading]
+[03/17/2009]
+[Update on bugs: device registration and image uploading]
 http://twitterstatus.tumblr.com/post/87310160/update-on-bugs-device-registration-and-image
 r-unk
 t-unk
@@ -302,14 +342,16 @@ i-op
 i-op
 p-no
 
-[03/17/2010][General site outage]
+[03/17/2010]
+[General site outage]
 http://twitterstatus.tumblr.com/post/455797119/general-site-outage
 r-unk
 t-27m
 i-down
 p-no
 
-[03/17/2011][Maintenance: Some SMS services are offline (Complete)]
+[03/17/2011]
+[Maintenance: Some SMS services are offline (Complete)]
 http://twitterstatus.tumblr.com/post/3923273733/maintenance-some-sms-services-are-offline
 http://cloutage.org/incidents/467-twitter-inc-twitter
 http://status.twitter.com/post/3917818236/timelines-delayed
@@ -318,54 +360,62 @@ t-unk
 i-op
 p-yes
 
-[03/18/2009][Some users experiencing missing tweets]
+[03/18/2009]
+[Some users experiencing missing tweets]
 http://twitterstatus.tumblr.com/post/87625680/some-users-experiencing-missing-tweets
 r-bug
 t-unk
 i-op
 p-no
 
-[03/19/2009][Update on service issues]
+[03/19/2009]
+[Update on service issues]
 http://twitterstatus.tumblr.com/post/88044976/update-on-service-issues
 r-bug
 t-unk
 p-no
 
-[03/20/2013][Twitter API v1: Temporary shutdown]
+[03/20/2013]
+[Twitter API v1: Temporary shutdown]
 http://twitterstatus.tumblr.com/post/45844838185/twitter-api-v1-temporary-shutdown
 r-upgrade
 t-1h
 i-op
 p-yes
 
-[03/25/2009][Update on site reliability progress]
+[03/25/2009]
+[Update on site reliability progress]
 http://twitterstatus.tumblr.com/post/89846045/update-on-site-reliability-progress
 r-bug
 t-unk
 p-no
 
-[03/25/2010][High Error Rate and Page Loading Issues]
+[03/25/2010]
+[High Error Rate and Page Loading Issues]
 http://twitterstatus.tumblr.com/post/473971477/high-error-rate-and-page-loading-issues
 r-unk
 t-1h3m
 i-down
 p-no
 
-[03/25/2011][Experiencing delays with Tweet delivery]
+[03/25/2011]
+[Experiencing delays with Tweet delivery]
 http://twitterstatus.tumblr.com/post/4088814149/experiencing-delays-with-tweet-delivery
 http://stats.pingdom.com/wx4vra365911/23773/2011/03
 r-unk
 t-15m
 p-no
 
-[03/25/2014][tweet display issue]
+[03/25/2014]
+[tweet display issue]
 http://twitterstatus.tumblr.com/post/80718245447/tweet-display-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[03/26/2009][Some t-mobile delivery problems]
+[03/26/2009]
+[Some t-mobile delivery problems]
 http://twitterstatus.tumblr.com/post/90116665/some-t-mobile-delivery-problems
 http://twitterstatus.tumblr.com/post/90073257/problems-reaching-search
 r-fail
@@ -376,21 +426,24 @@ i-op
 i-op
 p-no
 
-[03/31/2009][User search and Facebook updating are temporarily disabled]
+[03/31/2009]
+[User search and Facebook updating are temporarily disabled]
 http://twitterstatus.tumblr.com/post/91605373/user-search-and-facebook-updating-are-temporarily
 r-unk
 t-unk
 i-op
 p-no
 
-[04/01/2012][@Connect Issue]
+[04/01/2012]
+[@Connect Issue]
 http://twitterstatus.tumblr.com/post/20305499891/connect-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[04/02/2009][More information about this weekend’s worm attacks can be found on the main blog]
+[04/02/2009]
+[More information about this weekend’s worm attacks can be found on the main blog]
 http://twitterstatus.tumblr.com/post/95523421/more-information-about-this-weekends-worm-attacks
 http://twitterstatus.tumblr.com/post/92331119/intermittent-problems-with-image-uploading
 http://twitterstatus.tumblr.com/post/92334992/not-finding-yourself-in-people-search
@@ -398,21 +451,24 @@ r-sec
 t-90m
 p-no
 
-[04/05/2009][Planned maintenance on sunday 10am pacific]
+[04/05/2009]
+[Planned maintenance on sunday 10am pacific]
 http://twitterstatus.tumblr.com/post/92929468/planned-maintenance-on-sunday-10a-pacific
 r-upgrade
 t-1h
 i-down
 p-yes
 
-[04/05/2012][Search and Timeline Issue ]
+[04/05/2012]
+[Search and Timeline Issue ]
 http://twitterstatus.tumblr.com/post/20538871523/search-and-timeline-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[04/06/2009][One hour maintenance starting at 5:45p Pacific]
+[04/06/2009]
+[One hour maintenance starting at 5:45p Pacific]
 http://twitterstatus.tumblr.com/post/93641925/one-hour-maintenance-starting-at-5-45p-pacific
 http://twitterstatus.tumblr.com/post/93501130/working-through-some-errors-this
 http://twitterstatus.tumblr.com/post/93589702/missing-user-icons-avatars-and-direct-messages
@@ -422,14 +478,16 @@ t-1h
 i-down
 p-yes
 
-[04/07/2012][Photo Upload Issue]
+[04/07/2012]
+[Photo Upload Issue]
 http://twitterstatus.tumblr.com/post/20687669549/photo-upload-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[04/08/2009][update to delivery delay]
+[04/08/2009]
+[update to delivery delay]
 http://twitterstatus.tumblr.com/post/94728588/updates-on-site-issues
 http://twitterstatus.tumblr.com/post/94536362/twitter-com-is-experiencing-high-latency-were
 http://twitterstatus.tumblr.com/post/94330927/update-on-delivery-delays
@@ -439,13 +497,15 @@ t-unk
 p-no
 f-fix
 
-[04/10/2012][Delay in Email Delivery]
+[04/10/2012]
+[Delay in Email Delivery]
 http://twitterstatus.tumblr.com/post/20849139466/delay-in-email-delivery
 r-unk
 t-unk
 p-no
 
-[04/11/2009][Twitter Worm: A Closer Look at What Happened]
+[04/11/2009]
+[Twitter Worm: A Closer Look at What Happened]
 http://www.pcworld.com/article/163054/twitter_mikeyy_worm_stalkdaily.html
 http://twitterstatus.tumblr.com/post/95332007/update-on-stalkdailycom-worm
 http://twitterstatus.tumblr.com/post/95693986/update-on-worm
@@ -457,48 +517,55 @@ t-unk
 p-no
 f-fix
 
-[04/11/2013][Issue with Links Contained within Tweets]
+[04/11/2013]
+[Issue with Links Contained within Tweets]
 http://twitterstatus.tumblr.com/post/47701778304/issue-with-links-contained-within-tweets
 r-unk
 t-unk
 i-op
 p-no
 
-[04/14/2009][We’re seeing much better site performance this morning; still working on missing tweets problem for some users]
+[04/14/2009]
+[We’re seeing much better site performance this morning; still working on missing tweets problem for some users]
 http://twitterstatus.tumblr.com/post/96147971/were-seeing-much-better-site-performance-this
 http://twitterstatus.tumblr.com/post/96196695/search-results-are-delayed-about-20-minutes
 r-unk
 t-unk
 p-no
 
-[04/16/2009][duplicate text messages]
+[04/16/2009]
+[duplicate text messages]
 http://twitterstatus.tumblr.com/post/96959513/duplicate-text-messages
 r-unk
 t-unk
 i-op
 p-no
 
-[04/17/2012][TweetDeck login issue]
+[04/17/2012]
+[TweetDeck login issue]
 http://twitterstatus.tumblr.com/post/21263579323/tweetdeck-log-in-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[04/18/2012][Profile Settings Issue]
+[04/18/2012]
+[Profile Settings Issue]
 http://twitterstatus.tumblr.com/post/21357519025/profile-settings-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[04/19/2009][site is slow]
+[04/19/2009]
+[site is slow]
 http://twitterstatus.tumblr.com/post/97946629/site-is-slow
 r-unk
 t-unk
 p-no
 
-[04/22/2009][Tracking down data inconsistencies]
+[04/22/2009]
+[Tracking down data inconsistencies]
 http://twitterstatus.tumblr.com/post/99180872/tracking-down-data-inconsistencies
 http://twitterstatus.tumblr.com/post/98960090/missing-user-images
 http://twitterstatus.tumblr.com/post/99012318/whats-the-deal-with-oauth
@@ -507,7 +574,8 @@ t-unk
 p-no
 f-fix
 
-[04/23/2009][Progress update on data inconsistency issue]
+[04/23/2009]
+[Progress update on data inconsistency issue]
 http://twitterstatus.tumblr.com/post/99514415/progress-update-on-data-inconsistency-issue
 http://twitterstatus.tumblr.com/post/99706258/cleanup-continues-profile-issues-and-direct
 r-unk
@@ -515,19 +583,22 @@ t-unk
 i-op
 p-no
 
-[04/26/2010][Outbound emails delayed for next 4-5 hours]
+[04/26/2010]
+[Outbound emails delayed for next 4-5 hours]
 http://twitterstatus.tumblr.com/post/552207312/outbound-emails-delayed-for-next-4-5-hours
 r-unk
 t-4h
 p-no
 
-[04/27/2009][Nearing the end of data cleanup project]
+[04/27/2009]
+[Nearing the end of data cleanup project]
 http://twitterstatus.tumblr.com/post/100725928/nearing-the-end-of-data-cleanup-project
 r-unk
 t-unk
 p-no
 
-[04/28/2009][Trouble deleting direct messages]
+[04/28/2009]
+[Trouble deleting direct messages]
 http://twitterstatus.tumblr.com/post/101193069/trouble-deleting-direct-messages
 http://twitterstatus.tumblr.com/post/101237008/fixing-the-elevated-error-rate
 r-unk
@@ -535,7 +606,8 @@ t-unk
 i-down
 p-no
 
-[04/29/2011][Elevated error rates on Twitter.com]
+[04/29/2011]
+[Elevated error rates on Twitter.com]
 http://twitterstatus.tumblr.com/post/5051753599/elevated-error-rates-on-twitter-com
 http://stats.pingdom.com/wx4vra365911/23773/2011/04
 r-unk
@@ -543,42 +615,48 @@ t-22m
 i-down
 p-no
 
-[05/01/2012][Twitter Site Issue- Resolved]
+[05/01/2012]
+[Twitter Site Issue- Resolved]
 http://twitterstatus.tumblr.com/post/22183459549/twitter-site-issue-resolved
 r-unk
 t-unk
 i-down
 p-no
 
-[05/01/2013][Photo Upload Issue]
+[05/01/2013]
+[Photo Upload Issue]
 http://twitterstatus.tumblr.com/post/49351191080/photo-upload-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[05/04/2009][Search running behind]
+[05/04/2009]
+[Search running behind]
 http://twitterstatus.tumblr.com/post/103533181/search-running-behind
 r-unk
 t-unk
 i-op
 p-no
 
-[05/05/2010][Site largely unavailable]
+[05/05/2010]
+[Site largely unavailable]
 http://twitterstatus.tumblr.com/post/575428225/site-largely-unavailable
 r-unk
 t-1h12m
 i-down
 p-no
 
-[05/05/2012][Twitter Site Issue]
+[05/05/2012]
+[Twitter Site Issue]
 http://twitterstatus.tumblr.com/post/22461580252/twitter-site-issue
 r-unk
 t-unk
 i-down
 p-no
 
-[05/08/2009][Planned maintenance tomorrow, Monday]
+[05/08/2009]
+[Planned maintenance tomorrow, Monday]
 http://twitterstatus.tumblr.com/post/104738920/planned-maintenance-tomorrow-monday
 http://twitterstatus.tumblr.com/post/105202075/back-from-site-maintenance-working-on-site
 r-upgrade
@@ -586,21 +664,24 @@ t-1h
 i-down
 p-yes
 
-[05/08/2012][TweetDeck Planned Maintenance]
+[05/08/2012]
+[TweetDeck Planned Maintenance]
 http://twitterstatus.tumblr.com/post/22658242281/tweetdeck-planned-maintenance
 r-upgrade
 t-unk
 i-down
 p-yes
 
-[05/09/2012][Profile/background Image upload issue]
+[05/09/2012]
+[Profile/background Image upload issue]
 http://twitterstatus.tumblr.com/post/22727475234/profile-background-image-upload-issues
 r-unk
 t-unk
 i-op
 p-no
 
-[05/13/2009][Temporary timeline delays]
+[05/13/2009]
+[Temporary timeline delays]
 http://twitterstatus.tumblr.com/post/107561169/temporary-timeline-delays
 r-fail
 t-1h
@@ -609,7 +690,8 @@ i-down
 p-no
 f-fix
 
-[05/13/2011][Twitter Down: 'Stability Issues' Cause Service Disruptions]
+[05/13/2011]
+[Twitter Down: 'Stability Issues' Cause Service Disruptions]
 http://www.huffingtonpost.com/2011/05/13/twitter-down-may-13_n_861727.html
 http://status.twitter.com/post/5453672511/experiencing-site-stability-issues
 http://stats.pingdom.com/wx4vra365911/23773/2011/05
@@ -618,69 +700,79 @@ r-unk
 i-down
 p-no
 
-[05/13/2014][Service issue]
+[05/13/2014]
+[Service issue]
 http://twitterstatus.tumblr.com/post/85654361638/service-issue
 t-unk
 r-unk
 i-op
 p-no
 
-[05/14/2009][unplanned downtime]
+[05/14/2009]
+[unplanned downtime]
 http://twitterstatus.tumblr.com/post/107824532/unplanned-downtime
 r-unk
 t-unk
 i-down
 p-no
 
-[05/19/2014][Tweet Display Delay in Home Timeline]
+[05/19/2014]
+[Tweet Display Delay in Home Timeline]
 http://twitterstatus.tumblr.com/post/86247488608/tweet-display-delay-in-home-timeline
 r-unk
 t-13m
 p-no
 
-[05/20/2009][User search temporarily unavailable]
+[05/20/2009]
+[User search temporarily unavailable]
 http://twitterstatus.tumblr.com/post/110639419/user-search-temporarily-unavailable
 r-unk
 t-unk
 i-op
 p-no
 
-[05/20/2012][Image upload issue]
+[05/20/2012]
+[Image upload issue]
 http://twitterstatus.tumblr.com/post/23437927667/image-upload-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[05/21/2009][Fixing robot errors]
+[05/21/2009]
+[Fixing robot errors]
 http://twitterstatus.tumblr.com/post/111054487/fixing-robot-errors
 r-unk
 t-unk
 i-down
 p-no
 
-[05/22/2009][Search temporarily down]
+[05/22/2009]
+[Search temporarily down]
 http://twitterstatus.tumblr.com/post/111769727/search-temporarily-down
 r-unk
 t-unk
 i-op
 p-no
 
-[05/23/2013][Twitter Service Issue]
+[05/23/2013]
+[Twitter Service Issue]
 http://twitterstatus.tumblr.com/post/51182356736/twitter-service-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[05/24/2012][Twitter Site Issue]
+[05/24/2012]
+[Twitter Site Issue]
 http://twitterstatus.tumblr.com/post/23683509180/twitter-site-issue
 r-unk
 t-unk
 i-down
 p-no
 
-[05/27/2009][Working through site latency]
+[05/27/2009]
+[Working through site latency]
 http://twitterstatus.tumblr.com/post/113959453/working-through-site-latency
 http://twitterstatus.tumblr.com/post/113891094/recovering-from-unplanned-downtime
 r-unk
@@ -688,21 +780,24 @@ t-unk
 i-down
 p-no
 
-[05/28/2009][Unable to create new accounts]
+[05/28/2009]
+[Unable to create new accounts]
 http://twitterstatus.tumblr.com/post/114566780/unable-to-create-new-accounts
 r-upgrade
 t-unk
 i-op
 p-no
 
-[05/28/2012][Profile/Background Image Upload Issues]
+[05/28/2012]
+[Profile/Background Image Upload Issues]
 http://twitterstatus.tumblr.com/post/23926833510/profile-background-image-upload-issues
 r-unk
 t-unk
 i-op
 p-no
 
-[05/30/2009][Accounts suspended for cleanup]
+[05/30/2009]
+[Accounts suspended for cleanup]
 http://twitterstatus.tumblr.com/post/115418210/accounts-suspended-for-cleanup
 http://twitterstatus.tumblr.com/post/115395461/best-video-not-so-great-were-working-on-it
 http://twitterstatus.tumblr.com/post/115523264/unscheduled-downtime
@@ -711,34 +806,39 @@ t-unk
 p-no
 f-restore
 
-[06/01/2009][Trouble updating profile settings]
+[06/01/2009]
+[Trouble updating profile settings]
 http://twitterstatus.tumblr.com/post/116659950/trouble-updating-profile-settings
 r-unk
 t-unk
 i-op
 p-no
 
-[06/01/2012][Image Upload Issue]
+[06/01/2012]
+[Image Upload Issue]
 http://twitterstatus.tumblr.com/post/24213556741/image-upload-issue
 t-unk
 r-unk
 i-op
 p-no
 
-[06/02/2009][All tweets credited as coming from web]
+[06/02/2009]
+[All tweets credited as coming from web]
 http://twitterstatus.tumblr.com/post/116882596/all-tweets-credited-as-coming-from-web
 r-unk
 t-unk
 i-op
 p-no
 
-[06/03/2009][Delayed followings]
+[06/03/2009]
+[Delayed followings]
 http://twitterstatus.tumblr.com/post/117482837/delayed-followings
 r-unk
 t-unk
 p-no
 
-[06/03/2013][Twitter Site Issue]
+[06/03/2013]
+[Twitter Site Issue]
 http://twitterstatus.tumblr.com/post/52079734757/twitter-site-issue
 http://www.infoworld.com/article/2606768/cloud-computing/107783-The-worst-cloud-outages-of-2013-so-far.html#slide19
 http://articles.chicagotribune.com/2013-06-03/business/chi-twitter-outage-20130603_1_outage-tweets-microblogging-service
@@ -750,21 +850,24 @@ i-down
 f-roll
 p-no
 
-[06/05/2009][One hour of planned maintenance Friday 8p Pacific]
+[06/05/2009]
+[One hour of planned maintenance Friday 8p Pacific]
 http://twitterstatus.tumblr.com/post/118301197/one-hour-of-planned-maintenance-friday-8p-pacific
 r-upgrade
 t-1h
 i-down
 p-yes
 
-[06/05/2014][brief service issue]
+[06/05/2014]
+[brief service issue]
 http://twitterstatus.tumblr.com/post/87929090503/brief-service-issue
 r-fail
 t-19m
 i-op
 p-no
 
-[06/08/2010][OH, HEY, FAIL WHALE, WHAT UP?]
+[06/08/2010]
+[OH, HEY, FAIL WHALE, WHAT UP?]
 http://www.inquisitr.com/75281/twitter-outages-june-2010/
 http://twitterstatus.tumblr.com/post/677213273/site-availability-issues
 t-1h
@@ -772,32 +875,37 @@ r-unk
 i-down
 p-no
 
-[06/09/2010][Site availability issues]
+[06/09/2010]
+[Site availability issues]
 http://twitterstatus.tumblr.com/post/680470291/site-availability-issues
 r-fail
 t-5h18m
 p-no
 
-[06/10/2009][SMS delivery delays]
+[06/10/2009]
+[SMS delivery delays]
 http://twitterstatus.tumblr.com/post/121298103/sms-delivery-delays
 r-unk
 t-unk
 p-no
 
-[06/11/2010][Is the World Cup Bringing Down Twitter?]
+[06/11/2010]
+[Is the World Cup Bringing Down Twitter?]
 http://stats.pingdom.com/wx4vra365911/23773/2010/06
 http://status.twitter.com/post/687390666/high-error-rate-on-twitter-com
 t-unk
 p-no
 
-[06/12/2009][search delay]
+[06/12/2009]
+[search delay]
 http://twitterstatus.tumblr.com/post/122606485/search-delay
 r-unk
 t-unk
 i-op
 p-no
 
-[06/13/2010][Site-wide availability issues.]
+[06/13/2010]
+[Site-wide availability issues.]
 http://twitterstatus.tumblr.com/post/693377858/site-wide-availability-issues
 http://twitterstatus.tumblr.com/post/694019720/bursts-of-errors
 r-upgrade
@@ -806,7 +914,8 @@ p-no
 i-down
 t-4h40m
 
-[06/14/2010][Site Availability Issues Due to Failed Enhancement of Our Timeline Cache]
+[06/14/2010]
+[Site Availability Issues Due to Failed Enhancement of Our Timeline Cache]
 http://twitterstatus.tumblr.com/post/699623494/site-availability-issues-due-to-failed-enhancement
 http://twitterstatus.tumblr.com/post/697956375/working-on-incorrect-tweet-counts
 r-upgrade
@@ -814,42 +923,48 @@ t-5h54m
 f-restore
 p-no
 
-[06/15/2009][Maintenance window tonight, 9:45p Pacific]
+[06/15/2009]
+[Maintenance window tonight, 9:45p Pacific]
 http://twitterstatus.tumblr.com/post/124145031/maintenance-window-tonight-9-45p-pacific
 r-upgrade
 t-unk
 i-down
 p-yes
 
-[06/16/2010][Network Maintenance June 16th @ 13:00-14:30 UTC (6-7:30AM PDT)]
+[06/16/2010]
+[Network Maintenance June 16th @ 13:00-14:30 UTC (6-7:30AM PDT)]
 http://twitterstatus.tumblr.com/post/704415654/network-maintenance-june-16th-13-00-14-30-utc
 t-30m
 r-upgrade
 i-down
 p-yes
 
-[06/17/2009][SMS delivery issues]
+[06/17/2009]
+[SMS delivery issues]
 http://twitterstatus.tumblr.com/post/125333318/sms-delivery-issues
 r-unk
 t-unk
 i-op
 p-no
 
-[06/17/2010][Twitter Unavailable]
+[06/17/2010]
+[Twitter Unavailable]
 http://twitterstatus.tumblr.com/post/709347163/twitter-unavailable
 r-unk
 t-39m
 i-down
 p-no
 
-[06/19/2012][Email delivery issues]
+[06/19/2012]
+[Email delivery issues]
 http://twitterstatus.tumblr.com/post/25457569817/email-delivery-issues
 r-unk
 t-unk
 i-op
 p-no
 
-[06/21/2012][Twitter Down For Many On June 21 (UPDATES)]
+[06/21/2012]
+[Twitter Down For Many On June 21 (UPDATES)]
 http://www.huffingtonpost.com/2012/06/21/twitter-down-june-21_n_1616551.html
 http://www.thewhir.com/web-hosting-news/twitter-blames-first-major-outage-in-six-months-on-cascading-bug-not-hackers
 http://twitterstatus.tumblr.com/post/25581031732/twitter-site-issue
@@ -862,47 +977,54 @@ i-down
 p-no
 f-roll
 
-[06/25/2009][Search results temporarily disabled from logged-in homepage]
+[06/25/2009]
+[Search results temporarily disabled from logged-in homepage]
 http://twitterstatus.tumblr.com/post/130350715/search-results-temporarily-disabled-from-logged-in
 r-unk
 t-unk
 i-op
 p-no
 
-[06/29/2010][Site Tweaks]
+[06/29/2010]
+[Site Tweaks]
 http://twitterstatus.tumblr.com/post/750140886/site-tweaks
 r-unk
 t-11h49m
 i-op
 p-yes
 
-[07/02/2013][Investigating Elevated Error Rates]
+[07/02/2013]
+[Investigating Elevated Error Rates]
 http://twitterstatus.tumblr.com/post/761957887/investigating-elevated-error-rates
 r-unk
 t-unk
 i-down
 p-no
 
-[07/13/2010][SSL Issue]
+[07/13/2010]
+[SSL Issue]
 http://twitterstatus.tumblr.com/post/808469968/ssl-issue
 r-bug
 t-unk
 p-no
 
-[07/18/2011][Experiencing site stability issues]
+[07/18/2011]
+[Experiencing site stability issues]
 http://status.twitter.com/post/7781968536/experiencing-site-stability-issues
 http://stats.pingdom.com/wx4vra365911/23773/2011/07
 r-unk
 t-20m
 p-no
 
-[07/18/2015][Stale Timeline Issue]
+[07/18/2015]
+[Stale Timeline Issue]
 http://twitterstatus.tumblr.com/post/124550411718/stale-timeline-issue
 r-unk
 t-18m
 p-no
 
-[07/26/2012][Twitter: Our apologies for today’s outage.]
+[07/26/2012]
+[Twitter: Our apologies for today’s outage.]
 http://twitterstatus.tumblr.com/post/28057350532/twitter-site-issue-resolved
 http://www.huffingtonpost.com/2012/07/26/twitter-down-gchat_n_1706103.html
 http://www.huffingtonpost.com/2012/07/26/twitter-outage-cause_n_1706097.html
@@ -913,7 +1035,8 @@ t-2h20m
 i-down
 p-no
 
-[07/27/2010][SSL Certificate Errors]
+[07/27/2010]
+[SSL Certificate Errors]
 http://twitterstatus.tumblr.com/post/867430677/ssl-certificate-errors
 http://twitterstatus.tumblr.com/post/867427356/ssl-certificate-errors
 r-bug
@@ -921,7 +1044,8 @@ t-unk
 i-op
 p-no
 
-[07/31/2010][Scheduled Downtime Duration]
+[07/31/2010]
+[Scheduled Downtime Duration]
 http://twitterstatus.tumblr.com/post/887078739/scheduled-downtime-duration
 http://twitterstatus.tumblr.com/post/881383317/planned-network-maintenance-saturday-july-31st
 r-upgrade
@@ -929,7 +1053,8 @@ t-5h
 i-down
 p-yes
 
-[08/06/2009][Twitter and Facebook DDoS Attacks Targeted One Man]
+[08/06/2009]
+[Twitter and Facebook DDoS Attacks Targeted One Man]
 http://mashable.com/2009/08/06/twitter-facebook-2/
 http://twitterstatus.tumblr.com/post/113531994/phishing-scam
 http://mashable.com/2009/08/06/twitter-down/
@@ -938,21 +1063,24 @@ t-30m
 i-down
 p-no
 
-[08/06/2013][Accessing twitter]
+[08/06/2013]
+[Accessing twitter]
 http://twitterstatus.tumblr.com/post/57549594622/accessing-twitter
 r-upgrade
 t-24m
 i-down
 p-no
 
-[08/24/2010][A known API issue is causing some clients to crash]
+[08/24/2010]
+[A known API issue is causing some clients to crash]
 http://twitterstatus.tumblr.com/post/1004400550/a-known-api-issue-is-causing-some-clients-to-crash
 r-unk
 t-unk
 i-op
 p-no
 
-[08/27/2013][Twitter service issue]
+[08/27/2013]
+[Twitter service issue]
 http://twitterstatus.tumblr.com/post/59528478030/twitter-service-issue
 r-fail
 r-config
@@ -960,28 +1088,32 @@ t-1h40m
 i-op
 p-no
 
-[08/28/2015][Service issue]
+[08/28/2015]
+[Service issue]
 http://twitterstatus.tumblr.com/post/127819343633/service-issue
 r-unk
 t-19m
 p-no
 i-down
 
-[08/31/2010][Potential Errors Due to Maintenance ]
+[08/31/2010]
+[Potential Errors Due to Maintenance ]
 http://twitterstatus.tumblr.com/post/1045402781/potential-errors-due-to-maintenance
 r-upgrade
 i-op
 t-unk
 p-yes
 
-[08/31/2015][Twitter.com service impact]
+[08/31/2015]
+[Twitter.com service impact]
 http://twitterstatus.tumblr.com/post/128078726508/service-issue
 r-unk
 t-41m
 p-no
 i-down
 
-[09/01/2010][Potential Errors Due to Maintenance]
+[09/01/2010]
+[Potential Errors Due to Maintenance]
 http://twitterstatus.tumblr.com/post/1050893489/potential-errors-due-to-maintenance
 http://twitterstatus.tumblr.com/post/1050106371/log-in-issues-for-users-of-some-mobile-clients
 r-upgrade
@@ -989,28 +1121,32 @@ t-unk
 i-op
 p-yes
 
-[09/04/2013][Twitter site issue]
+[09/04/2013]
+[Twitter site issue]
 http://twitterstatus.tumblr.com/post/60295900552/twitter-site-issue
 t-31m
 r-bug
 i-down
 p-no
 
-[09/14/2011][Twitter Down: Users Report Outage On Facebook]
+[09/14/2011]
+[Twitter Down: Users Report Outage On Facebook]
 http://www.huffingtonpost.com/2011/09/14/twitter-down_n_963014.html
 r-unk
 i-down
 t-75m
 p-no
 
-[09/14/2015][Twitter.com service impact]
+[09/14/2015]
+[Twitter.com service impact]
 http://twitterstatus.tumblr.com/post/129089856308/twittercom-service-impact
 r-unk
 t-54m
 p-no
 i-down
 
-[09/22/2009][Twitpocalypse II: Twitter Apps Might Break Tomorrow]
+[09/22/2009]
+[Twitpocalypse II: Twitter Apps Might Break Tomorrow]
 http://mashable.com/2009/09/21/twitpocalypse-ii-update/
 r-upgrade
 t-unk
@@ -1018,21 +1154,24 @@ i-op
 p-yes
 f-fix
 
-[09/29/2010][Recovering from Streaming API issue]
+[09/29/2010]
+[Recovering from Streaming API issue]
 http://twitterstatus.tumblr.com/post/1210596976/recovering-from-streaming-api-issue
 r-unk
 t-5h
 i-op
 p-no
 
-[10/04/2010][Experiencing high error rates]
+[10/04/2010]
+[Experiencing high error rates]
 http://twitterstatus.tumblr.com/post/1243709031/experiencing-high-error-rates
 t-2h20m
 r-unk
 i-op
 p-no
 
-[10/06/2011][Twitter Site Issue]
+[10/06/2011]
+[Twitter Site Issue]
 http://twitterstatus.tumblr.com/post/11130259596/twitter-site-issue
 http://stats.pingdom.com/wx4vra365911/23773/2011/10
 r-unk
@@ -1040,7 +1179,8 @@ t-1h1m
 i-down
 p-no
 
-[10/08/2012][Twitter outage caused by human error, domain briefly yanked]
+[10/08/2012]
+[Twitter outage caused by human error, domain briefly yanked]
 http://www.cnet.com/news/twitter-outage-caused-by-human-error-domain-briefly-yanked/
 r-cross
 r-admin
@@ -1049,14 +1189,16 @@ t-40m
 i-down
 p-no
 
-[10/09/2015][Twitter went down, but now it’s back]
+[10/09/2015]
+[Twitter went down, but now it’s back]
 http://www.businessinsider.co.id/twitter-is-down-2015-10/?r=US&IR=T#.V0CGymF969k
 r-unk
 t-10m
 p-no
 i-down
 
-[10/11/2013][Issue viewing timelines]
+[10/11/2013]
+[Issue viewing timelines]
 http://twitterstatus.tumblr.com/post/63765159379/issue-viewing-timelines
 r-bug
 t-5m
@@ -1064,49 +1206,56 @@ i-down
 p-no
 f-roll
 
-[10/20/2014][service issue]
+[10/20/2014]
+[service issue]
 http://twitterstatus.tumblr.com/post/100522661788/service-issue
 r-fail
 t-28m
 i-op
 p-no
 
-[10/21/2010][Database Maintenance Today]
+[10/21/2010]
+[Database Maintenance Today]
 http://twitterstatus.tumblr.com/post/1367581151/database-maintenance-today
 r-upgrade
 t-unk
 i-down
 p-yes
 
-[10/24/2010][Experiencing elevated error rates]
+[10/24/2010]
+[Experiencing elevated error rates]
 http://twitterstatus.tumblr.com/post/1390480236/experiencing-elevated-error-rates
 r-unk
 t-unk
 i-down
 p-no
 
-[10/24/2014][service issue]
+[10/24/2014]
+[service issue]
 http://twitterstatus.tumblr.com/post/100881862808/service-issue
 r-unk
 t-34m
 i-op
 p-no
 
-[11/10/2014][service issue]
+[11/10/2014]
+[service issue]
 http://twitterstatus.tumblr.com/post/102300469523/service-issue
 r-unk
 t-30m
 i-op
 p-no
 
-[11/11/2013][Brief mobile service issue]
+[11/11/2013]
+[Brief mobile service issue]
 http://twitterstatus.tumblr.com/post/66717974698/brief-mobile-service-issue
 t-14m
 r-unk
 i-op
 p-no
 
-[11/14/2011][Twitter Down: Service Disruptions Confirmed On Monday]
+[11/14/2011]
+[Twitter Down: Service Disruptions Confirmed On Monday]
 http://www.huffingtonpost.com/2011/11/14/twitter-down-likely-service-disruption_n_1093611.html
 http://twitterstatus.tumblr.com/post/12803438237/twitter-site-issue
 http://stats.pingdom.com/wx4vra365911/23773/2011/10
@@ -1115,14 +1264,16 @@ i-down
 t-1h
 p-no
 
-[11/19/2015][Service issue]
+[11/19/2015]
+[Service issue]
 http://twitterstatus.tumblr.com/post/133544525543/service-issue
 r-unk
 t-20m
 p-no
 i-down
 
-[12/06/2009][Responding to whales]
+[12/06/2009]
+[Responding to whales]
 http://twitterstatus.tumblr.com/post/272315876/responding-to-whales
 http://techcrunch.com/2009/12/06/twitter-day-off/
 r-unk
@@ -1130,21 +1281,24 @@ i-down
 t-30m
 p-no
 
-[12/11/2014][service issue]
+[12/11/2014]
+[service issue]
 http://twitterstatus.tumblr.com/post/104973862588/service-issue
 r-unk
 t-40m
 i-op
 p-no
 
-[12/14/2009][SMS service temporarily unavailable, we are working on the problem]
+[12/14/2009]
+[SMS service temporarily unavailable, we are working on the problem]
 http://twitterstatus.tumblr.com/post/283934158/sms-service-temporarily-unavailable-we-are
 r-unk
 t-unk
 i-op
 p-no
 
-[12/14/2011][Twitter's Outage Is Its Biggest in 8 Months]
+[12/14/2011]
+[Twitter's Outage Is Its Biggest in 8 Months]
 http://mashable.com/2012/06/21/twitters-outage-biggest-in-8-months/#ZOepoqoWWmq2
 http://stats.pingdom.com/wx4vra365911/23773/2011/12
 r-unk
@@ -1152,49 +1306,56 @@ t-1h
 i-down
 p-no
 
-[12/17/2009][Known issues: timeline delays and missing tweets. Retweet back up.]
+[12/17/2009]
+[Known issues: timeline delays and missing tweets. Retweet back up.]
 http://twitterstatus.tumblr.com/post/287676075/known-issues-timeline-delays-and-missing-tweets
 t-unk
 r-unk
 i-loss
 p-no
 
-[12/18/2010][Streaming Outage]
+[12/18/2010]
+[Streaming Outage]
 http://twitterstatus.tumblr.com/post/2369720246/streaming-outage
 r-unk
 t-unk
 i-op
 p-no
 
-[12/22/2010][Twitter down for some users]
+[12/22/2010]
+[Twitter down for some users]
 http://twitterstatus.tumblr.com/post/2419359354/twitter-down-for-some-users
 r-unk
 t-unk
 i-down
 p-no
 
-[12/23/2009][Working on critical issue involving undelivered tweets ]
+[12/23/2009]
+[Working on critical issue involving undelivered tweets ]
 http://twitterstatus.tumblr.com/post/297424154/working-on-critical-issue-involving-undelivered
 r-unk
 t-unk
 i-op
 p-no
 
-[12/25/2010][Site availability issues ]
+[12/25/2010]
+[Site availability issues ]
 http://twitterstatus.tumblr.com/post/2459228829/site-availability-issues
 r-unk
 t-unk
 i-down
 p-no
 
-[12/25/2012][Photo Upload Issue]
+[12/25/2012]
+[Photo Upload Issue]
 http://twitterstatus.tumblr.com/post/38799068981/photo-upload-issue
 r-unk
 t-unk
 i-op
 p-no
 
-[12/28/2014][sign in issue]
+[12/28/2014]
+[sign in issue]
 http://twitterstatus.tumblr.com/post/106461837558/sign-in-issue
 http://www.theregister.co.uk/2014/12/29/twitter_outage/
 t-5h25m
@@ -1202,7 +1363,8 @@ r-bug
 i-op
 p-no
 
-[12/31/2011][Twitter Site Back After 90-Minute Outage (UPDATED)]
+[12/31/2011]
+[Twitter Site Back After 90-Minute Outage (UPDATED)]
 http://mashable.com/2011/12/31/twitter-is-down-2/
 http://twitterstatus.tumblr.com/post/15083740060/twitter-site-issue
 http://stats.pingdom.com/wx4vra365911/23773/2011/12

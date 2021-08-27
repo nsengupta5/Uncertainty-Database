@@ -1,5 +1,6 @@
 
-[04/21/2011][Summary of the Amazon EC2 and Amazon RDS Service Disruption in the US East Region]
+[04/21/2011]
+[Summary of the Amazon EC2 and Amazon RDS Service Disruption in the US East Region]
 http://aws.amazon.com/message/65648/
 http://arstechnica.com/business/2011/04/amazons-lengthy-cloud-outage-shows-the-danger-of-complexity/
 r-config
@@ -12,7 +13,8 @@ f-add
 f-restore
 p-no
 
-[05/08/2010][Amazon Addresses EC2 Power Outages]
+[05/08/2010]
+[Amazon Addresses EC2 Power Outages]
 http://www.datacenterknowledge.com/archives/2010/05/10/amazon-addresses-ec2-power-outages/
 r-cross
 i-down
@@ -21,7 +23,8 @@ t-7h
 p-no
 f-cross
 
-[08/07/2011][Summary of the Amazon EC2, Amazon EBS, and Amazon RDS Service Event in the EU West Region]
+[08/07/2011]
+[Summary of the Amazon EC2, Amazon EBS, and Amazon RDS Service Event in the EU West Region]
 http://aws.amazon.com/message/2329B7/
 http://readwrite.com/2011/08/08/amazons-ireland-services-still
 r-natdis
@@ -32,7 +35,8 @@ p-no
 f-restore
 f-fix
 
-[08/26/2013][Another Amazon Outage Exposes the Cloud's Dark Lining]
+[08/26/2013]
+[Another Amazon Outage Exposes the Cloud's Dark Lining]
 http://www.businessweek.com/articles/2013-08-26/another-amazon-outage-exposes-the-clouds-dark-lining
 http://www.theregister.co.uk/2013/08/26/amazon_ebs_cloud_problems/
 r-fail
@@ -41,7 +45,8 @@ t-49m
 f-fix
 p-no
 
-[10/22/2012][Summary of the October 22, 2012 AWS Service Event in the US-East Region]
+[10/22/2012]
+[Summary of the October 22, 2012 AWS Service Event in the US-East Region]
 http://aws.amazon.com/message/680342/
 http://www.networkworld.com/article/2160902/cloud-computing/amazon-ebs-failure-brings-down-reddit--imgur--others.html
 r-fail
