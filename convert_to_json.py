@@ -3,7 +3,7 @@ import os
 import codecs
 import re
 
-directory = "./raw-public"
+directory = "./raw-public/txt-files"
 
 for files in os.listdir(directory):
     file = os.path.join(directory, files)
