@@ -1,0 +1,726 @@
+{
+    "Case 1": {
+        "date": "01/27/2016",
+        "title": "...",
+        "links": [
+            {
+                "url": "http://www.dailymail.co.uk/sciencetech/article-3419088/Safari-outage-affects-iPhone-iPad-users-worldwide.html"
+            },
+            {
+                "url": "http://www.techtimes.com/articles/128496/20160128/apple-crushes-safari-bug-that-caused-crashes-on-mac-and-ios-worldwide.htm"
+            }
+        ],
+        "duration": "",
+        "planned": "",
+        "causes": [],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "02/22/2013",
+        "title": "Apple's App Store, iTunes back online after outages",
+        "links": [
+            {
+                "url": "http://www.cnet.com/news/apples-app-store-itunes-back-online-after-outages/"
+            },
+            {
+                "url": "http://9to5mac.com/2013/02/21/apple-confirms-app-store-itunes-and-calendar-outages-services-still-down-for-many/"
+            }
+        ],
+        "duration": "6h55m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "02/28/2013",
+        "title": "iCloud had a big hiccup this morning, several services still experiencing problems",
+        "links": [
+            {
+                "url": "http://gigaom.com/2013/02/28/icloud-had-a-big-hiccup-this-morning-several-services-still-experiencing-problems/"
+            },
+            {
+                "url": "http://iwgcr.org/apples-icloud-suffers-an-outage/"
+            },
+            {
+                "url": "http://www.gottabemobile.com/2013/02/28/pandora-places-a-cap-on-streaming/"
+            },
+            {
+                "url": "http://www.intomobile.com/2013/02/28/widespread-service-outage-affects-half-all-icloud-users/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/1016-apple-inc-icloud"
+            },
+            {
+                "url": "http://9to5mac.com/2013/02/28/icloud-hasnt-had-its-coffee-yet-today-folks-multiple-services-remain-down/"
+            }
+        ],
+        "duration": "10h45m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "03/11/2015",
+        "title": "Apple ITunes, App Stores Reopen After Unusually Long Outage",
+        "links": [
+            {
+                "url": "http://www.crn.com/slide-shows/cloud/300077635/the-10-biggest-cloud-outages-of-2015-so-far.htm/pgno/0/5"
+            },
+            {
+                "url": "http://www.bloomberg.com/news/articles/2015-03-11/apple-s-itunes-and-app-stores-experience-outages-worldwide?hootPostID=56aa160ad6b27fd647080f4534ebbb13"
+            }
+        ],
+        "duration": "12h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "04/17/2012",
+        "title": "iCloud Mail Down",
+        "links": [
+            {
+                "url": "http://z6mag.com/featured/apple-icloud-is-down-for-less-than-1-percent-of-users-167943.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            },
+            {
+                "implication": "loss"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "04/18/2013",
+        "title": "Apple's iCloud problems persist with two new service outages",
+        "links": [
+            {
+                "url": "http://appleinsider.com/articles/13/04/19/apples-icloud-problems-persist-with-two-new-service-outages"
+            }
+        ],
+        "duration": "27h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "04/23/2013",
+        "title": "Apple's iCloud services again hit by global outage",
+        "links": [
+            {
+                "url": "http://appleinsider.com/articles/13/04/23/apples-icloud-services-again-hit-by-global-outage"
+            },
+            {
+                "url": "http://cloutage.org/incidents/619-apple-game-center-itunes-icloud-apple-id"
+            }
+        ],
+        "duration": "5h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "05/07/2015",
+        "title": "TestFlight Experiencing Extended Downtime for Many Developers",
+        "links": [
+            {
+                "url": "http://www.macrumors.com/2015/05/07/testflight-itunes-connect-down-may-2015/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "05/21/2015",
+        "title": "iCloud back up and running after 7-hour outage",
+        "links": [
+            {
+                "url": "http://www.cloudpro.co.uk/saas/5104/icloud-back-up-and-running-after-7-hour-outage"
+            },
+            {
+                "url": "http://www.crn.com/slide-shows/cloud/300077635/the-10-biggest-cloud-outages-of-2015-so-far.htm/pgno/0/9"
+            },
+            {
+                "url": "http://talkincloud.com/cloud-computing/06172015/7-worst-cloud-outages-2015-so-far#slide-5-field_images-46431"
+            }
+        ],
+        "duration": "7h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "06/02/2015",
+        "title": "It\u2019s not just you: iCloud is down again, other Apple web services affected",
+        "links": [
+            {
+                "url": "http://9to5mac.com/2015/06/02/icloud-down-again/"
+            },
+            {
+                "url": "http://www.macrumors.com/2015/06/02/icloud-and-itunes-experiencing-widespread-outage/"
+            },
+            {
+                "url": "http://appleinsider.com/articles/15/06/02/icloud-itunes-again-hit-with-global-outages-impacting-important-services"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 11": {
+        "date": "06/12/2014",
+        "title": "App Store, iTunes Store, Apple TV features currently facing server problems, inaccessible for some users",
+        "links": [
+            {
+                "url": "http://9to5mac.com/2014/06/12/app-store-itunes-store-apple-tv-features-currently-facing-server-problems-inaccessible-for-some-users/"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide11"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 12": {
+        "date": "06/20/2012",
+        "title": "iCloud outage prevents some iMessages from being delivered",
+        "links": [
+            {
+                "url": "http://appleinsider.com/articles/12/06/20/icloud_outage_prevents_some_imessages_from_being_delivered"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "06/25/2013",
+        "title": "Apple's iCloud and iTunes see service outages, 20% of users affected",
+        "links": [
+            {
+                "url": "http://appleinsider.com/articles/13/06/27/apples-icloud-and-itunes-see-service-outages-20-of-users-affected"
+            }
+        ],
+        "duration": "45m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 14": {
+        "date": "06/26/2013",
+        "title": "Apple's iCloud and iTunes see service outages, 20% of users affected",
+        "links": [
+            {
+                "url": "http://appleinsider.com/articles/13/06/27/apples-icloud-and-itunes-see-service-outages-20-of-users-affected"
+            }
+        ],
+        "duration": "80m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 15": {
+        "date": "07/21/2013",
+        "title": "Apple's Developer Center Coming Back Online After 8 Day Outage",
+        "links": [
+            {
+                "url": "http://www.macrumors.com/2013/07/26/apples-developer-center-coming-back-online-after-8-day-outage/"
+            },
+            {
+                "url": "http://venturebeat.com/2013/07/21/apples-developer-website-hacked/"
+            },
+            {
+                "url": "http://www.macrumors.com/2013/07/19/apples-developer-center-experiences-daylong-outage/"
+            }
+        ],
+        "duration": "8d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "sec"
+            }
+        ],
+        "implications": [],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 16": {
+        "date": "07/31/2012",
+        "title": "Apple confirms iCloud email outage for some, App Store and iMessage hiccups reported",
+        "links": [
+            {
+                "url": "http://www.idownloadblog.com/2012/07/31/app-store-icloud-imessage-issues/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "loss"
+            },
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "restore"
+            }
+        ]
+    },
+    "Case 17": {
+        "date": "08/22/2013",
+        "title": "Users Experiencing Extended iMessage, iCloud Service Outages",
+        "links": [
+            {
+                "url": "http://www.macrumors.com/2013/08/22/users-experiencing-extended-imessage-icloud-service-outages/"
+            },
+            {
+                "url": "http://venturebeat.com/2013/08/22/icloud-outage-cuts-users-off-from-imessage-photo-stream-and-other-apple-services/"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide12"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide13"
+            }
+        ],
+        "duration": "11h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 18": {
+        "date": "09/03/2014",
+        "title": "APPLE STATEMENT ON CELEBRITY HACKING: OUR SYSTEMS WEREN\u2019T BREACHED",
+        "links": [
+            {
+                "url": "http://www.businessinsider.co.id/apple-statement-on-celebrity-hacking-2014-9/#.VPfECMiUfDE"
+            },
+            {
+                "url": "http://www.businessinsider.co.id/apple-six-hour-itunes-store-outage-2014-9/#.VPe-AsiUfDE"
+            },
+            {
+                "url": "http://appleinsider.com/articles/14/09/03/apples-itunes-store-hit-with-hours-long-outage-affecting-music-app-and-e-book-downloads"
+            }
+        ],
+        "duration": "6h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 19": {
+        "date": "09/11/2012",
+        "title": "iCloud Mail Outage Enters Second Day for Some Users",
+        "links": [
+            {
+                "url": "http://www.macrumors.com/2012/09/12/icloud-mail-outage-enters-second-day-for-some-users/"
+            },
+            {
+                "url": "http://iwgcr.org/icloud-mail-30-hours-of-difficulties/"
+            },
+            {
+                "url": "http://www.cnet.com/news/icloud-outage-affecting-users-for-two-days-running/"
+            },
+            {
+                "url": "http://www.macworld.com/article/1168577/icloud_outage_strikes_discordant_tone_with_professional_musician.html"
+            }
+        ],
+        "duration": "30h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 20": {
+        "date": "09/30/2014",
+        "title": "Apple woes continue: Some reporting iCloud down across iOS, Mac, and web",
+        "links": [
+            {
+                "url": "http://9to5mac.com/2014/09/29/apple-woes-continue-some-reporting-icloud-down-across-ios-mac-and-web/"
+            },
+            {
+                "url": "http://9to5mac.com/2014/09/29/icloud-bug-reset-delete-iwork-documents/"
+            },
+            {
+                "url": "http://www.geekwire.com/2014/hold-onto-iphones-icloud/"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 21": {
+        "date": "10/02/2013",
+        "title": "It\u2019s Not You \u2013 How To Know When Apple Services Are Down",
+        "links": [
+            {
+                "url": "http://www.cultofmac.com/248131/its-not-you-how-to-know-when-apple-services-are-down/"
+            }
+        ],
+        "duration": "1h29m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 22": {
+        "date": "10/08/2013",
+        "title": "Overnight outage of Apple's iCloud, online store lingers for hours",
+        "links": [
+            {
+                "url": "http://appleinsider.com/articles/13/10/09/apples-icloud-down-for-some-users-online-store-down-until-until-4am"
+            }
+        ],
+        "duration": "3h30m",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 23": {
+        "date": "10/13/2011",
+        "title": "Apple Just Can't Keep iCloud In the Air",
+        "links": [
+            {
+                "url": "http://gizmodo.com/5961893/apple-just-cant-keep-icloud-in-the-air"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 24": {
+        "date": "10/25/2012",
+        "title": "Apple's iMessage down for many iOS and OS X users",
+        "links": [
+            {
+                "url": "http://appleinsider.com/articles/12/10/25/apples-imessage-down-for-many-ios-and-os-x-users"
+            }
+        ],
+        "duration": "3h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 25": {
+        "date": "10/30/2012",
+        "title": "Briefly: iMessage and FaceTime facing second outage in less than a week",
+        "links": [
+            {
+                "url": "http://appleinsider.com/articles/12/10/30/briefly-imessage-and-facetime-facing-second-widespread-outage-in-less-than-a-week"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 26": {
+        "date": "11/11/2011",
+        "title": "Apple\u2019s iCloud services suffer afternoon outage",
+        "links": [
+            {
+                "url": "http://www.washingtonpost.com/business/technology/apples-icloud-services-suffer-afternoon-outage/2011/11/11/gIQAqVE0CN_story.html"
+            },
+            {
+                "url": "http://www.cultofmac.com/129461/apple-and-users-reporting-icloud-outages-are-you-affected/"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 27": {
+        "date": "11/12/2012",
+        "title": "iCloud experienced minor service outage affecting Documents, Photo Stream and Backup & Restore",
+        "links": [
+            {
+                "url": "http://thenextweb.com/apple/2012/11/13/icloud-experiencing-minor-service-outage-affecting-documents-photo-stream-and-backup-restore/"
+            }
+        ],
+        "duration": "1h56m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 28": {
+        "date": "12/16/2011",
+        "title": "iCloud authentication issues from last night resolved",
+        "links": [
+            {
+                "url": "http://www.phonearena.com/news/iCloud-authentication-issues-from-last-night-resolved_id24843"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 29": {
+        "date": "12/17/2012",
+        "title": "Most of Apple\u2019s iCloud services undergoing service disruptions",
+        "links": [
+            {
+                "url": "http://thenextweb.com/apple/2012/12/18/most-of-apples-icloud-services-undergoing-service-disruptions/"
+            },
+            {
+                "url": "http://appleinsider.com/articles/12/12/17/apples-icloud-sees-more-outages-following-icloud-status-webpage-update"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    }
+}

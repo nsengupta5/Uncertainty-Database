@@ -1,0 +1,196 @@
+{
+    "Case 1": {
+        "date": "02/12/2014",
+        "title": "YOUTUBE OUTAGE TODAY, FOLLOWS YESTERDAY'S TWITTER OUTAGE",
+        "links": [
+            {
+                "url": "http://www.vrworld.com/2014/03/12/youtube-outage-today2c-follows-yesterdays-twitter-outage/"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "03/25/2010",
+        "title": "YouTube Back After Outage",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2010/03/25/youtube-back-after-outage/"
+            },
+            {
+                "url": "http://techcrunch.com/2010/03/25/yes-youtube-is-down-but-you-can-still-watch-videos/"
+            },
+            {
+                "url": "http://phys.org/news188729978.html#nRlv"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "08/16/2013",
+        "title": "A Brief Google Outage Made Total Internet Traffic Drop By 40%",
+        "links": [
+            {
+                "url": "http://www.fastcompany.com/3015942/most-innovative-companies-2013/a-brief-google-outage-made-total-internet-traffic-drop-by-40"
+            }
+        ],
+        "duration": "5m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "08/20/2014",
+        "title": "YouTube is down [update: it is back up",
+        "links": [
+            {
+                "url": "http://www.bgr.in/news/youtube-is-down/#more-322086"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "10/18/2012",
+        "title": "YouTube is down!\u2019 The great 10-minute or so YouTube outage of 2012",
+        "links": [
+            {
+                "url": "http://dailycaller.com/2012/10/18/youtube-is-down-the-great-10-minute-or-so-youtube-outage-of-2012/"
+            }
+        ],
+        "duration": "10m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "10/28/2015",
+        "title": "YouTube Down For Some",
+        "links": [
+            {
+                "url": "http://www.valuewalk.com/2015/10/youtube-down-for-some/"
+            },
+            {
+                "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/news/youtube-down-users-shown-500-internal-server-error-while-trying-to-access-googles-video-sharing-site-a6712351.html"
+            },
+            {
+                "url": "http://mashable.com/2015/10/28/youtube-down-red-launch/#90Pp37XYRSqk"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "11/01/2009",
+        "title": "YouTube Down For Maintenance. Right.",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2009/11/01/youtube-down-for-maintenance-right/"
+            },
+            {
+                "url": "http://www.youtube.com/oops/error.html"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "11/18/2013",
+        "title": "YouTube Outage (500 Internal Server Error)",
+        "links": [
+            {
+                "url": "http://www.evdoinfo.com/content/view/4644/64/"
+            },
+            {
+                "url": "http://google.com/press-release"
+            }
+        ],
+        "duration": "10m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    }
+}

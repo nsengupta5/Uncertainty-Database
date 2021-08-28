@@ -1,0 +1,310 @@
+{
+    "Case 1": {
+        "date": "01/24/2014",
+        "title": "Today's outage for several Google services",
+        "links": [
+            {
+                "url": "http://googleblog.blogspot.com/2014/01/todays-outage-for-several-google.html"
+            },
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2014/01/24/gmail-go-january-2014-edition/"
+            },
+            {
+                "url": "http://techcrunch.com/2014/01/24/gmail-goes-down-across-the-world/"
+            },
+            {
+                "url": "http://mashable.com/2014/01/24/google-gmail-outage-response/"
+            }
+        ],
+        "duration": "28m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            },
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 2": {
+        "date": "03/01/2011",
+        "title": "Google Apps and Gmail outage outrage: Problem NOT resolved",
+        "links": [
+            {
+                "url": "http://blogs.computerworld.com/17897/google_apps_and_gmail_outage_outrage_problem_resolved"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "restore"
+            }
+        ]
+    },
+    "Case 3": {
+        "date": "03/17/2014",
+        "title": "Google Apps Incident Report",
+        "links": [
+            {
+                "url": "http://static.googleusercontent.com/media/www.google.com/en/us/appsstatus/ir/foyrkcdqoojjapj.pdf"
+            },
+            {
+                "url": "http://www.pocketables.com/2014/03/just-google-sheets-voice-hangouts.html"
+            },
+            {
+                "url": "http://boundary.com/blog/2014/03/28/google-downtime-two-hours-really-cost/"
+            },
+            {
+                "url": "http://venturebeat.com/2014/03/17/google-docs-and-gchat-down-productivity-plummeting/"
+            },
+            {
+                "url": "http://techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/"
+            },
+            {
+                "url": "http://googledrive.blogspot.co.id/2014/03/save-more-with-google-drive.html"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "add"
+            }
+        ]
+    },
+    "Case 4": {
+        "date": "04/17/2013",
+        "title": "Gmail, Google Drive And Docs Currently Experiencing Partial Outage",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2013/04/17/gmail-google-drive-and-docs-currently-experiencing-partial-outage/"
+            },
+            {
+                "url": "http://mashable.com/2013/04/17/google-apps-down-again/#aS2lH8Hdtiqa"
+            }
+        ],
+        "duration": "30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "04/21/2010",
+        "title": "Google Docs Just Picked A Bad Time To Fail (But There's A Fix)",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2010/04/21/google-docs-just-picked-a-bad-time-to-fail-but-theres-a-fix/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "05/10/2013",
+        "title": "Google Docs Outage: Google Documents Have Disappeared for Users",
+        "links": [
+            {
+                "url": "http://bostinno.streetwise.co/2013/05/10/google-docs-outage-google-documents-have-disappeared-for-users/"
+            },
+            {
+                "url": "http://stech2.firstpost.com/wp-content/uploads/gallery/2013/may/googleappsstatus_640x360.jpg"
+            },
+            {
+                "url": "http://www.thefullsignal.com/android/14498/google-drive-down-some"
+            },
+            {
+                "url": "http://www.cnet.com/news/google-drive-documents-list-goes-empty-for-users/"
+            },
+            {
+                "url": "http://www.buzzfeed.com/charliewarzel/google-drive-is-down#45p6xeu"
+            }
+        ],
+        "duration": "25m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "07/10/2013",
+        "title": "Google outage takes down Gmail, Docs, Calendar",
+        "links": [
+            {
+                "url": "http://www.computerworld.com/article/2483733/web-apps/google-outage-takes-down-gmail--docs--calendar.html"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide3"
+            },
+            {
+                "url": "http://storageservers.wordpress.com/2013/07/11/google-outage-caused-due-to-backlash-at-us-nsa-prism/"
+            }
+        ],
+        "duration": "40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "09/07/2011",
+        "title": "What Happened to Google Docs on Wednesday",
+        "links": [
+            {
+                "url": "http://googleforwork.blogspot.co.id/2011/09/what-happened-to-google-docs-on.html"
+            },
+            {
+                "url": "http://arstechnica.com/business/2011/09/office-365-google-docs-go-down-again-could-give-pause-to-the-cloud-wary/"
+            },
+            {
+                "url": "http://googledocs.blogspot.com/2011/09/what-happened-wednesday.html"
+            },
+            {
+                "url": "http://techcrunch.com/2011/09/09/google-explains-its-google-docs-outage/"
+            },
+            {
+                "url": "http://techcrunch.com/2011/09/07/google-docs-stumbles-goes-down/"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "roll"
+            }
+        ]
+    },
+    "Case 9": {
+        "date": "10/09/2015",
+        "title": "The Dog Ate Our Homework, Google Drive Is Down",
+        "links": [
+            {
+                "url": "http://mashable.com/2015/10/09/google-docs-sheets-down/#Q_DXVyVntaqW"
+            },
+            {
+                "url": "http://techcrunch.com/2015/10/09/the-dog-ate-our-homework-google-drive-is-down/"
+            },
+            {
+                "url": "http://venturebeat.com/2015/10/09/google-docs-is-having-issues-what-are-we-going-to-do-you-guys/"
+            },
+            {
+                "url": "http://www.techtimes.com/articles/93822/20151011/google-docs-outage-was-the-perfect-excuse-for-workers-to-slack-around-and-create-these-hilarious-memes.htm"
+            }
+        ],
+        "duration": "1h9m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "10/22/2014",
+        "title": "Google Drive and Docs are down for some users, company is investigating",
+        "links": [
+            {
+                "url": "http://thenextweb.com/google/2014/10/27/google-drive-docs-users-company-investigating/"
+            }
+        ],
+        "duration": "5h30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    }
+}

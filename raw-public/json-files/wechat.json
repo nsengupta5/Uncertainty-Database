@@ -1,0 +1,123 @@
+{
+    "Case 1": {
+        "date": "04/11/2013",
+        "title": "WeChat Experiences Short Service Outage, Blames Hardware Problems as Users Complain",
+        "links": [
+            {
+                "url": "http://www.techinasia.com/wechat-experiences-short-service-outage-blames-hardware-problems-users-complain/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/562-tencent-wechat"
+            },
+            {
+                "url": "http://weibo.com/1930378853/zrx2h8Un5"
+            }
+        ],
+        "duration": "10m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 2": {
+        "date": "07/22/2013",
+        "title": "China's WeChat Suffers Major Network Outage",
+        "links": [
+            {
+                "url": "http://www.cellular-news.com/story/Services/61130.php"
+            },
+            {
+                "url": "http://blogs.wsj.com/chinarealtime/2013/07/22/wechat-outage-unleashes-flood-of-sad-emoticons/"
+            },
+            {
+                "url": "http://thenextweb.com/asia/2013/07/22/line-mocks-messaging-rival-tencent-for-failing-to-prevent-wechats-first-major-outage/"
+            }
+        ],
+        "duration": "6h30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "natdis"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 3": {
+        "date": "08/19/2013",
+        "title": "Conspiracy theories swirl as WeChat suffers a service outage the day Yixin launches in China",
+        "links": [
+            {
+                "url": "http://cloutage.org/incidents/1539-tencent-wechat"
+            },
+            {
+                "url": "http://weibo.com/1930378853/A5wjDCyeq"
+            },
+            {
+                "url": "http://weibo.com/1930378853/A5x623fGA"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 4": {
+        "date": "09/15/2015",
+        "title": "Not without my WeChat! People panic as WeChat sees outage",
+        "links": [
+            {
+                "url": "http://www.allchinatech.com/not-without-my-wechat-people-panic-as-wechat-sees-outage/"
+            }
+        ],
+        "duration": "1d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    }
+}

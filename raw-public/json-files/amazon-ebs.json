@@ -1,0 +1,167 @@
+{
+    "Case 1": {
+        "date": "04/21/2011",
+        "title": "Summary of the Amazon EC2 and Amazon RDS Service Disruption in the US East Region",
+        "links": [
+            {
+                "url": "http://aws.amazon.com/message/65648/"
+            },
+            {
+                "url": "http://arstechnica.com/business/2011/04/amazons-lengthy-cloud-outage-shows-the-danger-of-complexity/"
+            }
+        ],
+        "duration": "2d5h28m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            },
+            {
+                "cause": "admin"
+            },
+            {
+                "cause": "bug"
+            },
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "add"
+            },
+            {
+                "fix": "restore"
+            }
+        ]
+    },
+    "Case 2": {
+        "date": "05/08/2010",
+        "title": "Amazon Addresses EC2 Power Outages",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2010/05/10/amazon-addresses-ec2-power-outages/"
+            }
+        ],
+        "duration": "7h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            },
+            {
+                "implication": "loss"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "cross"
+            }
+        ]
+    },
+    "Case 3": {
+        "date": "08/07/2011",
+        "title": "Summary of the Amazon EC2, Amazon EBS, and Amazon RDS Service Event in the EU West Region",
+        "links": [
+            {
+                "url": "http://aws.amazon.com/message/2329B7/"
+            },
+            {
+                "url": "http://readwrite.com/2011/08/08/amazons-ireland-services-still"
+            }
+        ],
+        "duration": "3d9h44m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "natdis"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "restore"
+            },
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 4": {
+        "date": "08/26/2013",
+        "title": "Another Amazon Outage Exposes the Cloud's Dark Lining",
+        "links": [
+            {
+                "url": "http://www.businessweek.com/articles/2013-08-26/another-amazon-outage-exposes-the-clouds-dark-lining"
+            },
+            {
+                "url": "http://www.theregister.co.uk/2013/08/26/amazon_ebs_cloud_problems/"
+            }
+        ],
+        "duration": "49m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "loss"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 5": {
+        "date": "10/22/2012",
+        "title": "Summary of the October 22, 2012 AWS Service Event in the US-East Region",
+        "links": [
+            {
+                "url": "http://aws.amazon.com/message/680342/"
+            },
+            {
+                "url": "http://www.networkworld.com/article/2160902/cloud-computing/amazon-ebs-failure-brings-down-reddit--imgur--others.html"
+            }
+        ],
+        "duration": "6h15m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            },
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [],
+        "fixes": [
+            {
+                "fix": "fix"
+            },
+            {
+                "fix": "fix"
+            }
+        ]
+    }
+}

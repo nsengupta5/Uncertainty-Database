@@ -1,0 +1,127 @@
+{
+    "Case 1": {
+        "date": "01/31/2013",
+        "title": "Amazon Responds To Outage, Confirms Offline For 49 Mins, AWS Unaffected, Outside Groups Uninvolved",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2013/01/31/amazon-responds-to-outage-confirms-offline-for-49-mins-aws-unaffected-outside-groups-uninvolved/"
+            },
+            {
+                "url": "http://techcrunch.com/2013/01/31/amazon-com-down-503-service-unavailable/"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606768/cloud-computing/107783-The-worst-cloud-outages-of-2013-so-far.html#slide2"
+            },
+            {
+                "url": "http://cloutage.org/incidents/528-amazon-web-site"
+            }
+        ],
+        "duration": "49m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "06/29/2010",
+        "title": "Amazon.com experiences hours-long outage",
+        "links": [
+            {
+                "url": "http://www.cnet.com/news/amazon-com-experiences-hours-long-outage/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/92-amazon-amazon-com"
+            }
+        ],
+        "duration": "3h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "08/19/2013",
+        "title": "The High Cost Of An Amazon Outage",
+        "links": [
+            {
+                "url": "http://www.buzzfeed.com/mattlynley/the-high-cost-of-an-amazon-outage#.caqAr4kom"
+            },
+            {
+                "url": "http://www.cnet.com/news/amazon-shopping-site-goes-down/"
+            },
+            {
+                "url": "http://venturebeat.com/2013/08/19/amazon-website-down/"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide8"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide9"
+            },
+            {
+                "url": "http://cloutage.org/incidents/1150-amazon-website"
+            }
+        ],
+        "duration": "40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "12/12/2010",
+        "title": "Amazon outage due to hardware failure not hackers",
+        "links": [
+            {
+                "url": "http://www.computerweekly.com/news/1280094596/Amazon-outage-due-to-hardware-failure-not-hackers"
+            },
+            {
+                "url": "http://www.reuters.com/article/2010/12/13/us-europe-amazon-idUSTRE6BB1TH20101213"
+            },
+            {
+                "url": "http://cloutage.org/incidents/429-amazon-amazon-com"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    }
+}

@@ -1,0 +1,545 @@
+{
+    "Case 1": {
+        "date": "01/01/2014",
+        "title": "Planetside 2 Hacker Attack Leads To Brief PSN, DCUO Outage",
+        "links": [
+            {
+                "url": "http://www.gameranx.com/updates/id/19623/article/planetside-2-hacker-attack-leads-to-brief-psn-dcuo-outage/"
+            }
+        ],
+        "duration": "8h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "sec"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "01/07/2015",
+        "title": "PlayStation Network down for some gamers \u2014 Sony engineers investigating",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/01/07/playstation-network-down-for-some-gamers-sony-engineers-investigating/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "01/13/2015",
+        "title": "PSN down yet again for some PS4 and PS3 players",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/01/13/psn-down-yet-again-for-some-ps4-and-ps3-players/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "02/01/2015",
+        "title": "PlayStation Network down for many \u2014 Sony is aware of the problem",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/02/01/psn-down-for-many-during-super-bowl/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "03/01/2010",
+        "title": "PLAYSTATION NETWORK PROBLEMS CAUSE PS3 MELTDOWN (UPDATED)",
+        "links": [
+            {
+                "url": "http://www.wired.com/2010/03/playstation-network-problems-cause-ps3-meltdown/"
+            },
+            {
+                "url": "http://blog.us.playstation.com/2010/03/01/latest-info-on-playstation-network-status/"
+            }
+        ],
+        "duration": "24h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "03/04/2012",
+        "title": "PlayStation Network Goes Down Today for Maintenance",
+        "links": [
+            {
+                "url": "http://www.themarysue.com/psn-down-maintenance/"
+            }
+        ],
+        "duration": "14h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "03/15/2013",
+        "title": "Sony Computer Entertainment America LLC outage affects PlayStation Network and Store",
+        "links": [
+            {
+                "url": "http://segmentnext.com/2013/03/16/recent-psn-outage/"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "03/18/2015",
+        "title": "PSN is down for some as the status site was having loading issues",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/03/18/psn-down-and-the-service-status-site-isnt-loading/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "04/02/2015",
+        "title": "PlayStation Network is down for some on PlayStation 4",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/04/02/playstation-network-is-down-for-some/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "04/28/2011",
+        "title": "Latest Update on PSN Outage",
+        "links": [
+            {
+                "url": "http://www.bbc.com/news/technology-13169518"
+            },
+            {
+                "url": "http://blog.us.playstation.com/2011/04/21/latest-update-on-psn-outage/#comments"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "sec"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 11": {
+        "date": "05/15/2015",
+        "title": "PSN down intermittently \u2014 gamers experiencing Internet issues on PlayStation consoles",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/05/15/psn-down-gamers-experiencing-internet-issues-on-playstation-consoles/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 12": {
+        "date": "07/03/2015",
+        "title": "PSN down leading into the Fourth of July weekend",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/07/03/psn-down-intermittently-leading-into-the-long-weekend/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "07/14/2015",
+        "title": "PlayStation Network Is Down \u2014 Time To Read A Bloody BOOK",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2015/07/14/psn-made-me-read-your-bloody-tweets/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 14": {
+        "date": "07/28/2015",
+        "title": "PSN is down once again for gamers on Sony consoles",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/07/28/playstation-network-is-down-once-again-for-gamers-on-sony-consoles/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 15": {
+        "date": "08/18/2009",
+        "title": "PlayStation Network conveniently down for maintenance during Sony's press conference today",
+        "links": [
+            {
+                "url": "http://www.engadget.com/2009/08/18/playstation-network-conveniently-down-for-maintenance-during-son/"
+            },
+            {
+                "url": "http://www.joystiq.com/2009/08/17/playstation-network-to-go-offline-tomorrow-8-18/"
+            }
+        ],
+        "duration": "2h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 16": {
+        "date": "08/25/2009",
+        "title": "PlayStation Network Regular Scheduled Maintenance",
+        "links": [
+            {
+                "url": "http://blog.us.playstation.com/2009/08/24/playstation-network-regular-scheduled-maintenance-2/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 17": {
+        "date": "09/04/2015",
+        "title": "PlayStation Network down as we head into long Labor Day weekend",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/09/04/psn-down-as-we-head-into-long-labor-day-weekend/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 18": {
+        "date": "09/23/2015",
+        "title": "PlayStation Network is down once again for many gamers",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/09/23/psn-is-down-once-again-for-many-gamers/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 19": {
+        "date": "09/28/2015",
+        "title": "PlayStation Network down for many on Monday morning",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/09/28/playstation-network-down-for-many-on-monday-morning/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 20": {
+        "date": "11/19/2015",
+        "title": "PlayStation Network is down intermittently for many gamers",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/11/19/playstation-network-is-down-intermittently-for-many-gamers/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 21": {
+        "date": "11/28/2015",
+        "title": "PlayStation Network is down and Sony is working to fix it",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/11/28/psn-is-down/"
+            }
+        ],
+        "duration": "9h10m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 22": {
+        "date": "12/24/2013",
+        "title": "PSN Suffers from \u201cConnection Issues\u201d, Downtime Just Before Christmas, Error Code 80710092",
+        "links": [
+            {
+                "url": "http://www.playstationlifestyle.net/2013/12/24/psn-suffers-from-connection-issues-downtime-just-before-christmas-error-code-80710092/"
+            },
+            {
+                "url": "http://psnprofiles.com/forums/topic/11581-psn-problems-ps4-ps3/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/1997-sony-computer-entertainment-america-llc-playstation-network"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 23": {
+        "date": "12/24/2015",
+        "title": "Some PlayStation Network features down heading into Christmas",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/12/24/psn-down-christmas-2015/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 24": {
+        "date": "12/25/2014",
+        "title": "The Hacker Gang Lizard Squad Is Loving It",
+        "links": [
+            {
+                "url": "http://www.businessinsider.com/xbox-live-and-playstation-network-are-still-down-and-the-hacker-gang-lizard-squad-is-loving-it-2014-12"
+            }
+        ],
+        "duration": "48h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "sec"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    }
+}

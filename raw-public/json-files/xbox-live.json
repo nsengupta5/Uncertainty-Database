@@ -1,0 +1,762 @@
+{
+    "Case 1": {
+        "date": "01/28/2010",
+        "title": "Difficulties joining LIVE members in Battlefield BC2 Demo",
+        "links": [],
+        "duration": "1h13m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "01/29/2013",
+        "title": "Xbox Live experiencing a temporary outage January 29, 2013",
+        "links": [
+            {
+                "url": "http://www.technologytell.com/gaming/106668/xbox-live-experiencing-a-temporary-outage-january-29-2013/"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "02/15/2010",
+        "title": "Difficulties connecting to Xbox LIVE",
+        "links": [],
+        "duration": "6h12m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "02/22/2013",
+        "title": "Microsoft To Refund Windows Azure Customers Hit By 12 Hour Outage That Disrupted Xbox Live",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2013/02/24/microsoft-to-refund-windows-azure-customers-hit-by-12-hour-outage-that-disrupted-xbox-live/"
+            },
+            {
+                "url": "http://www.theverge.com/2013/2/22/4019772/xbox-live-and-windows-azure-suffering-from-extended-outages"
+            },
+            {
+                "url": "http://azure.microsoft.com/blog/2013/03/01/details-of-the-february-22nd-2013-windows-azure-storage-disruption/"
+            },
+            {
+                "url": "http://azure.microsoft.com/blog/2013/02/24/windows-azure-service-disruption-from-expired-certificate/"
+            }
+        ],
+        "duration": "12h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "cross"
+            }
+        ]
+    },
+    "Case 5": {
+        "date": "02/27/2011",
+        "title": "Difficulties signing into Xbox LIVE from Xbox.com",
+        "links": [],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "03/11/2014",
+        "title": "Xbox Live outage cripples the launch of Titanfall",
+        "links": [
+            {
+                "url": "http://www.theverge.com/2014/3/11/5498690/xbox-live-goes-down-crippling-the-launch-of-titanfall"
+            },
+            {
+                "url": "http://www.engadget.com/2014/03/11/xbox-live-problems-keep-many-xbox-one-owners-from-calling-in-the/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "04/13/2013",
+        "title": "Xbox Live outage wasn\u2019t caused by a hack, says Microsoft",
+        "links": [
+            {
+                "url": "http://www.vg247.com/2013/04/16/xbox-live-outage-wasnt-caused-by-a-hack-says-microsoft/"
+            },
+            {
+                "url": "http://www.theverge.com/2013/4/13/4221398/xbox-live-outage-knocks-gamers-offline-netflix-other-apps-useless"
+            },
+            {
+                "url": "http://thenextweb.com/microsoft/2013/04/15/microsoft-xbox-live-outage-caused-by-routine-maintenance-not-any-sort-of-hack-attack/"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 8": {
+        "date": "05/03/2010",
+        "title": "Difficulties with the Halo:Reach Beta",
+        "links": [],
+        "duration": "2h54m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "05/24/2015",
+        "title": "Xbox Live is down for many, with core services affected",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/05/24/xbox-live-is-down-for-many-with-core-services-affected/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "06/22/2015",
+        "title": "Xbox Live is down for many on Xbox One and 360",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/06/22/xbox-live-is-down-for-many-on-xbox-one-and-360/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 11": {
+        "date": "07/01/2015",
+        "title": "Xbox Live down for many on Xbox One, Xbox 360",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/07/01/xbox-live-down-for-many-on-xbox-one-xbox-360/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 12": {
+        "date": "07/06/2012",
+        "title": "Issues with the LIVE services",
+        "links": [
+            {
+                "url": "http://www.theregister.co.uk/2012/07/06/xbox-live-outage/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "07/22/2010",
+        "title": "Scheduled maintenance no renting and purchasing",
+        "links": [],
+        "duration": "6h58m",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 14": {
+        "date": "08/03/2010",
+        "title": "Issues with billing",
+        "links": [],
+        "duration": "2h7m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 15": {
+        "date": "08/09/2009",
+        "title": "XBOX LIVE: via twitter",
+        "links": [],
+        "duration": "19h47m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 16": {
+        "date": "08/14/2009",
+        "title": "Xbox.com Avatar Marketplace is unavailable",
+        "links": [],
+        "duration": "7h18m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 17": {
+        "date": "08/18/2015",
+        "title": "Xbox Live down \u2013 Xbox 360 users suffer major outage",
+        "links": [
+            {
+                "url": "http://www.dailystar.co.uk/tech/gaming/459984/Xbox-Live-down-Xbox-360-users-suffer-major-outage"
+            },
+            {
+                "url": "http://venturebeat.com/2015/08/18/xbox-live-down-intermittently-for-gamers-around-the-world/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 18": {
+        "date": "08/27/2009",
+        "title": "Issues downloading video content",
+        "links": [],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 19": {
+        "date": "09/07/2010",
+        "title": "Issues attempting to execute the Halo Waypoint app",
+        "links": [],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 20": {
+        "date": "09/08/2010",
+        "title": "Issues attempting to execute the Halo Waypoint app",
+        "links": [],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 21": {
+        "date": "09/23/2012",
+        "title": "A subset of Time/Warner RoadRunner ISP users will have intermittent",
+        "links": [],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 22": {
+        "date": "10/01/2015",
+        "title": "Xbox Live down intermittently for many gamers",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/10/01/xbox-live-down-intermittently-for-many-gamers/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 23": {
+        "date": "10/03/2011",
+        "title": "Issues with Xbox LIVE earlier today",
+        "links": [
+            {
+                "url": "http://blogs.msdn.com/b/xblops/archive/2011/10/03/issues-with-xbox-live-earlier-today.aspx"
+            },
+            {
+                "url": "http://news.softpedia.com/news/Microsoft-Resolves-Short-Xbox-LIVE-Outage-Blames-Human-Error-225377.shtml"
+            },
+            {
+                "url": "http://www.ign.com/articles/2011/10/03/xbox-live-outage-due-to-human-error"
+            },
+            {
+                "url": "http://www.kotaku.com.au/2011/10/xbox-live-brought-down-by-human-error/"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "admin"
+            },
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 24": {
+        "date": "10/04/2009",
+        "title": "Difficulties with purchase transactions",
+        "links": [],
+        "duration": "5h47m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 25": {
+        "date": "10/23/2015",
+        "title": "Xbox Live is down for gamers on Xbox One, 360",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/10/23/xbox-live-is-down-for-gamers-on-xbox-one-360/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 26": {
+        "date": "10/31/2013",
+        "title": "Issues with the LIVE services",
+        "links": [],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 27": {
+        "date": "11/05/2014",
+        "title": "Xbox Live Experiencing Partial Outage",
+        "links": [
+            {
+                "url": "http://www.ign.com/articles/2014/11/05/xbox-live-experiencing-partial-outage"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 28": {
+        "date": "11/09/2013",
+        "title": "Issues with the LIVE services",
+        "links": [],
+        "duration": "17h26m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 29": {
+        "date": "11/11/2015",
+        "title": "Xbox Live is down intermittently and preventing Fallout 4 players from uploading screenshots",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/11/11/xbox-live-is-down-intermittently-and-preventing-fallout-4-players-from-uploading-screenshots/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 30": {
+        "date": "11/16/2012",
+        "title": "Difficulty accessing LIVE",
+        "links": [],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 31": {
+        "date": "11/19/2014",
+        "title": "Microsoft Azure and Xbox Live Services Experiencing Outages",
+        "links": [
+            {
+                "url": "http://gadgets.ndtv.com/internet/news/microsoft-azure-and-xbox-live-services-experiencing-outages-622865"
+            },
+            {
+                "url": "http://thenextweb.com/microsoft/2014/11/19/microsoft-azure-suffering-widespread-outage/"
+            }
+        ],
+        "duration": "2h18m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "cross"
+            }
+        ]
+    },
+    "Case 32": {
+        "date": "12/06/2011",
+        "title": "Issues with the LIVE services",
+        "links": [],
+        "duration": "22h23m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 33": {
+        "date": "12/18/2015",
+        "title": "Xbox Live down for some gamers on Xbox One and Xbox 360",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/12/18/xbox-live-down-for-some-gamers-on-xbox-one-and-xbox-360/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 34": {
+        "date": "12/25/2014",
+        "title": "Hackers Take Credit For PlayStation Network And Xbox Live Outages On Christmas",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2014/12/25/merry-xmas-you-filthy-animals/"
+            },
+            {
+                "url": "http://deadline.com/2014/12/playstation-network-down-sony-1201335682/"
+            }
+        ],
+        "duration": "3d12h59m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "sec"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 35": {
+        "date": "12/28/2012",
+        "title": "Xbox Live Temporarily Disconnecting Cloud Storage for Some Users",
+        "links": [
+            {
+                "url": "http://www.engadget.com/2012/12/28/xbox-live-outage-temporarily-disconnecting-cloud-storage-for-som/"
+            },
+            {
+                "url": "http://www.theverge.com/2012/12/31/3820690/xbox-cloud-saved-games-outage-free-xbox-live-month"
+            }
+        ],
+        "duration": "2d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    }
+}

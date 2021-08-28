@@ -1,0 +1,442 @@
+{
+    "Case 1": {
+        "date": "01/24/2014",
+        "title": "Today's outage for several Google services",
+        "links": [
+            {
+                "url": "http://googleblog.blogspot.com/2014/01/todays-outage-for-several-google.html"
+            },
+            {
+                "url": "http://www.theverge.com/2014/1/24/5342252/gmail-hangouts-and-other-google-services-are-down-right-now"
+            },
+            {
+                "url": "http://thenextweb.com/google/2014/01/24/gmail-google-services-affected-outage/"
+            }
+        ],
+        "duration": "28m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            },
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 2": {
+        "date": "02/20/2014",
+        "title": "Google Drive, Docs and More Suffering Outages",
+        "links": [
+            {
+                "url": "http://www.technobuffalo.com/2014/02/20/google-drive-outage/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "03/17/2014",
+        "title": "Google Drive Down: Gmail Chat, GChat ,Hangouts, Google Docs Get 502 Error, Outage Suffered by Many",
+        "links": [
+            {
+                "url": "http://www.theepochtimes.com/n3/567037-google-drive-down-google-docs-outage-suffered-by-many/"
+            },
+            {
+                "url": "http://static.googleusercontent.com/media/www.google.com/en/us/appsstatus/ir/foyrkcdqoojjapj.pdf"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide5"
+            }
+        ],
+        "duration": "3h30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "add"
+            },
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 4": {
+        "date": "03/18/2013",
+        "title": "Google Drive hit by three outages this week - 1st Outage",
+        "links": [
+            {
+                "url": "http://storageservers.wordpress.com/2013/03/25/google-drive-hit-by-three-outages-in-third-week-of-march-2013/"
+            },
+            {
+                "url": "http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/en/us/appsstatus/ir/7hpi9cxutklywep.pdf"
+            },
+            {
+                "url": "http://iwgcr.org/google-drive-3-outages-in-a-week/"
+            },
+            {
+                "url": "http://continuitycentral.com/news07066.html"
+            }
+        ],
+        "duration": "3h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 5": {
+        "date": "03/19/2013",
+        "title": "Google Drive hit by three outages this week - 2nd Outage",
+        "links": [
+            {
+                "url": "http://www.infoworld.com/article/2606768/cloud-computing/107783-The-worst-cloud-outages-of-2013-so-far.html#slide12"
+            },
+            {
+                "url": "http://storageservers.wordpress.com/2013/03/25/google-drive-hit-by-three-outages-in-third-week-of-march-2013/"
+            },
+            {
+                "url": "http://iwgcr.org/google-drive-3-outages-in-a-week/"
+            },
+            {
+                "url": "http://continuitycentral.com/news07066.html"
+            }
+        ],
+        "duration": "2h9m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "03/20/2013",
+        "title": "Google Drive hit by three outages in third week of March 2013!",
+        "links": [
+            {
+                "url": "http://storageservers.wordpress.com/2013/03/25/google-drive-hit-by-three-outages-in-third-week-of-march-2013/"
+            },
+            {
+                "url": "http://iwgcr.org/google-drive-3-outages-in-a-week/"
+            },
+            {
+                "url": "http://continuitycentral.com/news07066.html"
+            }
+        ],
+        "duration": "12h24m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "04/17/2013",
+        "title": "Gmail And Google Drive Are Experiencing Issues",
+        "links": [
+            {
+                "url": "http://static.googleusercontent.com/media/www.google.com/en//appsstatus/ir/qpo2mdegn8usyq0.pdf"
+            },
+            {
+                "url": "http://www.huffingtonpost.com/2013/04/17/gmail-issue_n_3099988.html"
+            },
+            {
+                "url": "http://www.washingtonpost.com/business/technology/gmail-google-docs-hit-with-limited-outage/2013/04/17/fa89afce-a762-11e2-8302-3c7e0ea97057_story.html"
+            },
+            {
+                "url": "http://thenextweb.com/google/2013/04/17/google-apps-hit-with-partial-service-outage-gmail-google-drive-docs-and-admin-control-panel-are-affected/"
+            },
+            {
+                "url": "http://venturebeat.com/2013/04/17/latest-google-service-outage-hits-gmail-google-docs-and-google-drive/"
+            }
+        ],
+        "duration": "3h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 8": {
+        "date": "05/10/2013",
+        "title": "Google Drive Is Down",
+        "links": [
+            {
+                "url": "http://www.buzzfeed.com/charliewarzel/google-drive-is-down#45p6xeu"
+            },
+            {
+                "url": "http://bostinno.streetwise.co/2013/05/10/google-docs-outage-google-documents-have-disappeared-for-users/"
+            },
+            {
+                "url": "http://stech2.firstpost.com/wp-content/uploads/gallery/2013/may/googleappsstatus_640x360.jpg"
+            },
+            {
+                "url": "http://www.thefullsignal.com/android/14498/google-drive-down-some"
+            },
+            {
+                "url": "http://www.cnet.com/news/google-drive-documents-list-goes-empty-for-users/"
+            }
+        ],
+        "duration": "25m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "07/10/2013",
+        "title": "Google says outage is over",
+        "links": [
+            {
+                "url": "http://www.cnn.com/2013/07/10/tech/web/google-down/"
+            },
+            {
+                "url": "http://www.datamation.com/news/google-search-cloud-services-experience-outage.html"
+            },
+            {
+                "url": "http://www.wspa.com/story/22804103/google-outages-reported-wednesday-morning"
+            },
+            {
+                "url": "http://www.dailymail.co.uk/news/article-2359748/Google-outage-causes-panic-users-online-humor.html"
+            }
+        ],
+        "duration": "40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "08/16/2013",
+        "title": "A BRIEF GOOGLE OUTAGE MADE TOTAL INTERNET TRAFFIC DROP BY 40%",
+        "links": [
+            {
+                "url": "http://www.fastcompany.com/3015942/most-innovative-companies-2013/a-brief-google-outage-made-total-internet-traffic-drop-by-40"
+            },
+            {
+                "url": "http://venturebeat.com/2013/08/16/3-minute-outage-costs-google-545000-in-revenue/"
+            },
+            {
+                "url": "http://www.zdnet.com/google-services-go-down-internet-panics-7000019516/"
+            },
+            {
+                "url": "http://www.theregister.co.uk/2013/08/17/google_outage/"
+            },
+            {
+                "url": "http://www.forbes.com/sites/timworstall/2013/08/17/fascinating-number-google-is-now-40-of-the-internet/"
+            }
+        ],
+        "duration": "5m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 11": {
+        "date": "10/09/2015",
+        "title": "The Dog Ate Our Homework, Google Drive Is Down",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2015/10/09/the-dog-ate-our-homework-google-drive-is-down/"
+            },
+            {
+                "url": "http://mashable.com/2015/10/09/google-docs-sheets-down/#Q_DXVyVntaqW"
+            },
+            {
+                "url": "http://venturebeat.com/2015/10/09/google-docs-is-having-issues-what-are-we-going-to-do-you-guys/"
+            }
+        ],
+        "duration": "1h9m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 12": {
+        "date": "10/14/2014",
+        "title": "Google Drive Goes Down",
+        "links": [
+            {
+                "url": "http://www.ibtimes.com/google-drive-goes-down-search-giant-investigating-cause-outage-affected-cloud-appf-storage-1704689"
+            }
+        ],
+        "duration": "3h44m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "11/01/2012",
+        "title": "Google Outage: Six Minutes of Terror",
+        "links": [
+            {
+                "url": "http://www.wired.com/2012/11/google-outage-six-minutes/"
+            }
+        ],
+        "duration": "6m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 14": {
+        "date": "12/10/2012",
+        "title": "Google Apps Incident Report Gmail Partial Outage \u00ad December 10, 2012",
+        "links": [
+            {
+                "url": "http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/en/us/appsstatus/ir/plibxfjh8whr44h.pdf"
+            },
+            {
+                "url": "http://www.forbes.com/sites/eliseackerman/2012/12/11/gmail-outage-embarrasses-internet-giant/"
+            },
+            {
+                "url": "http://techcrunch.com/2012/12/10/gmail-experiences-a-widespread-outage-most-users-affected/"
+            },
+            {
+                "url": "http://www.cbsnews.com/news/gmail-google-drive-chrome-experience-outages/"
+            }
+        ],
+        "duration": "18m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            },
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "roll"
+            }
+        ]
+    }
+}

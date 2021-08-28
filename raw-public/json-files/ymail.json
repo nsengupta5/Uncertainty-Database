@@ -1,0 +1,354 @@
+{
+    "Case 1": {
+        "date": "01/02/2012",
+        "title": "Yahoo! Mail went down",
+        "links": [
+            {
+                "url": "http://iwgcr.org/yahoo-mail-went-down/"
+            },
+            {
+                "url": "http://www.cnet.com/news/yahoo-mail-suffers-outage-users-react/"
+            }
+        ],
+        "duration": "6h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "02/04/2014",
+        "title": "Yahoo, Yahoo Mail, And Flickr Hit With Temporary Service Interruption",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2014/02/04/yahoo-goes-down/"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "02/10/2014",
+        "title": "Yahoo Mail down again, users outraged",
+        "links": [
+            {
+                "url": "http://www.latimes.com/business/technology/la-fi-tn-yahoo-mail-down-again-20140210-story.html"
+            }
+        ],
+        "duration": "48m",
+        "planned": "no",
+        "causes": [],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "03/13/2009",
+        "title": "Yahoo! Mail Outage Announced",
+        "links": [
+            {
+                "url": "http://softwarecritics.info/email-tools/yahoo-mail-outage-announced/"
+            }
+        ],
+        "duration": "24h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "04/09/2009",
+        "title": "Yahoo Mail suffers 'brief' outage",
+        "links": [
+            {
+                "url": "http://www.cnet.com/news/yahoo-mail-suffers-brief-outage/"
+            }
+        ],
+        "duration": "20h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "04/28/2011",
+        "title": "Yahoo! Mail Outage Supposedly Caused by Server Upgrade",
+        "links": [
+            {
+                "url": "http://news.softpedia.com/news/Yahoo-Mail-Outage-Supposedly-Caused-by-Server-Upgrade-197695.shtml"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "05/19/2015",
+        "title": "Yahoo fixes earlier Yahoo Mail issue",
+        "links": [
+            {
+                "url": "http://www.cnbc.com/2015/05/19/some-yahoo-mail-users-experiencing-issues-with-ios-app.html"
+            },
+            {
+                "url": "http://www.product-reviews.net/2015/05/20/yahoo-mail-server-problems-testing-patience/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "06/23/2015",
+        "title": "Yahoo Mail down in US, users can\u2019t send email",
+        "links": [
+            {
+                "url": "http://www.product-reviews.net/2015/06/23/yahoo-mail-down-in-us-users-cant-send-email/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "07/22/2010",
+        "title": "Yahoo suffers brief outage -- and I missed the whole thing",
+        "links": [
+            {
+                "url": "http://voices.washingtonpost.com/fasterforward/2010/07/yahoo_suffers_brief_outage--an.html"
+            },
+            {
+                "url": "http://www.huffingtonpost.com/2010/07/22/yahoo-down-yahoo-account_n_656170.html"
+            }
+        ],
+        "duration": "3h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "07/31/2012",
+        "title": "yahoo confirms mail messenger outage working on a fix",
+        "links": [
+            {
+                "url": "http://www.engadget.com/2012/07/31/yahoo-confirms-mail-messenger-outage-working-on-a-fix/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 11": {
+        "date": "08/03/2011",
+        "title": "Yahoo Mail suffers outage; users react",
+        "links": [
+            {
+                "url": "http://www.cnet.com/news/yahoo-mail-suffers-outage-users-react/"
+            }
+        ],
+        "duration": "24h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 12": {
+        "date": "10/26/2009",
+        "title": "Yahoo Mail Suffers Outage",
+        "links": [
+            {
+                "url": "http://www.ymailblog.com/blog/2009/10/yahoo-mail-update/"
+            },
+            {
+                "url": "http://techcrunch.com/2009/10/26/yahoo-mail-suffers-outage/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "11/12/2012",
+        "title": "Resolving a Yahoo Outage Dispute",
+        "links": [],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 14": {
+        "date": "11/20/2014",
+        "title": "Yahoo Mail bounces back after 11 days of downtime",
+        "links": [
+            {
+                "url": "http://www.theinquirer.net/inquirer/news/2383013/yahoo-mail-suffers-major-outage-due-to-severed-underwater-cable"
+            },
+            {
+                "url": "http://www.techworm.net/2014/12/yahoo-mail-back-online-11-days-outage.html"
+            }
+        ],
+        "duration": "11d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            },
+            {
+                "cause": "natdis"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 15": {
+        "date": "12/14/2013",
+        "title": "Yahoo's Bad Week Ends",
+        "links": [
+            {
+                "url": "http://yahoo.tumblr.com/post/69929616860/an-update-on-yahoo-mail"
+            },
+            {
+                "url": "http://www.huffingtonpost.com/tag/yahoo-mail-outage/"
+            },
+            {
+                "url": "http://www.techworld.com.au/article/534041/yahoo_mail_still_down_some_users_after_an_attempted_fix/"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide26"
+            }
+        ],
+        "duration": "5d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            },
+            {
+                "fix": "restore"
+            }
+        ]
+    }
+}

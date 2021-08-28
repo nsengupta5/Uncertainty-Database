@@ -1,0 +1,421 @@
+{
+    "Case 1": {
+        "date": "02/22/2013",
+        "title": "Details of the February 22nd 2013 Windows Azure Storage Disruption",
+        "links": [
+            {
+                "url": "http://azure.microsoft.com/blog/2013/03/01/details-of-the-february-22nd-2013-windows-azure-storage-disruption/"
+            },
+            {
+                "url": "http://www.neowin.net/news/windows-azure-suffers-yet-another-extended-outage"
+            },
+            {
+                "url": "http://redmondmag.com/articles/2013/02/22/worldwide-windows-azure-storage-outage.aspx"
+            }
+        ],
+        "duration": "11h40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "admin"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 2": {
+        "date": "02/29/2012",
+        "title": "Summary of Windows Azure Service Disruption on Feb 29th, 2012",
+        "links": [
+            {
+                "url": "http://azure.microsoft.com/blog/2012/03/09/summary-of-windows-azure-service-disruption-on-feb-29th-2012/"
+            },
+            {
+                "url": "http://redmondmag.com/articles/2012/02/29/outages-hit-microsoft-azure.aspx"
+            },
+            {
+                "url": "http://blogs.gartner.com/kyle-hilgendorf/2012/03/09/azure-outage-customer-insights-a-week-later/"
+            },
+            {
+                "url": "http://arstechnica.com/information-technology/2012/02/prolonged-microsoft-azure-outtage-casts-dark-cloud-over-customers/"
+            }
+        ],
+        "duration": "12h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 3": {
+        "date": "03/17/2015",
+        "title": "Microsoft Gets Another Headache: Azure Outage Redux",
+        "links": [
+            {
+                "url": "http://www.crn.com/news/cloud/300076173/microsoft-gets-another-headache-azure-outage-redux.htm"
+            },
+            {
+                "url": "http://www.crn.com/slide-shows/cloud/300077635/the-10-biggest-cloud-outages-of-2015-so-far.htm/pgno/0/6"
+            },
+            {
+                "url": "http://www.crn.com/news/cloud/300076160/network-glitch-takes-down-microsofts-azure-iaas-paas-services-for-central-u-s-customers.htm?itc=hp_tax_cloud"
+            }
+        ],
+        "duration": "2h19m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "04/21/2010",
+        "title": "Windows Azure Live DNS Brief Outage at All Data Centers on 4/21/2010 at ~ 2:30 PM PDT",
+        "links": [
+            {
+                "url": "http://oakleafblog.blogspot.com/2010/04/windows-azure-live-dns-brief-outage-at.html"
+            }
+        ],
+        "duration": "40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "07/02/2015",
+        "title": "Unknown network fault leaves customers cloudless",
+        "links": [
+            {
+                "url": "http://www.itnews.com.au/news/microsoft-azure-australia-east-hit-by-outage-406110"
+            }
+        ],
+        "duration": "7h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "07/26/2012",
+        "title": "Errant \u2018Safety Valve\u2019 Caused Windows Azure Outage",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2012/08/03/errant-safety-valve-caused-windows-azure-outage/"
+            },
+            {
+                "url": "http://allthingsd.com/20120726/microsofts-azure-cloud-service-experiences-a-bump-in-europe-overnight/"
+            },
+            {
+                "url": "http://allthingsd.com/20120803/microsoft-explains-last-weeks-azure-outage-whoops/"
+            }
+        ],
+        "duration": "2h24m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            },
+            {
+                "cause": "admin"
+            },
+            {
+                "cause": "config"
+            },
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "add"
+            }
+        ]
+    },
+    "Case 7": {
+        "date": "08/18/2014",
+        "title": "Microsoft Azure Cloud services down!",
+        "links": [
+            {
+                "url": "http://www.bloomberg.com/news/articles/2014-08-18/microsoft-s-cloud-computing-service-azure-experiencing-outage"
+            },
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2014/08/18/cloud-outages-make-for-rough-monday-at-microsoft-azure/"
+            }
+        ],
+        "duration": "5h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "09/07/2010",
+        "title": "SQL Azure Portal Database Provisioning Outage on 9/7/2010",
+        "links": [
+            {
+                "url": "http://oakleafblog.blogspot.com/2010/09/sql-azure-portal-database-provisioning.html"
+            }
+        ],
+        "duration": "3h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "10/30/2013",
+        "title": "Windows Azure Compute cloud goes TITSUP PLANET-WIDE",
+        "links": [
+            {
+                "url": "http://www.theregister.co.uk/2013/10/30/windows_azure_global_fail/"
+            },
+            {
+                "url": "http://www.pcworld.com/article/2059901/microsofts-windows-azure-cloud-hit-by-worldwide-management-interuption.html"
+            }
+        ],
+        "duration": "8h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "11/19/2014",
+        "title": "Final Root Cause Analysis and Improvement Areas: Nov 18 Azure Storage Service Interruption",
+        "links": [
+            {
+                "url": "http://azure.microsoft.com/blog/2014/12/17/final-root-cause-analysis-and-improvement-areas-nov-18-azure-storage-service-interruption/"
+            },
+            {
+                "url": "http://azure.microsoft.com/blog/2014/11/19/update-on-azure-storage-service-interruption/"
+            },
+            {
+                "url": "http://www.computerworld.com/article/2860833/human-error-root-cause-of-november-microsoft-azure-outage.html"
+            }
+        ],
+        "duration": "10h55m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            },
+            {
+                "cause": "admin"
+            },
+            {
+                "cause": "bug"
+            },
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "roll"
+            },
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 11": {
+        "date": "11/21/2012",
+        "title": "Major Microsoft Cloud Outage Blamed on DNS Failure",
+        "links": [
+            {
+                "url": "http://redmondmag.com/Blogs/The-Schwartz-Report/2013/11/Outage-Blamed-on-DNS-Failure.aspx"
+            },
+            {
+                "url": "http://redmondmag.com/articles/2013/11/21/windows-azure-outages.aspx"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "cross"
+            }
+        ]
+    },
+    "Case 12": {
+        "date": "12/03/2015",
+        "title": "Microsoft Office 365, Azure portals offline for many users in Europe",
+        "links": [
+            {
+                "url": "http://www.theregister.co.uk/2015/12/03/office_365_goes_offline/"
+            },
+            {
+                "url": "http://www.computerweekly.com/news/4500259905/European-Office-365-and-Microsoft-Azure-users-hit-by-service-outage"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            },
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "12/18/2015",
+        "title": "Another Microsoft Office 365 and Azure outage hits UK and Europe",
+        "links": [
+            {
+                "url": "http://www.computing.co.uk/ctg/news/2439832/another-microsoft-office-365-and-azure-outage-hits-uk-and-europe"
+            }
+        ],
+        "duration": "2h5m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 14": {
+        "date": "12/28/2012",
+        "title": "Details of the December 28th, 2012 Windows Azure Storage Disruption in US South",
+        "links": [
+            {
+                "url": "http://azure.microsoft.com/blog/2013/01/16/details-of-the-december-28th-2012-windows-azure-storage-disruption-in-us-south/"
+            },
+            {
+                "url": "http://redmondmag.com/articles/2013/01/17/microsoft-december-windows-azure-outage.aspx"
+            },
+            {
+                "url": "http://www.zdnet.com/microsofts-december-azure-outage-what-went-wrong-7000010021/"
+            }
+        ],
+        "duration": "2d14h23m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "admin"
+            },
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            },
+            {
+                "implication": "loss"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "restore"
+            }
+        ]
+    }
+}

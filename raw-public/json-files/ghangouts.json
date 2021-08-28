@@ -1,0 +1,174 @@
+{
+    "Case 1": {
+        "date": "03/05/2015",
+        "title": "Widespread Google service disruptions reported including Gmail, Hangouts, & Play Store",
+        "links": [
+            {
+                "url": "http://9to5google.com/2015/03/05/google-service-disruptions/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "03/17/2014",
+        "title": "Google Apps Incident Report",
+        "links": [
+            {
+                "url": "http://static.googleusercontent.com/media/www.google.com/en/us/appsstatus/ir/foyrkcdqoojjapj.pdf"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide5"
+            }
+        ],
+        "duration": "3h30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "add"
+            },
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 3": {
+        "date": "03/30/2015",
+        "title": "Google's Gmail service is down for some users",
+        "links": [
+            {
+                "url": "http://mashable.com/2015/03/30/gmail-is-down-5/#x4uykXk.tuqr"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "07/10/2013",
+        "title": "Google Outage caused due to backlash at US NSA Prism",
+        "links": [
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide3"
+            },
+            {
+                "url": "http://www.computerworld.com/article/2483733/web-apps/google-outage-takes-down-gmail--docs--calendar.html"
+            },
+            {
+                "url": "http://storageservers.wordpress.com/2013/07/11/google-outage-caused-due-to-backlash-at-us-nsa-prism/"
+            }
+        ],
+        "duration": "40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "08/16/2013",
+        "title": "Google outage across search, Gmail and Talk",
+        "links": [
+            {
+                "url": "http://www.v3.co.uk/v3-uk/news/2289646/google-outage-acrosf-search-gmail-and-talk-causef-40-percent-drop-in-web-activity"
+            }
+        ],
+        "duration": "5m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "09/26/2013",
+        "title": "Google Talk Outage Sees Messages Sent To Random Users",
+        "links": [
+            {
+                "url": "http://www.huffingtonpost.co.uk/2013/09/26/google-talk-down_n_3993873.html"
+            },
+            {
+                "url": "http://techcrunch.com/2013/09/26/google-hangoutf-and-google-talk-bug-resulting-in-messagef-going-out-to-the-wrong-recipients"
+            },
+            {
+                "url": "http://www.cmswire.com/cms/customer-experience/google-talk-messagef-going-astray-af-it-explainf-earlier-gmail-outage-022634.php"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "11/21/2015",
+        "title": "Hangouts is currently down",
+        "links": [
+            {
+                "url": "http://lab.digitblog.org/tag/google-hangouts-down/"
+            }
+        ],
+        "duration": "2h51m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    }
+}

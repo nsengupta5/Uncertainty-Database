@@ -1,0 +1,1008 @@
+{
+    "Case 1": {
+        "date": "01/10/2013",
+        "title": "Problems signing in to Skype with Microsoft account",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2013/01/problems_signing_in_with_micro.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "01/13/2009",
+        "title": "Delays with credit card purchases",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/01/delays_with_credit_card_purcha.html"
+            }
+        ],
+        "duration": "2d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "01/15/2014",
+        "title": "Incoming calls via Skype Connect and Call Forwarding",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/01/incoming_calls_via_skype_conne.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "01/17/2012",
+        "title": "Payment issues",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2012/01/payment_issues.html"
+            }
+        ],
+        "duration": "23h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "01/21/2014",
+        "title": "Problem with PayPal payments",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/01/problem_with_paypal_payments.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "01/29/2015",
+        "title": "Problems with Skype sign-in",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2015/01/post_28.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "01/31/2014",
+        "title": "Group video calling",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/01/group_video_calling.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "02/02/2010",
+        "title": "Delays in Auto-Recharge and Recurring payments",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2010/02/delays_in_autorecharge_and_rec.html"
+            }
+        ],
+        "duration": "2h53m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "02/05/2009",
+        "title": "Auto-Recharge and Recurring payments delayed",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/02/autorecharge_and_recurring_pay.html"
+            }
+        ],
+        "duration": "12h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "02/10/2014",
+        "title": "Problems with making payments",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/02/problems_with_making_payments.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 11": {
+        "date": "02/17/2014",
+        "title": "Password reset problem",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/02/password_reset_problem.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 12": {
+        "date": "02/18/2009",
+        "title": "Skype maintenance notification",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/02/skype_maintenance_notification.html"
+            }
+        ],
+        "duration": "3d",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "02/25/2010",
+        "title": "Upcoming payment systems maintenance: 25th February- 26th February",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2010/02/upcoming_payment_systems_maint_2.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 14": {
+        "date": "03/02/2010",
+        "title": "Credit Card payment maintenance on 2nd March from 0800UTC",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2010/03/credit_card_payment_maintenanc_1.html"
+            }
+        ],
+        "duration": "4h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 15": {
+        "date": "03/03/2010",
+        "title": "Credit card payment maintenance on 3rd March from 09:00 UTC",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2010/03/credit_card_payment_maintenanc_2.html"
+            }
+        ],
+        "duration": "3h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 16": {
+        "date": "03/17/2009",
+        "title": "Planned maintenance on Tuesday",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/03/planned_maintenance_on_tuesday.html"
+            }
+        ],
+        "duration": "2h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 17": {
+        "date": "03/24/2009",
+        "title": "Skype maintenance 24th March between 6am GMT to 8am GMT",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/03/skype_maintenance_24th_march_b.html"
+            }
+        ],
+        "duration": "3h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 18": {
+        "date": "04/01/2009",
+        "title": "Skype maintenance notification",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/03/skype_maintenance_notification_1.html"
+            }
+        ],
+        "duration": "2d",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 19": {
+        "date": "04/01/2014",
+        "title": "Skype and Lync integration problems",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/04/lync_--_skype_and_skype_--_lyn.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 20": {
+        "date": "04/02/2009",
+        "title": "Skype names created with iPhone are redirected to PCHome when buying Skype Credit",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/04/skype_names_created_with_iphon.html"
+            }
+        ],
+        "duration": "4d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 21": {
+        "date": "04/03/2014",
+        "title": "Problems with creating new Skype accounts",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/04/problems_with_creating_new_sky.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 22": {
+        "date": "04/07/2014",
+        "title": "Skype to Lync Calls are failing",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/04/skype_to_lync_calls_are_failin.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 23": {
+        "date": "04/21/2010",
+        "title": "Upcoming system maintenance",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2010/04/upcoming_systems_maintenance.html"
+            }
+        ],
+        "duration": "9h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 24": {
+        "date": "05/10/2009",
+        "title": "Skype maintenance notification",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/05/skype_maintenance_notification_2.html"
+            }
+        ],
+        "duration": "4d",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 25": {
+        "date": "05/26/2011",
+        "title": "Skype goes down globally, investigation underway (update: restored)",
+        "links": [
+            {
+                "url": "http://www.engadget.com/2011/05/26/skype-goes-down-globally-investigation-underway/"
+            },
+            {
+                "url": "http://www.theregister.co.uk/2011/05/27/skype_outage_update/"
+            },
+            {
+                "url": "http://www.cnet.com/news/skype-suffers-outage-delivers-quick-fix/"
+            },
+            {
+                "url": "http://heartbeat.skype.com/2011/05/an_update_on_todays_downtime.html"
+            },
+            {
+                "url": "http://heartbeat.skype.com/2011/05/problems_signing_into_skype_an.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 26": {
+        "date": "05/29/2012",
+        "title": "Planned maintenance on May 29th",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2013/05/planned_maintenance_on_may_29t.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 27": {
+        "date": "06/04/2010",
+        "title": "Problems redeeming Skype vouchers",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2010/06/problems_redeeming_vouchers.html"
+            }
+        ],
+        "duration": "30h40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 28": {
+        "date": "06/07/2011",
+        "title": "Skype says outage hitting 'small number' of users",
+        "links": [
+            {
+                "url": "http://www.cnet.com/news/skype-says-outage-hitting-small-number-of-users/"
+            },
+            {
+                "url": "http://www.forbes.com/sites/parmyolson/2011/06/07/skype-scrambles-to-fix-another-outage/"
+            },
+            {
+                "url": "http://heartbeat.skype.com/2011/06/problems_signing_in_to_skype_f.html"
+            },
+            {
+                "url": "http://heartbeat.skype.com/2011/06/update_to_this_weeks_sign-in_p.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 29": {
+        "date": "06/14/2010",
+        "title": "Skype stores closed 14 June, 2010 07:35 GMT - 07:45 GMT",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2010/06/skype_stores_closed_14_june_20.html"
+            }
+        ],
+        "duration": "15m",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 30": {
+        "date": "06/27/2012",
+        "title": "Planned maintenance for account creation",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2012/06/planned_maintenance_for_accoun.html"
+            }
+        ],
+        "duration": "1h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 31": {
+        "date": "07/04/2014",
+        "title": "Skype for Xbox One issues",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/07/skype_for_xbox_one_issues.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 32": {
+        "date": "07/12/2014",
+        "title": "Problems connecting to Skype with Facebook credentials",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/02/problems_connecting_to_skype_w.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 33": {
+        "date": "07/15/2014",
+        "title": "Skype Account Portal is Unavailable",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2014/08/issue_with_payments.html"
+            },
+            {
+                "url": "http://heartbeat.skype.com/2014/07/skype_account_portal_is_unavai.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            },
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 34": {
+        "date": "07/19/2011",
+        "title": "Credit card payment maintenance",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2011/07/credit_card_payment_maintenanc_3.html"
+            }
+        ],
+        "duration": "1h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 35": {
+        "date": "09/01/2009",
+        "title": "Skype credit card payments maintenance",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/08/skype_credit_card_payments_mai.html"
+            }
+        ],
+        "duration": "1h30m",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 36": {
+        "date": "09/05/2012",
+        "title": "Planned Maintanence - Paid Products",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2012/09/planned_maintanence_-_paid_pro.html"
+            }
+        ],
+        "duration": "3h",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 37": {
+        "date": "09/21/2015",
+        "title": "Skype DOWN: Microsoft messenger and video chat app NOT working across the GLOBE",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2015/09/skype_presence_issues.html"
+            },
+            {
+                "url": "http://www.express.co.uk/life-style/science-technology/606780/Skype-DOWN-Microsoft-Messenger-Not-Working-Europe-Australia-USA"
+            }
+        ],
+        "duration": "12h53m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 38": {
+        "date": "09/26/2012",
+        "title": "Planned Maintanence for SMS to U.S. Numbers",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2012/09/planned_maintanence_for_sms_to_1.html"
+            }
+        ],
+        "duration": "2h48m",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 39": {
+        "date": "09/30/2009",
+        "title": "Temporary System Problems",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/09/temporary_system_problems.html"
+            }
+        ],
+        "duration": "25m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 40": {
+        "date": "11/03/2009",
+        "title": "Credit card payment maintenance on the 3rd November from 0800-0930 UTC",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/10/credit_card_payment_maintenanc.html"
+            }
+        ],
+        "duration": "1h30m",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 41": {
+        "date": "11/19/2013",
+        "title": "Payment systems maintenance",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2013/11/payment_systems_maintenance_2.html"
+            }
+        ],
+        "duration": "5h5m",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 42": {
+        "date": "11/19/2015",
+        "title": "Issues with Skype login and contacts",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2015/11/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 43": {
+        "date": "12/02/2009",
+        "title": "Upcoming payment systems maintenance: 2nd December - 10th December",
+        "links": [
+            {
+                "url": "http://heartbeat.skype.com/2009/12/upcoming_payment_systems_maint_1.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 44": {
+        "date": "12/22/2010",
+        "title": "Skype Holiday Present \u2013 Down for a Day",
+        "links": [
+            {
+                "url": "http://www.availabilitydigest.com/public_articles/0601/skype.pdf"
+            },
+            {
+                "url": "http://www.foxnews.com/tech/2010/12/22/skype-outage-millions-affected-worldwide/"
+            },
+            {
+                "url": "http://www.disruptivetelephony.com/2010/12/"
+            },
+            {
+                "url": "http://www.computerworld.com/article/2470070/mobile-apps/skype-still-down-today-after-supernode-outage.html"
+            },
+            {
+                "url": "http://gigaom.com/2010/12/23/skype-ceo-tony-bates-i-am-sorry-here-is-an-update/"
+            }
+        ],
+        "duration": "1d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    }
+}

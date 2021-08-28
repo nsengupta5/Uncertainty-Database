@@ -1,0 +1,403 @@
+{
+    "Case 1": {
+        "date": "01/02/2015",
+        "title": "Microsoft And Yahoo Confirm Search Outages",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2015/01/02/following-bing-coms-brief-outage-search-yahoo-com-goes-down-too/"
+            }
+        ],
+        "duration": "20m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "01/07/2013",
+        "title": "Hotmail Outage Today? Users Report Third Day of Service Interruption",
+        "links": [
+            {
+                "url": "http://www.latintimes.com/hotmail-outage-today-users-report-third-day-service-interruption-125247"
+            }
+        ],
+        "duration": "3d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "02/14/2012",
+        "title": "Sorry, there is a problem with Hotmail right now",
+        "links": [
+            {
+                "url": "http://techpaul.wordpress.com/2012/02/14/sorry-theres-a-problem-with-hotmail-right-now/"
+            }
+        ],
+        "duration": "1h30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "02/16/2010",
+        "title": "Hotmail back up after Tuesday outage",
+        "links": [
+            {
+                "url": "http://scitech.blogs.cnn.com/2010/02/16/hotmail-back-up-after-tuesday-outage/"
+            },
+            {
+                "url": "http://windowsitpro.com/exchange-server/after-hotmail-outage-privacy-fears"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "02/24/2013",
+        "title": "Uh oh: Microsoft Hotmail, Outlook troubles bubble up again",
+        "links": [
+            {
+                "url": "http://www.zdnet.com/outlook-com-outage-leaves-users-locked-out-of-accounts-7000011792/"
+            }
+        ],
+        "duration": "7h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "03/12/2009",
+        "title": "Microsoft Restores Service After Hotmail Outage",
+        "links": [
+            {
+                "url": "http://www.pcworld.com/article/161194/article.html"
+            },
+            {
+                "url": "http://www.liveside.net/2009/03/12/hotmail-is-down/"
+            }
+        ],
+        "duration": "7h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "03/12/2013",
+        "title": "Details of the Hotmail / Outlook.com outage on March 12th",
+        "links": [
+            {
+                "url": "http://blogs.office.com/2013/03/13/details-of-the-hotmail-outlook-com-outage-on-march-12th/"
+            },
+            {
+                "url": "http://techcrunch.com/2013/03/13/the-great-hotmail-outlook-outage-of-2013-continues-as-downtime-passes-12-hour/"
+            },
+            {
+                "url": "http://blog.chron.com/techblog/2013/03/hotmail-outlook-com-experiencing-an-outage/"
+            }
+        ],
+        "duration": "15h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "04/07/2015",
+        "title": "Widespread outages hit Windows 8/8.1 Metro Mail, Windows Live Mail, Windows Phone 8.1 mail",
+        "links": [
+            {
+                "url": "http://www.infoworld.com/article/2907067/operating-systems/widespread-outage-for-windows-8-8-1-metro-mail-windows-live-mail-windows-phone-8-1-mail.html"
+            },
+            {
+                "url": "http://www.cnet.com/news/outlook-com-is-having-hiccups/"
+            },
+            {
+                "url": "http://www.windowscentral.com/psa-microsoft-currently-looking-issues-outlookcom"
+            }
+        ],
+        "duration": "6h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "04/10/2009",
+        "title": "Hotmail users suffer through outage",
+        "links": [
+            {
+                "url": "http://www.cnet.com/news/hotmail-users-suffer-through-outage/"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "04/18/2010",
+        "title": "Hotmail Problems Resolved: Messenger, Hotmail Down Briefly Earlier Today",
+        "links": [
+            {
+                "url": "http://www.huffingtonpost.com/2010/02/16/hotmail-problems-resolved_n_464503.html"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 11": {
+        "date": "05/25/2011",
+        "title": "Microsoft: Lost Hotmail Emails Now Restored",
+        "links": [
+            {
+                "url": "http://www.huffingtonpost.com/2011/01/03/microsoft-lost-hotmail-em_n_803721.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "loss"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 12": {
+        "date": "06/24/2014",
+        "title": "Microsoft says it is resolved Outlook outage for business users across the country",
+        "links": [
+            {
+                "url": "http://www.washingtonpost.com/blogs/the-switch/wp/2014/06/24/microsoft-outlook-outage-reported-across-much-of-the-country/"
+            }
+        ],
+        "duration": "9h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "08/14/2013",
+        "title": "Update: Microsoft restores Outlook.com after three-day outage",
+        "links": [
+            {
+                "url": "http://www.computerworld.com/article/2483799/web-apps/update--microsoft-restores-outlook-com-after-three-day-outage.html"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide6"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide7"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2610247/applications/microsoft-s-skydrive--outlook-com-are-down-for-some-users.html"
+            }
+        ],
+        "duration": "3d22h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "add"
+            },
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 14": {
+        "date": "09/08/2011",
+        "title": "Office 365, Google Docs go down again, could give pause to the cloud-wary",
+        "links": [
+            {
+                "url": "http://arstechnica.com/business/2011/09/office-365-google-docs-go-down-again-could-give-pause-to-the-cloud-wary/"
+            },
+            {
+                "url": "http://www.channelregister.co.uk/2011/09/09/microsoft_cloud_outage/"
+            },
+            {
+                "url": "http://www.crn.com/news/cloud/231400092/microsoft-crediting-customers-in-recent-bpos-cloud-outage.htm"
+            },
+            {
+                "url": "http://windowsteamblog.com/windows_live/b/windowslive/archive/2011/09/20/follow-up-on-the-sept-8-service-outage.aspx"
+            },
+            {
+                "url": "http://www.itnews.com.au/News/271521,microsoft-office365-hotmail-blacks-out.aspx"
+            },
+            {
+                "url": "http://www.itnews.com.au/News/271835,is-microsofts-office365-vulnerable.aspx"
+            },
+            {
+                "url": "http://www.channelregister.co.uk/2011/09/21/microsoft_reveals_cloud_outage_causes/"
+            }
+        ],
+        "duration": "3h30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "config"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 15": {
+        "date": "12/30/2010",
+        "title": "Hotmail outage explained and fixed",
+        "links": [
+            {
+                "url": "http://www.neowin.net/news/hotmail-outage-explained-and-fixed"
+            },
+            {
+                "url": "http://www.pcworld.com/article/215442/microsoft_blames_server_problem_for_hotmail_outage.html"
+            }
+        ],
+        "duration": "5d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "loss"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "restore"
+            },
+            {
+                "fix": "roll"
+            }
+        ]
+    }
+}

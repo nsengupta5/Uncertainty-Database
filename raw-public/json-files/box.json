@@ -1,0 +1,452 @@
+{
+    "Case 1": {
+        "date": "05/22/2012",
+        "title": "Box cloud storage hits a glitch",
+        "links": [
+            {
+                "url": "http://www.huddle.com/blog/enterprise-content-management/"
+            },
+            {
+                "url": "http://www.wired.com/2012/05/cloud-outages-brand-equity/"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "09/10/2014",
+        "title": "Some customers unable to access files",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/y5hmplf84qh0"
+            }
+        ],
+        "duration": "1h8m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "09/15/2014",
+        "title": "Some customers may experience issues downloading files",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/m2mfw12lrb6w"
+            }
+        ],
+        "duration": "34m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "09/16/2014",
+        "title": "Delayed email notification",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/74f49c5w1sqh"
+            },
+            {
+                "url": "http://status.box.com/incidents/v7880vbp185x"
+            }
+        ],
+        "duration": "9h36m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "09/17/2014",
+        "title": "Uploads and download degraded",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/426jdswkyvqm"
+            }
+        ],
+        "duration": "3h8m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "09/22/2014",
+        "title": "Uploads and download degraded",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/zzlwbnf7sp7s"
+            }
+        ],
+        "duration": "5m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "09/23/2014",
+        "title": "Degraded performance \"Uploads\"",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/l8dbjm2rq22m"
+            }
+        ],
+        "duration": "5h15m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "09/24/2014",
+        "title": "Degraded performance \"Uploads\"",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/prh606wm8ng8"
+            }
+        ],
+        "duration": "29m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "10/01/2014",
+        "title": "Content preview may be degraded for some users",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/d4vg83jvn15l"
+            }
+        ],
+        "duration": "2h16m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "10/03/2014",
+        "title": "Uploads and downloads degraded",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/xl4bwhzj1y19"
+            }
+        ],
+        "duration": "35m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 11": {
+        "date": "10/06/2014",
+        "title": "Slower uploads and downloads",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/596mcgcg5sz8"
+            }
+        ],
+        "duration": "3h14m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 12": {
+        "date": "10/08/2014",
+        "title": "Box services degraded",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/9tr4yb5ly3ps"
+            },
+            {
+                "url": "http://status.box.com/incidents/c0622mxbbl9c"
+            }
+        ],
+        "duration": "4h49m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "10/09/2014",
+        "title": "Uploads/downloads degraded",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/l69m16wqhfbl"
+            }
+        ],
+        "duration": "2h14m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 14": {
+        "date": "10/13/2014",
+        "title": "Degraded performance \"Content Preview and Workflow\"",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/qf6w0shvms35"
+            },
+            {
+                "url": "http://status.box.com/incidents/9vyp2r16w25y"
+            }
+        ],
+        "duration": "5h12m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 15": {
+        "date": "10/14/2014",
+        "title": "Slower downloads",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/l63448k1kd22"
+            }
+        ],
+        "duration": "8h37m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 16": {
+        "date": "10/15/2014",
+        "title": "Degraded performance \"Box Notes\"",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/syjm24k9gxrk"
+            }
+        ],
+        "duration": "29m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 17": {
+        "date": "10/20/2014",
+        "title": "Slower content previews",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/thtb4zbgs9mt"
+            }
+        ],
+        "duration": "3h18m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 18": {
+        "date": "11/06/2014",
+        "title": "Degraded Performance: Box Notes, Box Sync, Content API",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/4g08pwl1qzm7"
+            }
+        ],
+        "duration": "3h9m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 19": {
+        "date": "11/09/2015",
+        "title": "Box Web Application may be unavailable for some users",
+        "links": [],
+        "duration": "2h25m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 20": {
+        "date": "11/20/2014",
+        "title": "FTP degraded",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/t71kl8l0w1yd"
+            }
+        ],
+        "duration": "1h48m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 21": {
+        "date": "11/24/2014",
+        "title": "Issues with SSO Login",
+        "links": [
+            {
+                "url": "http://status.box.com/incidents/rcg3jr6nlwwn"
+            }
+        ],
+        "duration": "4h46m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    }
+}

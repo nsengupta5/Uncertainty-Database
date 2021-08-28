@@ -1,0 +1,236 @@
+{
+    "Case 1": {
+        "date": "02/01/2013",
+        "title": "Office 365 and Outlook.com outage hits North American users",
+        "links": [
+            {
+                "url": "http://www.cloudpro.co.uk/saas/5248/office-365-and-outlookcom-outage-hits-north-american-users"
+            }
+        ],
+        "duration": "2h20m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "03/12/2013",
+        "title": "Details of the Hotmail / Outlook.com outage on March 12th",
+        "links": [
+            {
+                "url": "http://zatz.com/outlookpower/2013/03/15/microsoft-outlook-and-hotmail-outage-is-due-to-overheating-data-center/"
+            },
+            {
+                "url": "http://www.theverge.com/2013/3/14/4102720/outlook-outage-overheating-datacenter"
+            }
+        ],
+        "duration": "16h18m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 3": {
+        "date": "08/14/2013",
+        "title": "Microsoft Outlook, SkyDrive outages hit users worldwide",
+        "links": [
+            {
+                "url": "http://www.zdnet.com/microsoft-outlook-skydrive-outages-hit-users-worldwide-7000019398/"
+            },
+            {
+                "url": "http://www.theregister.co.uk/2013/08/14/microsoft_cloud_problems/"
+            },
+            {
+                "url": "http://www.electronista.com/articles/13/08/19/exchange.activesync.issue.flooded.servers.system.changes.made/"
+            },
+            {
+                "url": "http://www.huffingtonpost.ca/2013/08/14/outage-hits-microsoft-out_n_3756291.html"
+            }
+        ],
+        "duration": "2d22h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "09/08/2011",
+        "title": "Office 365, Google Docs go down again, could give pause to the cloud-wary",
+        "links": [
+            {
+                "url": "http://arstechnica.com/business/2011/09/office-365-google-docs-go-down-again-could-give-pause-to-the-cloud-wary/"
+            },
+            {
+                "url": "http://www.channelregister.co.uk/2011/09/09/microsoft_cloud_outage/"
+            },
+            {
+                "url": "http://www.crn.com/news/cloud/231400092/microsoft-crediting-customers-in-recent-bpos-cloud-outage.htm"
+            },
+            {
+                "url": "http://windowsteamblog.com/windows_live/b/windowslive/archive/2011/09/20/follow-up-on-the-sept-8-service-outage.aspx"
+            },
+            {
+                "url": "http://www.itnews.com.au/News/271521,microsoft-office365-hotmail-blacks-out.aspx"
+            },
+            {
+                "url": "http://www.itnews.com.au/News/271835,is-microsofts-office365-vulnerable.aspx"
+            },
+            {
+                "url": "http://www.channelregister.co.uk/2011/09/21/microsoft_reveals_cloud_outage_causes/"
+            }
+        ],
+        "duration": "3h30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "config"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 5": {
+        "date": "09/25/2013",
+        "title": "Microsoft Skydrive offers 200GB Free storage for Surface 2 Tablet users and starts wrestling with outage!",
+        "links": [
+            {
+                "url": "http://storageservers.wordpress.com/2013/09/25/microsoft-skydrive-offers-200gb-free-storage-for-surface-2-tablet-users-and-starts-wrestling-with-outage/"
+            }
+        ],
+        "duration": "40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "10/21/2015",
+        "title": "Microsoft OneDrive is down worldwide",
+        "links": [
+            {
+                "url": "http://www.neowin.net/news/microsoft-onedrive-is-down-worldwide"
+            },
+            {
+                "url": "http://mywindowshub.com/microsoft-onedrive-was-down-globally-back-in-action-now/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "11/15/2015",
+        "title": "One Drive files and account not loading. Error message: \"Our server is having a problem\"",
+        "links": [
+            {
+                "url": "http://answers.microsoft.com/en-us/onedrive/forum/odoptions-odweb/one-drive-files-and-account-not-loading-error/b2b17610-dbb2-4dc8-9e2b-02d003cfdee7?auth=1"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "11/22/2013",
+        "title": "Microsoft SkyDrive suffers outages",
+        "links": [
+            {
+                "url": "http://www.theaustralian.com.au/technology/microsoft-suffers-outages/story-e6frgakx-1226765853886?nk=17993311c8339e57dd2b84590efdab27"
+            },
+            {
+                "url": "http://www.cloudwards.net/news/skydrive-and-various-ms-services-suffer-outages-2103/"
+            },
+            {
+                "url": "http://redmondmag.com/articles/2013/11/21/windows-azure-outages.aspx"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    }
+}

@@ -1,0 +1,951 @@
+{
+    "Case 1": {
+        "date": "01/27/2015",
+        "title": "Facebook says it caused fault that sent services offline",
+        "links": [
+            {
+                "url": "http://www.bbc.com/news/technology-30996928"
+            },
+            {
+                "url": "http://www.techgeekandmore.com/2015/01/27/alert-facebook-instagram-currently-12715/"
+            },
+            {
+                "url": "http://www.wsj.com/articles/facebook-denies-lizard-squad-hacking-claim-1422342613"
+            },
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2015/01/27/facebook-outage-affects-sites-used-social-networks-log-system/"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "admin"
+            },
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "01/28/2013",
+        "title": "UPDATED: Facebook Hit By Extended Outage In Several Countries",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2013/01/28/facebook-hit-by-extended-outage-in-several-countries/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/987-facebook-website"
+            },
+            {
+                "url": "http://ibnlive.in.com/news/facebook-outage-hits-us-users-website-down-for-several-hours/369509-11.html"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606768/cloud-computing/107783-The-worst-cloud-outages-of-2013-so-far.html#slide6"
+            },
+            {
+                "url": "http://venturebeat.com/2012/01/23/anonymous-facebook/"
+            }
+        ],
+        "duration": "12h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "02/03/2014",
+        "title": "Facebook says it's back up to 100 percent after maintenance 'issue'",
+        "links": [
+            {
+                "url": "http://www.nbcnews.com/tech/internet/facebook-says-its-back-100-percent-after-maintenance-issue-f8C11430245"
+            },
+            {
+                "url": "http://cloutage.org/incidents/2376-facebook-social-networking"
+            }
+        ],
+        "duration": "3h55m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "02/07/2013",
+        "title": "In One Fell Swoop, Facebook Glitch Deep-Sixes the Web",
+        "links": [
+            {
+                "url": "http://allthingsd.com/20130207/in-one-fell-swoop-apparent-facebook-glitch-deep-sixes-the-web/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/989-facebook-connect"
+            },
+            {
+                "url": "http://www.washingtonpost.com/business/technology/facebook-outage-took-several-other-sites-with-it/2013/02/08/329d83e0-71ee-11e2-ac36-3d8d9dcaa2e2_story.html"
+            },
+            {
+                "url": "http://www.hollyit.net/blog/facebook-outage-highlights-possible-privacy-concerns"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 5": {
+        "date": "02/07/2014",
+        "title": "Is Facebook Down? Facebook Users Get Surprising Error Message",
+        "links": [
+            {
+                "url": "http://americanlivewire.com/2014-02-07-facebook-down/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/2372-facebook-social-networking"
+            },
+            {
+                "url": "http://www.valuewalk.com/2014/02/facebook-down-users-gripe-on-twitter/"
+            },
+            {
+                "url": "http://www.legacyofathousandsuns.com/forum/showthread.php?18408-Game-issues"
+            },
+            {
+                "url": "http://www.huffingtonpost.com/2014/02/07/facebook-down_n_4747815.html"
+            }
+        ],
+        "duration": "54m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "03/27/2015",
+        "title": "Facebook down: Social network offline as outage affects Europe and US",
+        "links": [
+            {
+                "url": "http://www.ibtimes.co.uk/facebook-down-social-network-offline-outage-affects-europe-us-1493877"
+            }
+        ],
+        "duration": "3h10m",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "04/03/2013",
+        "title": "Facebook Down? Outage Confirmed As Social Media Users Panic On Twitter",
+        "links": [
+            {
+                "url": "http://www.idigitaltimes.com/facebook-down-outage-confirmed-social-media-users-panic-twitter-351188"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 8": {
+        "date": "04/08/2015",
+        "title": "Facebook down: Users complain Android app version of social media website not working",
+        "links": [
+            {
+                "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-down-users-complain-mobile-app-and-desktop-versions-of-social-media-website-are-not-working-10163199.html"
+            },
+            {
+                "url": "http://www.product-reviews.net/2015/04/08/facebook-app-down-and-not-connecting-on-april-8/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "05/07/2013",
+        "title": "A \u2018site issue\u2019 is preventing some users from logging into Facebook (Update: Now fixed)",
+        "links": [
+            {
+                "url": "http://thenextweb.com/facebook/2013/05/07/a-site-issue-is-preventing-some-users-from-logging-into-facebook/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/992-facebook-social-networking"
+            }
+        ],
+        "duration": "90m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "05/09/2014",
+        "title": "Facebook Is Down For Many",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2014/05/09/facebook-is-down-for-many/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 11": {
+        "date": "06/03/2013",
+        "title": "Facebook Messages Just Went Down For 90 Minutes For Some Web And Mobile Users, Back Now",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2013/06/03/facebook-chat-down/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/967-facebook-instant-messaging"
+            }
+        ],
+        "duration": "90m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 12": {
+        "date": "06/14/2014",
+        "title": "Facebook unavailable during longest outage in four years",
+        "links": [
+            {
+                "url": "http://www.theguardian.com/technology/2014/jun/19/facebook-unavailable-longest-outage-four-years"
+            },
+            {
+                "url": "http://techcrunch.com/2014/06/19/facebook-goes-down-in-global-outage/"
+            }
+        ],
+        "duration": "30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "06/18/2013",
+        "title": "The worst cloud outages of 2013 (part 2)",
+        "links": [
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide4"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide5"
+            },
+            {
+                "url": "http://cloutage.org/incidents/984-facebook-website"
+            },
+            {
+                "url": "http://www.nbcbayarea.com/news/tech/Facebook-Outage-Sparks-Online-Frenzy-212086721.html"
+            },
+            {
+                "url": "http://www.businessinsider.com/facebook-outage-on-tuesday-causes-frenzy-on-twitter-2013-6?IR=T&"
+            }
+        ],
+        "duration": "30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 14": {
+        "date": "07/12/2010",
+        "title": "Facebook \"Like\" Buttons Break Down",
+        "links": [
+            {
+                "url": "http://mashable.com/2010/07/11/facebook-like-broken/"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 15": {
+        "date": "08/01/2014",
+        "title": "FACEBOOK OUTAGE LED TO 3% DECLINE IN TRAFFIC TO NEWS SITES [REPORT",
+        "links": [
+            {
+                "url": "http://www.webpronews.com/facebook-outage-led-to-3-decline-in-traffic-to-news-sites-report-2014-08?utm_source=Social+Media_sidebar"
+            },
+            {
+                "url": "http://venturebeat.com/2014/08/01/facebooks-blackout-cost-about-20000-a-minute-or-the-price-of-a-few-engineers/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/2376-facebook-social-networkinga-few-engineers/"
+            },
+            {
+                "url": "http://techcrunch.com/2014/08/01/facebook-is-down-for-many-2/"
+            },
+            {
+                "url": "http://blog.chartbeat.com/2014/08/04/facebook-traffic/"
+            }
+        ],
+        "duration": "1h30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 16": {
+        "date": "08/06/2009",
+        "title": "Facebook Problems Also the Result of DDoS Attack",
+        "links": [
+            {
+                "url": "http://mashable.com/2009/08/06/facebook-problems/"
+            },
+            {
+                "url": "http://mashable.com/2009/08/06/facebook-down-3/"
+            },
+            {
+                "url": "http://www.socialnomics.net/2009/08/06/twitter-facebook-outages-showcase-millions-being-addicted-to-social-media-crack/"
+            },
+            {
+                "url": "http://readwrite.com/2009/08/06/twitter_facebook_and_livejournal_down_at_the_same"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "sec"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 17": {
+        "date": "08/11/2011",
+        "title": "Facebook Rolls Out Changes to Chat, Other Experiments, Leads to Problems",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2011/08/11/facebook-rolls-out-changes-to-chat-other-experiments-leads-to-problems/"
+            },
+            {
+                "url": "http://www.huffingtonpost.com/2011/08/10/facebook-goes-down_n_924016.html"
+            }
+        ],
+        "duration": "16h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 18": {
+        "date": "08/13/2013",
+        "title": "Facebook Malware Crackdown Caused App Outage",
+        "links": [
+            {
+                "url": "http://www.networkcomputing.com/networking/facebook-malware-crackdown-caused-app-outage/d/d-id/1111198?"
+            },
+            {
+                "url": "http://cloutage.org/incidents/1182-facebook-developer-apps"
+            },
+            {
+                "url": "http://techcrunch.com/2013/08/15/facebook-apps-suspended/"
+            },
+            {
+                "url": "http://www.tmcnet.com/topics/articles/2013/08/16/349809-facebook-sorry-massive-app-outage.htm"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "sec"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            },
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            },
+            {
+                "fix": "restore"
+            }
+        ]
+    },
+    "Case 19": {
+        "date": "09/03/2014",
+        "title": "Facebook Is Down On Web And Mobile [Update: It\u2019s Coming Back After 20 Minutes",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2014/09/03/why-is-facebook-down/"
+            },
+            {
+                "url": "http://thedailyedge.thejournal.ie/facebook-went-down-september-1653235-Sep2014/"
+            }
+        ],
+        "duration": "20m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 20": {
+        "date": "09/23/2010",
+        "title": "More Details on Today's Outage",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2010/09/23/technical-details-of-facebook-outage/"
+            },
+            {
+                "url": "http://blogs.wsj.com/digits/2010/09/24/what-caused-facebooks-worst-outage-in-four-years/"
+            },
+            {
+                "url": "http://mashable.com/2010/09/23/facebook-downtime-explained/"
+            }
+        ],
+        "duration": "3h30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            },
+            {
+                "fix": "restore"
+            }
+        ]
+    },
+    "Case 21": {
+        "date": "09/28/2015",
+        "title": "Facebook has now gone down three times this month",
+        "links": [
+            {
+                "url": "http://venturebeat.com/2015/09/28/facebook-has-now-gone-down-three-times-this-month/"
+            },
+            {
+                "url": "http://www.siliconbeat.com/2015/09/28/facebook-experiences-outage-for-more-than-an-hour/"
+            },
+            {
+                "url": "http://www.bbc.com/news/world-us-canada-34383655"
+            },
+            {
+                "url": "http://techcrunch.com/2015/09/28/yes-facebook-is-down/"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 22": {
+        "date": "10/11/2012",
+        "title": "Facebook blames DNS test for European outage lasting more than an hour, denies hacking allegations",
+        "links": [
+            {
+                "url": "http://thenextweb.com/facebook/2012/10/11/facebook-apparently-down-in-several-countries-worldwide-including-italy-germany-france-and-more/"
+            },
+            {
+                "url": "http://thenextweb.com/facebook/2012/10/26/as-tumblr-dropbox-and-google-app-engine-come-back-to-life-facebook-goes-down/"
+            },
+            {
+                "url": "http://www.outages.org/reports/view/107"
+            },
+            {
+                "url": "http://cloutage.org/incidents/985-facebook-social-networking"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 23": {
+        "date": "10/13/2009",
+        "title": "Facebook Outage Silences 150,000 Users",
+        "links": [
+            {
+                "url": "http://www.pcworld.com/article/173550/facebook_outage.html"
+            },
+            {
+                "url": "http://www.cnet.com/news/facebook-database-outage-cut-off-about-150000/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/7-facebook-facebook"
+            }
+        ],
+        "duration": "10d",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            },
+            {
+                "implication": "loss"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "restore"
+            }
+        ]
+    },
+    "Case 24": {
+        "date": "10/21/2013",
+        "title": "Facebook Suffers Sitewide Errors for Many Users",
+        "links": [
+            {
+                "url": "http://mashable.com/2013/10/21/facebook-currently-doesnt-allow-status-updates/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/1489-facebook-social-networking"
+            },
+            {
+                "url": "http://techcrunch.com/2013/10/21/facebook-experiences-partial-outage-on-desktop-and-mobile/"
+            },
+            {
+                "url": "http://www.cnet.com/news/facebook-outages-fixed-now-back-to-100/"
+            },
+            {
+                "url": "http://thenextweb.com/facebook/2013/10/21/facebook-bug-means-many-people-cant-post-status-updates/"
+            },
+            {
+                "url": "http://www.huffingtonpost.com/2013/10/21/facebook-down_n_4135669."
+            },
+            {
+                "url": "http://www.computerworld.com/s/article/9243388/Relax._Monday_morning_Facebook_outage_is_over?source=rss_keyword_sharon+gaudin"
+            },
+            {
+                "url": "http://gizmodo.com/facebook-has-a-case-of-the-mondays-1449024936"
+            },
+            {
+                "url": "http://blogs.wsj.com/digits/2013/10/21/the-facebook-status-update-problem-isnt-just-you/"
+            },
+            {
+                "url": "http://ibnlive.in.com/news/facebook-outage-users-unable-to-update-status-like-comment-or-share/429690-11.html"
+            },
+            {
+                "url": "http://articles.chicagotribune.com/2013-10-21/business/chi-facebook-down-20131021_1_facebook-global-outage-error-message"
+            },
+            {
+                "url": "http://venturebeat.com/2013/10/21/welcome-to-the-great-monday-morning-facebook-outage/"
+            }
+        ],
+        "duration": "1h35m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 25": {
+        "date": "10/22/2010",
+        "title": "Facebook Goes Down; Second Major Outage in a Month",
+        "links": [
+            {
+                "url": "http://mashable.com/2010/10/22/facebook-down-again-2/"
+            }
+        ],
+        "duration": "25m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 26": {
+        "date": "11/08/2013",
+        "title": "Facebook is investigating user reports of Timelines on profiles and Pages failing to load (Update: Fixed)",
+        "links": [
+            {
+                "url": "http://thenextweb.com/facebook/2013/11/08/facebook-timelines-profiles-pages-failing-load-many-users/"
+            },
+            {
+                "url": "http://www.theregister.co.uk/2013/11/08/facebook_flounders_as_mystery_malady_plagues_profiles/"
+            },
+            {
+                "url": "http://www.zdnet.com/frazzled-facebook-is-only-partly-functional-7000022205/"
+            },
+            {
+                "url": "http://www.electronista.com/articles/13/11/08/profile.outage.follows.similar.incident.on.october.21st/"
+            },
+            {
+                "url": "http://m.foxbusiness.com/quickPage.html?page=32811&external=2412401.proteus.fma"
+            },
+            {
+                "url": "http://cloutage.org/incidents/1658-facebook-social-networking"
+            }
+        ],
+        "duration": "5h15m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 27": {
+        "date": "11/13/2015",
+        "title": "Facebook down: Site breaks for many people, though not for everyone",
+        "links": [
+            {
+                "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-down-site-breaks-for-many-people-though-not-for-everyone-a6732906.html"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 28": {
+        "date": "11/30/2012",
+        "title": "Update: Facebook Website Experienced 20 Minutes Of Downtime, Mobile App And Website Were Still Working",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2012/11/30/facebook-website-down-mobile-app-and-website-still-working/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/988-facebook-website"
+            }
+        ],
+        "duration": "20m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 29": {
+        "date": "12/10/2012",
+        "title": "Facebook suffers major outage, knocked offline",
+        "links": [
+            {
+                "url": "http://www.cnet.com/news/facebook-suffers-major-outage-knocked-offline/"
+            },
+            {
+                "url": "http://cloutage.org/incidents/986-facebook-website-api"
+            },
+            {
+                "url": "http://www.itproportal.com/2012/12/12/facebook-outage-blamed-dns-issue/"
+            },
+            {
+                "url": "http://www.itproportal.com/2012/12/12/facebook-outage-blamed-dns-issue/#ixzz3uMBFahqp"
+            }
+        ],
+        "duration": "25m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 30": {
+        "date": "12/11/2012",
+        "title": "Facebook returns to full service, blames DNS update for downtime",
+        "links": [
+            {
+                "url": "http://thenextweb.com/facebook/2012/12/11/facebook-encountering-dns-issues-making-it-unavailable-for-some-users/"
+            },
+            {
+                "url": "http://mashable.com/2012/12/10/facebook-gone-down/"
+            }
+        ],
+        "duration": "30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 31": {
+        "date": "12/15/2015",
+        "title": "Problems at Facebook Messenger",
+        "links": [
+            {
+                "url": "http://downdetector.com/status/facebook-messenger/news/15295-problems-at-facebook-messenger"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 32": {
+        "date": "12/16/2010",
+        "title": "Facebook Goes Down Amid Rollout of New Brand Pages [UPDATED",
+        "links": [
+            {
+                "url": "http://mashable.com/2010/12/16/facebook-down-rollout/"
+            }
+        ],
+        "duration": "30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "roll"
+            }
+        ]
+    }
+}

@@ -1,0 +1,341 @@
+{
+    "Case 1": {
+        "date": "01/10/2013",
+        "title": "Client Syncing, and Uploading via the website, will be affected for approximately the next hour. Thank you for your patience.",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2013/01/10/dropbox-experiencing-syncing-issues-on-the-web-and-desktop-but-your-files-are-safe/"
+            },
+            {
+                "url": "http://talkincloud.com/cloud-storage/dropbox-outage-represents-first-major-cloud-outage-2013"
+            },
+            {
+                "url": "http://www.zdnet.com/dropbox-users-experiencing-upload-problems-aws-questioned-again-7000009680/"
+            },
+            {
+                "url": "http://blog.vembu.com/dropbox-started-with-a-snap/#more-4607"
+            }
+        ],
+        "duration": "15h43m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "01/10/2014",
+        "title": "Outage post-mortem",
+        "links": [
+            {
+                "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide2"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2609620/encryption/dropbox-glitch-makes-a-strong-case-for-encryption-by-default.html"
+            },
+            {
+                "url": "http://techcrunch.com/2014/01/12/dropbox-outage-internal-maintenance/"
+            },
+            {
+                "url": "http://appleinsider.com/articles/14/01/11/dropbox-denies-hacker-breach-responsible-for-hours-long-outage"
+            },
+            {
+                "url": "http://thenextweb.com/insider/2014/01/11/dropbox-is-down-due-to-routine-maintenance-issue-not-security-breach/"
+            }
+        ],
+        "duration": "1d23h10m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            },
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "restore"
+            }
+        ]
+    },
+    "Case 3": {
+        "date": "03/14/2014",
+        "title": "The worst cloud outages of 2014 (so far)",
+        "links": [
+            {
+                "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide4"
+            },
+            {
+                "url": "http://www.zdnet.com/article/dropbox-hit-by-outage-file-sync-busted/"
+            },
+            {
+                "url": "http://www.thewhir.com/web-hosting-news/dropbox-suffers-temporary-outage-impacting-file-sharing-synchronizing"
+            }
+        ],
+        "duration": "40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "04/21/2011",
+        "title": "Amazon\u2019s ec2 cloud computing service down the fourth day",
+        "links": [
+            {
+                "url": "http://cloud-computing-economics.com/business-benefits-applications/amazons-ec2-cloud-computing-service-fourth-day/"
+            },
+            {
+                "url": "http://www.infoq.com/news/2011/04/Amazon-EC2-Outage-Explained"
+            },
+            {
+                "url": "http://aws.amazon.com/message/65648/"
+            }
+        ],
+        "duration": "2d5h28m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "cross"
+            }
+        ]
+    },
+    "Case 5": {
+        "date": "05/30/2013",
+        "title": "Dropbox Currently Experiencing Widespread Service Outage",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2013/05/30/dropbox-currently-experiencing-widespread-service-outage/"
+            },
+            {
+                "url": "http://www.zdnet.com/dropbox-suffers-global-outage-files-safe-sync-broken-7000016126/"
+            },
+            {
+                "url": "http://www.cio.com.au/article/463308/dropbox_goes_down_more_than_an_hour/"
+            },
+            {
+                "url": "http://blog.vembu.com/2013/05/"
+            },
+            {
+                "url": "http://mashable.com/2013/05/30/dropbox-outage/"
+            }
+        ],
+        "duration": "90m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "06/14/2012",
+        "title": "Amazon Web Services suffers partial outage",
+        "links": [
+            {
+                "url": "http://www.zdnet.com/blog/btl/amazon-web-services-suffers-partial-outage/79981"
+            },
+            {
+                "url": "http://gigaom.com/2012/06/14/did-amazons-web-services-go-down/"
+            },
+            {
+                "url": "http://www.quora.com/What-caused-the-AWS-us-east-1-outage-on-June-14-2012"
+            },
+            {
+                "url": "http://vmblog.com/archive/2012/06/19/aws-outage-thoughts-on-disaster-recovery-policies.aspx#.VA7ObmCSzeQ"
+            },
+            {
+                "url": "http://www.cloudcow.com/content/aws-outage-%E2%80%93-thoughts-disaster-recovery-policies"
+            }
+        ],
+        "duration": "4h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "cross"
+            }
+        ]
+    },
+    "Case 7": {
+        "date": "06/19/2011",
+        "title": "Yesterday's Authentication Bug",
+        "links": [
+            {
+                "url": "http://www.zdnet.com/article/why-i-switched-from-dropbox-to-windows-live-mesh/"
+            },
+            {
+                "url": "http://www.zdnet.com/article/did-the-dropbox-security-lapse-poison-the-well-for-icloud/"
+            },
+            {
+                "url": "http://techcrunch.com/2011/06/20/dropbox-security-bug-made-passwords-optional-for-four-hours/"
+            }
+        ],
+        "duration": "3h52m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 8": {
+        "date": "07/31/2012",
+        "title": "Dropbox gets hacked ... again",
+        "links": [
+            {
+                "url": "http://www.zdnet.com/article/dropbox-gets-hacked-again/"
+            },
+            {
+                "url": "http://techcrunch.com/2012/07/17/dropbox-users-targeted-by-spam-possible-address-leak-to-blame/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "sec"
+            }
+        ],
+        "implications": [],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 9": {
+        "date": "08/21/2013",
+        "title": "Dropbox Users Experiencing Slowness & Inaccessible Files",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2012/08/21/dropbox-users-experiencing-slowness-inaccessible-files/"
+            }
+        ],
+        "duration": "9h",
+        "planned": "no",
+        "causes": [],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 10": {
+        "date": "08/30/2015",
+        "title": "Dropbox DROPS BOX as service GOES TITSUP worldwide",
+        "links": [
+            {
+                "url": "http://www.theregister.co.uk/2015/08/30/dropbox_outage/"
+            },
+            {
+                "url": "http://www.fiercecio.com/story/dropbox-suffers-outage-over-weekend/2015-08-31"
+            },
+            {
+                "url": "http://webscripts.softpedia.com/blog/botched-maintenance-leaves-dropbox-offline-for-a-few-hours-490462.shtml"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 11": {
+        "date": "10/26/2012",
+        "title": "Google App Engine Back Up After Major Service Disruption \u2013 Dropbox and Tumblr Also Suffer",
+        "links": [
+            {
+                "url": "http://techcrunch.com/2012/10/26/google-app-engine-down-with-major-service-disruption-as-dropbox-and-tumblr-also-suffer/"
+            },
+            {
+                "url": "http://thenextweb.com/insider/2012/10/26/major-sites-and-platforms-experienpcing-outages-today-including-dropbox-and-google-app-engine/"
+            },
+            {
+                "url": "http://techfruit.com/2012/10/26/its-a-bad-day-for-the-cloud-as-dropbox-google-app-engine-and-tumblr-go-down/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    }
+}

@@ -1,0 +1,598 @@
+{
+    "Case 1": {
+        "date": "01/06/2014",
+        "title": "Amazon 'Outage' Actually ISP Fiber Line Cut",
+        "links": [
+            {
+                "url": "http://talkincloud.com/public-cloud/010714/east-coast-blizzard-takes-down-amazon-customers"
+            }
+        ],
+        "duration": "2h15m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "cross"
+            }
+        ]
+    },
+    "Case 2": {
+        "date": "03/15/2012",
+        "title": "Amazon EC2 Recovers After Brief Downtime",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2012/03/15/amazon-ec2-recovers-after-brief-downtime/"
+            }
+        ],
+        "duration": "21m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "04/21/2011",
+        "title": "Summary of the Amazon EC2 and Amazon RDS Service Disruption in the US East Region",
+        "links": [
+            {
+                "url": "http://aws.amazon.com/message/65648/"
+            },
+            {
+                "url": "http://money.cnn.com/2011/04/21/technology/amazon_server_outage/"
+            },
+            {
+                "url": "http://www.rightscale.com/blog/cloud-industry-insights/amazon-ec2-outage-summary-and-lessons-learned"
+            },
+            {
+                "url": "http://www.infoq.com/news/2011/04/Amazon-EC2-Outage-Explained"
+            }
+        ],
+        "duration": "2d5h28m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            },
+            {
+                "cause": "admin"
+            },
+            {
+                "cause": "bug"
+            },
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "add"
+            },
+            {
+                "fix": "restore"
+            }
+        ]
+    },
+    "Case 4": {
+        "date": "05/04/2010",
+        "title": "Amazon Addresses EC2 Power Outages",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2010/05/10/amazon-addresses-ec2-power-outages/"
+            }
+        ],
+        "duration": "4h13m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 5": {
+        "date": "05/08/2010",
+        "title": "Amazon Addresses EC2 Power Outages",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2010/05/10/amazon-addresses-ec2-power-outages/"
+            }
+        ],
+        "duration": "7h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 6": {
+        "date": "05/13/2010",
+        "title": "Car Crash Triggers Amazon Power Outage",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2010/05/13/car-crash-triggers-amazon-power-outage/"
+            }
+        ],
+        "duration": "1h3m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            },
+            {
+                "cause": "natdis"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 7": {
+        "date": "06/11/2009",
+        "title": "Lightning Strike Triggers Amazon EC2 Outage",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2009/06/11/lightning-strike-triggers-amazon-ec2-outage/"
+            }
+        ],
+        "duration": "4h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            },
+            {
+                "cause": "natdis"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 8": {
+        "date": "06/15/2012",
+        "title": "Power Outage Affects Amazon Customers",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2012/06/15/power-outage-affects-amazon-customers/"
+            },
+            {
+                "url": "http://www.wired.com/2012/06/amazon-outage-pilot-error/"
+            }
+        ],
+        "duration": "6h36m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 9": {
+        "date": "06/29/2012",
+        "title": "Summary of the AWS Service Event in the US East Region",
+        "links": [
+            {
+                "url": "http://aws.amazon.com/message/67457/"
+            },
+            {
+                "url": "http://www.forbes.com/sites/anthonykosner/2012/06/30/amazon-cloud-goes-down-friday-night-taking-netflix-instagram-and-pinterest-with-it/"
+            },
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2012/06/29/another-outage-amazon-cloud/"
+            },
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2012/07/03/multiple-generator-failures-caused-amazon-outage/"
+            }
+        ],
+        "duration": "24h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            },
+            {
+                "cause": "natdis"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 10": {
+        "date": "07/19/2009",
+        "title": "Outage for Amazon Web Services",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2009/07/19/outage-for-amazon-web-services/"
+            }
+        ],
+        "duration": "15m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [],
+        "fixes": []
+    },
+    "Case 11": {
+        "date": "08/07/2011",
+        "title": "Summary of the Amazon EC2, Amazon EBS, and Amazon RDS Service Event in the EU West Region",
+        "links": [
+            {
+                "url": "http://aws.amazon.com/message/2329B7/"
+            },
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2011/08/07/lightning-in-dublin-knocks-amazon-microsoft-data-centers-offline/"
+            },
+            {
+                "url": "http://techcrunch.com/2011/08/08/amazon-ec2-outage/"
+            }
+        ],
+        "duration": "3d9h44m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "natdis"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "restore"
+            },
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 12": {
+        "date": "08/10/2015",
+        "title": "Amazon investigating major cloud outage, GitHub and Heroku report issues",
+        "links": [
+            {
+                "url": "http://www.techweekeurope.co.uk/cloud/cloud-management/aws-suffers-cloud-outage-amazon-174529"
+            },
+            {
+                "url": "http://www.information-age.com/technology/cloud-and-virtualisation/123459971/amazon-investigating-major-cloud-outage-github-and-heroku-report-issues"
+            }
+        ],
+        "duration": "40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            },
+            {
+                "cause": "cross"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 13": {
+        "date": "08/25/2013",
+        "title": "Amazon Web Services suffers outage, takes down Vine, Instagram, others with it",
+        "links": [
+            {
+                "url": "http://www.zdnet.com/article/amazon-web-services-suffers-outage-takes-down-vine-instagram-others-with-it/"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide10"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide11"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 14": {
+        "date": "09/13/2013",
+        "title": "Network Issues Cause Amazon Cloud Outage",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2013/09/13/network-issues-cause-amazon-cloud-outage/"
+            },
+            {
+                "url": "http://www.usatoday.com/story/tech/2013/09/13/amazon-cloud-outage/2810257/"
+            },
+            {
+                "url": "http://www.infoq.com/news/2013/09/aws-east-outage"
+            }
+        ],
+        "duration": "1h50m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 15": {
+        "date": "09/20/2015",
+        "title": "Summary of the Amazon DynamoDB Service Disruption and Related Impacts in the US-East Region",
+        "links": [
+            {
+                "url": "http://www.theregister.co.uk/2015/09/20/aws_database_outage/"
+            },
+            {
+                "url": "http://www.informationweek.com/cloud/infrastructure-as-a-service/amazon-disruption-produces-cloud-outage-spiral/d/d-id/1322279"
+            }
+        ],
+        "duration": "4h55m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            },
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "cross"
+            }
+        ]
+    },
+    "Case 16": {
+        "date": "09/25/2014",
+        "title": "EC2 Maintenance Update",
+        "links": [
+            {
+                "url": "http://www.zdnet.com/article/aws-users-fret-over-downtime-ahead-of-amazons-massive-ec2-reboot/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "sec"
+            },
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "restart"
+            }
+        ]
+    },
+    "Case 17": {
+        "date": "10/04/2009",
+        "title": "DDoS attack rains down on Amazon cloud",
+        "links": [
+            {
+                "url": "http://www.theregister.co.uk/2009/10/05/amazon_bitbucket_outage/"
+            }
+        ],
+        "duration": "19h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "sec"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "restart"
+            }
+        ]
+    },
+    "Case 18": {
+        "date": "10/22/2012",
+        "title": "Summary of the October 22, 2012 AWS Service Event in the US-East Region",
+        "links": [
+            {
+                "url": "http://aws.amazon.com/message/680342/"
+            },
+            {
+                "url": "http://arstechnica.com/information-technology/2012/10/amazon-web-services-outage-once-again-shows-reality-behind-the-cloud/"
+            },
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2012/10/23/aws-outage-rivals-seek-to-capitalize/"
+            },
+            {
+                "url": "http://techcrunch.com/2012/10/22/aws-ec2-issues-in-north-virginia-affect-heroku-reddit-and-others-heroku-still-down/"
+            },
+            {
+                "url": "http://techcrunch.com/2012/10/27/amazon-web-services-outage-caused-by-memory-leak-and-failure-in-monitoring-alarm/"
+            }
+        ],
+        "duration": "6h15m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 19": {
+        "date": "12/10/2009",
+        "title": "Brief Power Outage for Amazon Data Center",
+        "links": [
+            {
+                "url": "http://www.datacenterknowledge.com/archives/2009/12/10/power-outage-for-amazon-data-center/"
+            }
+        ],
+        "duration": "45m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 20": {
+        "date": "12/11/2009",
+        "title": "Amazon EC2 cloud service hit by botnet, outage",
+        "links": [
+            {
+                "url": "http://www.cnet.com/news/amazon-ec2-cloud-service-hit-by-botnet-outage/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "sec"
+            }
+        ],
+        "implications": [],
+        "fixes": [
+            {
+                "fix": "restore"
+            }
+        ]
+    }
+}

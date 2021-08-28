@@ -1,0 +1,122 @@
+{
+    "Case 1": {
+        "date": "01/24/2014",
+        "title": "Gmail And Google+ Go Down Across The World, Service Returns After Roughly 50 Minutes",
+        "links": [
+            {
+                "url": "http://googleblog.blogspot.com/2014/01/todays-outage-for-several-google.html"
+            },
+            {
+                "url": "http://techcrunch.com/2014/01/24/gmail-goes-down-across-the-world/"
+            }
+        ],
+        "duration": "30m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            },
+            {
+                "cause": "bug"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 2": {
+        "date": "02/15/2013",
+        "title": "Google+ experiencing outage, temporarily the anti-social network",
+        "links": [
+            {
+                "url": "http://www.engadget.com/2013/02/15/google-plus-outage/"
+            },
+            {
+                "url": "http://www.cio.com/article/2388283/internet/google--suffers-outage-friday-morning.html"
+            }
+        ],
+        "duration": "20m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "03/17/2014",
+        "title": "Google Apps Incident Report",
+        "links": [
+            {
+                "url": "http://static.googleusercontent.com/media/www.google.com/en/us/appsstatus/ir/foyrkcdqoojjapj.pdf"
+            },
+            {
+                "url": "http://www.theepochtimes.com/n3/567037-google-drive-down-google-docs-outage-suffered-by-many/"
+            },
+            {
+                "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide5"
+            }
+        ],
+        "duration": "3h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "config"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            },
+            {
+                "fix": "add"
+            }
+        ]
+    },
+    "Case 4": {
+        "date": "10/22/2014",
+        "title": "Gmail, Google Docs and Google+ Suffer Service Outages Around the World",
+        "links": [
+            {
+                "url": "http://www.ibtimes.co.uk/gmail-google-docs-google-suffering-service-outages-around-world-1471188"
+            },
+            {
+                "url": "http://news.softpedia.com/news/Google-plus-Is-Down-Error-500-October-22-2014-462784.shtml"
+            },
+            {
+                "url": "http://9to5google.com/2014/10/22/google-plus-hangouts-youtube-comments-outage/"
+            }
+        ],
+        "duration": "unk",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    }
+}

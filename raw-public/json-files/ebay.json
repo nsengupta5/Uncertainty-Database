@@ -1,0 +1,295 @@
+{
+    "Case 1": {
+        "date": "02/22/2013",
+        "title": "eBay Experiences Search Outage Friday Morning",
+        "links": [
+            {
+                "url": "http://www.ecommercebytes.com/C/blog/blog.pl?/pl/2013/2/1361543038.html"
+            }
+        ],
+        "duration": "1h34m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 2": {
+        "date": "07/30/2014",
+        "title": "eBay is down, it\u2019s not just you",
+        "links": [
+            {
+                "url": "http://www.slashgear.com/ebay-is-down-its-not-just-you-30339330/"
+            }
+        ],
+        "duration": "1h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 3": {
+        "date": "07/31/2014",
+        "title": "eBay Denies Outage Days after Widespread Accessibility Issues",
+        "links": [
+            {
+                "url": "http://www.ecommercebytes.com/C/blog/blog.pl?/pl/2014/8/1406995571.html"
+            },
+            {
+                "url": "http://www2.ebay.com/aw/core/201407301608171.html"
+            },
+            {
+                "url": "http://www2.ebay.com/aw/core/201408012110171.html"
+            }
+        ],
+        "duration": "15m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 4": {
+        "date": "08/12/2014",
+        "title": "More embarrassment for eBay as it experiences 10th outage this year",
+        "links": [
+            {
+                "url": "http://www.itproportal.com/2014/08/12/is-ebay-down-auction-site-suffers-10th-outage-in-a-year/"
+            },
+            {
+                "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/ebay-down-in-europe-auction-site-back-online-after-suffering-tenth-major-outage-this-year-9665315.html"
+            },
+            {
+                "url": "http://www.itproportal.com/2014/08/13/ebay-amazon-and-linkedin-taken-down-by-huge-worldwide-internet-outage-ipv4-ipv6-bgp-routers-address-exhaustion/"
+            },
+            {
+                "url": "http://www.itproportal.com/2014/08/12/is-ebay-down-auction-site-suffers-10th-outage-in-a-year/#ixzz3x5qNaaAI"
+            }
+        ],
+        "duration": "225m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 5": {
+        "date": "08/22/2013",
+        "title": "A message regarding last night\u2019s site outage",
+        "links": [
+            {
+                "url": "http://announcements.ebay.com/2013/08/a-message-regarding-last-nights-site-outage/"
+            },
+            {
+                "url": "http://www.ecommercebytes.com/cab/abn/y13/m08/i23/s04"
+            }
+        ],
+        "duration": "375m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 6": {
+        "date": "09/03/2014",
+        "title": "eBay Spends Anniversary Fighting Severe Technical Issues",
+        "links": [
+            {
+                "url": "http://www.ecommercebytes.com/cab/abn/y14/m09/i04/s01"
+            },
+            {
+                "url": "http://www2.ebay.com/aw/uk/201409031035252.html"
+            }
+        ],
+        "duration": "48m",
+        "planned": "yes",
+        "causes": [
+            {
+                "cause": "upgrade"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 7": {
+        "date": "09/14/2014",
+        "title": "A Message From Sri Shivananda, VP of eBay\u2019s Global Platform & Infrastructure Group",
+        "links": [
+            {
+                "url": "http://announcements.ebay.com/2014/09/a-message-from-sri-shivananda-vp-of-ebays-global-platform-infrastructure-group/"
+            },
+            {
+                "url": "http://www.theregister.co.uk/2014/09/14/ebay_outage/"
+            },
+            {
+                "url": "http://www.ecommercebytes.com/C/blog/blog.pl?/pl/2014/9/1410692548.html"
+            },
+            {
+                "url": "http://www.ecommercebytes.com/cab/abn/y14/m09/i15/s01"
+            }
+        ],
+        "duration": "3h40m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    },
+    "Case 8": {
+        "date": "10/10/2014",
+        "title": "Breaking News: Another eBay Outage Hits the Site",
+        "links": [
+            {
+                "url": "http://www.ecommercebytes.com/C/blog/blog.pl?/pl/2014/10/1412979130.html"
+            }
+        ],
+        "duration": "2h",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 9": {
+        "date": "10/29/2015",
+        "title": "Thursday's eBay and PayPal Outages Prove Costly to Sellers",
+        "links": [
+            {
+                "url": "http://www.ecommercebytes.com/cab/abn/y15/m11/i02/s01"
+            },
+            {
+                "url": "http://www.ecommercebytes.com/cab/abn/y15/m11/i16/s01"
+            },
+            {
+                "url": "http://fortune.com/2015/10/30/paypal-outage-sales/"
+            }
+        ],
+        "duration": "3h1m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "cross"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": []
+    },
+    "Case 10": {
+        "date": "11/10/2014",
+        "title": "eBay Experiences Yet Another Outage",
+        "links": [
+            {
+                "url": "http://www.ecommercebytes.com/C/abblog/blog.pl?/pl/2014/11/1415656224.html"
+            },
+            {
+                "url": "http://www2.ebay.com/aw/core/201411100749341.html"
+            }
+        ],
+        "duration": "100m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "fail"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "down"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "add"
+            }
+        ]
+    },
+    "Case 11": {
+        "date": "11/21/2009",
+        "title": "Major Search Outage Leaves eBay Shoppers Empty-Handed",
+        "links": [
+            {
+                "url": "http://www.ecommercebytes.com/C/abblog/blog.pl?/pl/2009/11/1258839253.html"
+            }
+        ],
+        "duration": "1d20h36m",
+        "planned": "no",
+        "causes": [
+            {
+                "cause": "unk"
+            }
+        ],
+        "implications": [
+            {
+                "implication": "op"
+            }
+        ],
+        "fixes": [
+            {
+                "fix": "fix"
+            }
+        ]
+    }
+}
