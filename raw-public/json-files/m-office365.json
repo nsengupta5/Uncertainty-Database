@@ -10,7 +10,7 @@
                 "url": "http://community.office365.com/en-us/f/148/t/84337.aspx"
             }
         ],
-        "duration": "2h32m",
+        "duration": 152,
         "planned": "no",
         "causes": [
             {
@@ -39,7 +39,7 @@
                 "url": "http://www.cloudsherpas.com/email-and-data-migration/cloudy-skies-in-the-forecast-for-microsoft-as-office-365-experiences-another-outage/"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -67,7 +67,7 @@
                 "url": "http://www.theregister.co.uk/2011/05/09/microsoft_office_live_intermittent_access_issues/"
             }
         ],
-        "duration": "14h15m",
+        "duration": 855,
         "planned": "no",
         "causes": [
             {
@@ -99,7 +99,7 @@
                 "url": "http://community.office365.com/en-us/f/158/t/248119.aspx"
             }
         ],
-        "duration": "6h",
+        "duration": 366,
         "planned": "no",
         "causes": [
             {
@@ -131,7 +131,7 @@
                 "url": "http://www.informationweek.com/cloud/software-as-a-service/microsoft-explains-exchange-outage/d/d-id/1278950"
             }
         ],
-        "duration": "9h",
+        "duration": 549,
         "planned": "no",
         "causes": [
             {
@@ -163,7 +163,7 @@
                 "url": "http://blog.enowsoftware.com/solutions-engine/annual-summer-office-365-outage-2015"
             }
         ],
-        "duration": "4h",
+        "duration": 244,
         "planned": "no",
         "causes": [],
         "implications": [
@@ -185,7 +185,7 @@
                 "url": "http://www.channelregister.co.uk/2011/08/18/microsoft_cloud_outages/"
             }
         ],
-        "duration": "5h",
+        "duration": 305,
         "planned": "no",
         "causes": [
             {
@@ -207,7 +207,7 @@
                 "url": "http://www.zdnet.com/office-365-outage-thursday-night-7000020069/"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -251,7 +251,7 @@
                 "url": "http://www.channelregister.co.uk/2011/09/21/microsoft_reveals_cloud_outage_causes/"
             }
         ],
-        "duration": "3h30m",
+        "duration": 210,
         "planned": "no",
         "causes": [
             {
@@ -286,7 +286,7 @@
                 "url": "http://www.geekwire.com/2012/microsoft-touts-office-365s-enterprise-class-service-email-outage/"
             }
         ],
-        "duration": "7h59m",
+        "duration": 479,
         "planned": "no",
         "causes": [
             {
@@ -308,7 +308,7 @@
                 "url": "http://blogs.office.com/2012/11/13/update-on-recent-customer-issues/"
             }
         ],
-        "duration": "5h2m",
+        "duration": 302,
         "planned": "no",
         "causes": [
             {
@@ -349,7 +349,7 @@
                 "url": "http://azure.microsoft.com/blog/2014/11/19/update-on-azure-storage-service-interruption/"
             }
         ],
-        "duration": "10h54m",
+        "duration": 654,
         "planned": "no",
         "causes": [
             {
@@ -375,7 +375,7 @@
                 "url": "http://redmondmag.com/articles/2013/11/21/windows-azure-outages.aspx"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -403,7 +403,7 @@
                 "url": "http://www.zdnet.com/article/microsofts-december-3-office-365-outage-what-went-wrong/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -429,7 +429,7 @@
                 "url": "http://www.computing.co.uk/ctg/news/2439832/another-microsoft-office-365-and-azure-outage-hits-uk-and-europe"
             }
         ],
-        "duration": "2h5m",
+        "duration": 125,
         "planned": "no",
         "causes": [
             {

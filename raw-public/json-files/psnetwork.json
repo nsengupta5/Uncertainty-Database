@@ -7,7 +7,7 @@
                 "url": "http://www.gameranx.com/updates/id/19623/article/planetside-2-hacker-attack-leads-to-brief-psn-dcuo-outage/"
             }
         ],
-        "duration": "8h",
+        "duration": 488,
         "planned": "no",
         "causes": [
             {
@@ -29,7 +29,7 @@
                 "url": "http://venturebeat.com/2015/01/07/playstation-network-down-for-some-gamers-sony-engineers-investigating/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -51,7 +51,7 @@
                 "url": "http://venturebeat.com/2015/01/13/psn-down-yet-again-for-some-ps4-and-ps3-players/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -73,7 +73,7 @@
                 "url": "http://venturebeat.com/2015/02/01/psn-down-for-many-during-super-bowl/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -98,7 +98,7 @@
                 "url": "http://blog.us.playstation.com/2010/03/01/latest-info-on-playstation-network-status/"
             }
         ],
-        "duration": "24h",
+        "duration": 1464,
         "planned": "no",
         "causes": [
             {
@@ -120,7 +120,7 @@
                 "url": "http://www.themarysue.com/psn-down-maintenance/"
             }
         ],
-        "duration": "14h",
+        "duration": 854,
         "planned": "yes",
         "causes": [
             {
@@ -142,7 +142,7 @@
                 "url": "http://segmentnext.com/2013/03/16/recent-psn-outage/"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -164,7 +164,7 @@
                 "url": "http://venturebeat.com/2015/03/18/psn-down-and-the-service-status-site-isnt-loading/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -186,7 +186,7 @@
                 "url": "http://venturebeat.com/2015/04/02/playstation-network-is-down-for-some/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -211,7 +211,7 @@
                 "url": "http://blog.us.playstation.com/2011/04/21/latest-update-on-psn-outage/#comments"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -233,7 +233,7 @@
                 "url": "http://venturebeat.com/2015/05/15/psn-down-gamers-experiencing-internet-issues-on-playstation-consoles/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -255,7 +255,7 @@
                 "url": "http://venturebeat.com/2015/07/03/psn-down-intermittently-leading-into-the-long-weekend/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -277,7 +277,7 @@
                 "url": "http://techcrunch.com/2015/07/14/psn-made-me-read-your-bloody-tweets/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -299,7 +299,7 @@
                 "url": "http://venturebeat.com/2015/07/28/playstation-network-is-down-once-again-for-gamers-on-sony-consoles/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -324,7 +324,7 @@
                 "url": "http://www.joystiq.com/2009/08/17/playstation-network-to-go-offline-tomorrow-8-18/"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "yes",
         "causes": [
             {
@@ -346,7 +346,7 @@
                 "url": "http://blog.us.playstation.com/2009/08/24/playstation-network-regular-scheduled-maintenance-2/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -368,7 +368,7 @@
                 "url": "http://venturebeat.com/2015/09/04/psn-down-as-we-head-into-long-labor-day-weekend/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -390,7 +390,7 @@
                 "url": "http://venturebeat.com/2015/09/23/psn-is-down-once-again-for-many-gamers/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -412,7 +412,7 @@
                 "url": "http://venturebeat.com/2015/09/28/playstation-network-down-for-many-on-monday-morning/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -434,7 +434,7 @@
                 "url": "http://venturebeat.com/2015/11/19/playstation-network-is-down-intermittently-for-many-gamers/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -456,7 +456,7 @@
                 "url": "http://venturebeat.com/2015/11/28/psn-is-down/"
             }
         ],
-        "duration": "9h10m",
+        "duration": 550,
         "planned": "no",
         "causes": [
             {
@@ -484,7 +484,7 @@
                 "url": "http://cloutage.org/incidents/1997-sony-computer-entertainment-america-llc-playstation-network"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -506,7 +506,7 @@
                 "url": "http://venturebeat.com/2015/12/24/psn-down-christmas-2015/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -528,7 +528,7 @@
                 "url": "http://www.businessinsider.com/xbox-live-and-playstation-network-are-still-down-and-the-hacker-gang-lizard-squad-is-loving-it-2014-12"
             }
         ],
-        "duration": "48h",
+        "duration": 2928,
         "planned": "no",
         "causes": [
             {

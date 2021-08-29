@@ -7,7 +7,7 @@
                 "url": "http://heartbeat.skype.com/2013/01/problems_signing_in_with_micro.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -29,7 +29,7 @@
                 "url": "http://heartbeat.skype.com/2009/01/delays_with_credit_card_purcha.html"
             }
         ],
-        "duration": "2d",
+        "duration": 2882,
         "planned": "no",
         "causes": [
             {
@@ -47,7 +47,7 @@
                 "url": "http://heartbeat.skype.com/2014/01/incoming_calls_via_skype_conne.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -69,7 +69,7 @@
                 "url": "http://heartbeat.skype.com/2012/01/payment_issues.html"
             }
         ],
-        "duration": "23h",
+        "duration": 1403,
         "planned": "no",
         "causes": [
             {
@@ -91,7 +91,7 @@
                 "url": "http://heartbeat.skype.com/2014/01/problem_with_paypal_payments.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -113,7 +113,7 @@
                 "url": "http://heartbeat.skype.com/2015/01/post_28.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -135,7 +135,7 @@
                 "url": "http://heartbeat.skype.com/2014/01/group_video_calling.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -157,7 +157,7 @@
                 "url": "http://heartbeat.skype.com/2010/02/delays_in_autorecharge_and_rec.html"
             }
         ],
-        "duration": "2h53m",
+        "duration": 173,
         "planned": "no",
         "causes": [
             {
@@ -179,7 +179,7 @@
                 "url": "http://heartbeat.skype.com/2009/02/autorecharge_and_recurring_pay.html"
             }
         ],
-        "duration": "12h",
+        "duration": 732,
         "planned": "no",
         "causes": [
             {
@@ -197,7 +197,7 @@
                 "url": "http://heartbeat.skype.com/2014/02/problems_with_making_payments.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -219,7 +219,7 @@
                 "url": "http://heartbeat.skype.com/2014/02/password_reset_problem.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -241,7 +241,7 @@
                 "url": "http://heartbeat.skype.com/2009/02/skype_maintenance_notification.html"
             }
         ],
-        "duration": "3d",
+        "duration": 4323,
         "planned": "yes",
         "causes": [
             {
@@ -263,7 +263,7 @@
                 "url": "http://heartbeat.skype.com/2010/02/upcoming_payment_systems_maint_2.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -285,7 +285,7 @@
                 "url": "http://heartbeat.skype.com/2010/03/credit_card_payment_maintenanc_1.html"
             }
         ],
-        "duration": "4h",
+        "duration": 244,
         "planned": "yes",
         "causes": [
             {
@@ -307,7 +307,7 @@
                 "url": "http://heartbeat.skype.com/2010/03/credit_card_payment_maintenanc_2.html"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "yes",
         "causes": [
             {
@@ -329,7 +329,7 @@
                 "url": "http://heartbeat.skype.com/2009/03/planned_maintenance_on_tuesday.html"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "yes",
         "causes": [
             {
@@ -351,7 +351,7 @@
                 "url": "http://heartbeat.skype.com/2009/03/skype_maintenance_24th_march_b.html"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "yes",
         "causes": [
             {
@@ -373,7 +373,7 @@
                 "url": "http://heartbeat.skype.com/2009/03/skype_maintenance_notification_1.html"
             }
         ],
-        "duration": "2d",
+        "duration": 2882,
         "planned": "yes",
         "causes": [
             {
@@ -395,7 +395,7 @@
                 "url": "http://heartbeat.skype.com/2014/04/lync_--_skype_and_skype_--_lyn.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -417,7 +417,7 @@
                 "url": "http://heartbeat.skype.com/2009/04/skype_names_created_with_iphon.html"
             }
         ],
-        "duration": "4d",
+        "duration": 5764,
         "planned": "no",
         "causes": [
             {
@@ -439,7 +439,7 @@
                 "url": "http://heartbeat.skype.com/2014/04/problems_with_creating_new_sky.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -461,7 +461,7 @@
                 "url": "http://heartbeat.skype.com/2014/04/skype_to_lync_calls_are_failin.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -483,7 +483,7 @@
                 "url": "http://heartbeat.skype.com/2010/04/upcoming_systems_maintenance.html"
             }
         ],
-        "duration": "9h",
+        "duration": 549,
         "planned": "yes",
         "causes": [
             {
@@ -505,7 +505,7 @@
                 "url": "http://heartbeat.skype.com/2009/05/skype_maintenance_notification_2.html"
             }
         ],
-        "duration": "4d",
+        "duration": 5764,
         "planned": "yes",
         "causes": [
             {
@@ -539,7 +539,7 @@
                 "url": "http://heartbeat.skype.com/2011/05/problems_signing_into_skype_an.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -561,7 +561,7 @@
                 "url": "http://heartbeat.skype.com/2013/05/planned_maintenance_on_may_29t.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -583,7 +583,7 @@
                 "url": "http://heartbeat.skype.com/2010/06/problems_redeeming_vouchers.html"
             }
         ],
-        "duration": "30h40m",
+        "duration": 1840,
         "planned": "no",
         "causes": [
             {
@@ -614,7 +614,7 @@
                 "url": "http://heartbeat.skype.com/2011/06/update_to_this_weeks_sign-in_p.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -636,7 +636,7 @@
                 "url": "http://heartbeat.skype.com/2010/06/skype_stores_closed_14_june_20.html"
             }
         ],
-        "duration": "15m",
+        "duration": 15,
         "planned": "yes",
         "causes": [
             {
@@ -658,7 +658,7 @@
                 "url": "http://heartbeat.skype.com/2012/06/planned_maintenance_for_accoun.html"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "yes",
         "causes": [
             {
@@ -680,7 +680,7 @@
                 "url": "http://heartbeat.skype.com/2014/07/skype_for_xbox_one_issues.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -702,7 +702,7 @@
                 "url": "http://heartbeat.skype.com/2014/02/problems_connecting_to_skype_w.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -727,7 +727,7 @@
                 "url": "http://heartbeat.skype.com/2014/07/skype_account_portal_is_unavai.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -752,7 +752,7 @@
                 "url": "http://heartbeat.skype.com/2011/07/credit_card_payment_maintenanc_3.html"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "yes",
         "causes": [
             {
@@ -774,7 +774,7 @@
                 "url": "http://heartbeat.skype.com/2009/08/skype_credit_card_payments_mai.html"
             }
         ],
-        "duration": "1h30m",
+        "duration": 90,
         "planned": "yes",
         "causes": [
             {
@@ -796,7 +796,7 @@
                 "url": "http://heartbeat.skype.com/2012/09/planned_maintanence_-_paid_pro.html"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "yes",
         "causes": [
             {
@@ -821,7 +821,7 @@
                 "url": "http://www.express.co.uk/life-style/science-technology/606780/Skype-DOWN-Microsoft-Messenger-Not-Working-Europe-Australia-USA"
             }
         ],
-        "duration": "12h53m",
+        "duration": 773,
         "planned": "no",
         "causes": [
             {
@@ -843,7 +843,7 @@
                 "url": "http://heartbeat.skype.com/2012/09/planned_maintanence_for_sms_to_1.html"
             }
         ],
-        "duration": "2h48m",
+        "duration": 168,
         "planned": "yes",
         "causes": [
             {
@@ -865,7 +865,7 @@
                 "url": "http://heartbeat.skype.com/2009/09/temporary_system_problems.html"
             }
         ],
-        "duration": "25m",
+        "duration": 25,
         "planned": "no",
         "causes": [
             {
@@ -887,7 +887,7 @@
                 "url": "http://heartbeat.skype.com/2009/10/credit_card_payment_maintenanc.html"
             }
         ],
-        "duration": "1h30m",
+        "duration": 90,
         "planned": "yes",
         "causes": [
             {
@@ -909,7 +909,7 @@
                 "url": "http://heartbeat.skype.com/2013/11/payment_systems_maintenance_2.html"
             }
         ],
-        "duration": "5h5m",
+        "duration": 305,
         "planned": "yes",
         "causes": [
             {
@@ -931,7 +931,7 @@
                 "url": "http://heartbeat.skype.com/2015/11/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -953,7 +953,7 @@
                 "url": "http://heartbeat.skype.com/2009/12/upcoming_payment_systems_maint_1.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -987,7 +987,7 @@
                 "url": "http://gigaom.com/2010/12/23/skype-ceo-tony-bates-i-am-sorry-here-is-an-update/"
             }
         ],
-        "duration": "1d",
+        "duration": 1441,
         "planned": "no",
         "causes": [
             {

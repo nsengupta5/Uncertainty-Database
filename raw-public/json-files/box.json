@@ -10,7 +10,7 @@
                 "url": "http://www.wired.com/2012/05/cloud-outages-brand-equity/"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -32,7 +32,7 @@
                 "url": "http://status.box.com/incidents/y5hmplf84qh0"
             }
         ],
-        "duration": "1h8m",
+        "duration": 68,
         "planned": "no",
         "causes": [
             {
@@ -54,7 +54,7 @@
                 "url": "http://status.box.com/incidents/m2mfw12lrb6w"
             }
         ],
-        "duration": "34m",
+        "duration": 34,
         "planned": "no",
         "causes": [
             {
@@ -79,7 +79,7 @@
                 "url": "http://status.box.com/incidents/v7880vbp185x"
             }
         ],
-        "duration": "9h36m",
+        "duration": 576,
         "planned": "no",
         "causes": [
             {
@@ -101,7 +101,7 @@
                 "url": "http://status.box.com/incidents/426jdswkyvqm"
             }
         ],
-        "duration": "3h8m",
+        "duration": 188,
         "planned": "no",
         "causes": [
             {
@@ -119,7 +119,7 @@
                 "url": "http://status.box.com/incidents/zzlwbnf7sp7s"
             }
         ],
-        "duration": "5m",
+        "duration": 5,
         "planned": "no",
         "causes": [
             {
@@ -141,7 +141,7 @@
                 "url": "http://status.box.com/incidents/l8dbjm2rq22m"
             }
         ],
-        "duration": "5h15m",
+        "duration": 315,
         "planned": "no",
         "causes": [
             {
@@ -159,7 +159,7 @@
                 "url": "http://status.box.com/incidents/prh606wm8ng8"
             }
         ],
-        "duration": "29m",
+        "duration": 29,
         "planned": "no",
         "causes": [
             {
@@ -181,7 +181,7 @@
                 "url": "http://status.box.com/incidents/d4vg83jvn15l"
             }
         ],
-        "duration": "2h16m",
+        "duration": 136,
         "planned": "no",
         "causes": [
             {
@@ -203,7 +203,7 @@
                 "url": "http://status.box.com/incidents/xl4bwhzj1y19"
             }
         ],
-        "duration": "35m",
+        "duration": 35,
         "planned": "no",
         "causes": [
             {
@@ -225,7 +225,7 @@
                 "url": "http://status.box.com/incidents/596mcgcg5sz8"
             }
         ],
-        "duration": "3h14m",
+        "duration": 194,
         "planned": "no",
         "causes": [
             {
@@ -250,7 +250,7 @@
                 "url": "http://status.box.com/incidents/c0622mxbbl9c"
             }
         ],
-        "duration": "4h49m",
+        "duration": 289,
         "planned": "no",
         "causes": [
             {
@@ -268,7 +268,7 @@
                 "url": "http://status.box.com/incidents/l69m16wqhfbl"
             }
         ],
-        "duration": "2h14m",
+        "duration": 134,
         "planned": "no",
         "causes": [
             {
@@ -293,7 +293,7 @@
                 "url": "http://status.box.com/incidents/9vyp2r16w25y"
             }
         ],
-        "duration": "5h12m",
+        "duration": 312,
         "planned": "no",
         "causes": [
             {
@@ -311,7 +311,7 @@
                 "url": "http://status.box.com/incidents/l63448k1kd22"
             }
         ],
-        "duration": "8h37m",
+        "duration": 517,
         "planned": "no",
         "causes": [
             {
@@ -333,7 +333,7 @@
                 "url": "http://status.box.com/incidents/syjm24k9gxrk"
             }
         ],
-        "duration": "29m",
+        "duration": 29,
         "planned": "no",
         "causes": [
             {
@@ -355,7 +355,7 @@
                 "url": "http://status.box.com/incidents/thtb4zbgs9mt"
             }
         ],
-        "duration": "3h18m",
+        "duration": 198,
         "planned": "no",
         "causes": [
             {
@@ -377,7 +377,7 @@
                 "url": "http://status.box.com/incidents/4g08pwl1qzm7"
             }
         ],
-        "duration": "3h9m",
+        "duration": 189,
         "planned": "no",
         "causes": [
             {
@@ -391,7 +391,7 @@
         "date": "11/09/2015",
         "title": "Box Web Application may be unavailable for some users",
         "links": [],
-        "duration": "2h25m",
+        "duration": 145,
         "planned": "no",
         "causes": [
             {
@@ -413,7 +413,7 @@
                 "url": "http://status.box.com/incidents/t71kl8l0w1yd"
             }
         ],
-        "duration": "1h48m",
+        "duration": 108,
         "planned": "no",
         "causes": [
             {
@@ -431,7 +431,7 @@
                 "url": "http://status.box.com/incidents/rcg3jr6nlwwn"
             }
         ],
-        "duration": "4h46m",
+        "duration": 286,
         "planned": "no",
         "causes": [
             {

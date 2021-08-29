@@ -16,7 +16,7 @@
                 "url": "http://mashable.com/2014/01/24/google-gmail-outage-response/"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -57,7 +57,7 @@
                 "url": "http://gmailblog.blogspot.com/2009/02/update-on-todays-gmail-outage.html"
             }
         ],
-        "duration": "2h30m",
+        "duration": 150,
         "planned": "no",
         "causes": [
             {
@@ -91,7 +91,7 @@
                 "url": "http://gmailblog.blogspot.com/2011/02/gmail-back-soon-for-everyone.html"
             }
         ],
-        "duration": "5d30m",
+        "duration": 7230,
         "planned": "no",
         "causes": [
             {
@@ -129,7 +129,7 @@
                 "url": "http://9to5google.com/2015/03/05/google-service-disruptions/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -151,7 +151,7 @@
                 "url": "http://beforeitsnews.com/alternative/2014/03/gmail-down-again-world-wide-second-time-since-january-24-2918766.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -179,7 +179,7 @@
                 "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide5"
             }
         ],
-        "duration": "3h30m",
+        "duration": 210,
         "planned": "no",
         "causes": [
             {
@@ -211,7 +211,7 @@
                 "url": "http://mashable.com/2015/03/30/gmail-is-down-5/#x4uykXk.tuqr"
             }
         ],
-        "duration": "4h40m",
+        "duration": 280,
         "planned": "no",
         "causes": [
             {
@@ -251,7 +251,7 @@
                 "url": "http://www.zdnet.com/article/gmail-hit-by-massive-outage-up-to-35-million-affected/"
             }
         ],
-        "duration": "1h4m",
+        "duration": 64,
         "planned": "no",
         "causes": [
             {
@@ -279,7 +279,7 @@
                 "url": "http://www.networkworld.com/article/2165412/softwarearge-scale-google-outage-affects-customers/software/large-scale-google-outage-affects-customers-worldwide.html"
             }
         ],
-        "duration": "45m",
+        "duration": 45,
         "planned": "no",
         "causes": [
             {
@@ -304,7 +304,7 @@
                 "url": "http://tech.firstpost.com/news-analysis/is-google-feeling-the-may-heat-after-third-outage-this-month-86014.html"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -333,7 +333,7 @@
                 "url": "http://daily.bhaskar.com/article/NAT-TOP-google-apps-hit-with-partial-outages-problem-google-apologizes-4262669-NOR.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -365,7 +365,7 @@
                 "url": "http://www.comboupdates.com/2013/05/gmail-down-for-almost-2-hours-today-in.html"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -390,7 +390,7 @@
                 "url": "http://googleblog.blogspot.com/2009/05/this-is-your-pilot-speaking-now-about.html"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -411,7 +411,7 @@
                 "url": "http://www.itnews.com.au/News/303933,google-australian-services-hit-by-data-centre-outage.aspx"
             }
         ],
-        "duration": "50m",
+        "duration": 50,
         "planned": "no",
         "causes": [
             {
@@ -436,7 +436,7 @@
                 "url": "http://www.pcworld.com/article/257177/gmail_outage_likely_hit_several_million_on_thursday.html"
             }
         ],
-        "duration": "1h30m",
+        "duration": 90,
         "planned": "no",
         "causes": [
             {
@@ -458,7 +458,7 @@
                 "url": "http://tech.firstpost.com/news-analysis/india-users-experience-gmail-outage-with-502-error-214146.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -483,7 +483,7 @@
                 "url": "http://cloutage.org/incidents/152-google-inc-gmail"
             }
         ],
-        "duration": "95m",
+        "duration": 95,
         "planned": "no",
         "causes": [
             {
@@ -505,7 +505,7 @@
                 "url": "http://m.theinquirer.net/inquirer/news/2353526/gmail-is-down-for-some-in-the-uk"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -533,7 +533,7 @@
                 "url": "http://storageservers.wordpress.com/2013/07/11/google-outage-caused-due-to-backlash-at-us-nsa-prism/"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -558,7 +558,7 @@
                 "url": "http://9to5google.com/2013/07/11/gmail-suffers-outage-to-imap-service-since-restored/"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -583,7 +583,7 @@
                 "url": "http://cloutage.org/incidents/151-google-inc-gmail"
             }
         ],
-        "duration": "6h10m",
+        "duration": 370,
         "planned": "no",
         "causes": [],
         "implications": [],
@@ -616,7 +616,7 @@
                 "url": "http://www.nydailynews.com/news/national/google-minutes-web-traffic-plummets-article-1.1429712"
             }
         ],
-        "duration": "5m",
+        "duration": 5,
         "planned": "no",
         "causes": [
             {
@@ -651,7 +651,7 @@
                 "url": "http://gmailblog.blogspot.com/2009/09/more-on-todays-gmail-issue.html"
             }
         ],
-        "duration": "1h45m",
+        "duration": 105,
         "planned": "no",
         "causes": [
             {
@@ -683,7 +683,7 @@
                 "url": "http://readwrite.com/2011/09/23/gmail_goes_down_breaking"
             }
         ],
-        "duration": "15m",
+        "duration": 15,
         "planned": "no",
         "causes": [
             {
@@ -729,7 +729,7 @@
                 "url": "http://gmailblog.blogspot.com.br/2013/09/more-on-gmails-delivery-delays.html"
             }
         ],
-        "duration": "10h15m",
+        "duration": 615,
         "planned": "no",
         "causes": [
             {
@@ -764,7 +764,7 @@
                 "url": "http://www.cnet.com/news/google-android-com-market-back-up-in-china/"
             }
         ],
-        "duration": "60h",
+        "duration": 3660,
         "planned": "no",
         "causes": [
             {
@@ -786,7 +786,7 @@
                 "url": "http://tech.firstpost.com/news-analysis/gmail-outage-currently-causing-problems-hangouts-google-google-drive-238679.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -808,7 +808,7 @@
                 "url": "http://www.huffingtonpost.com/2011/11/15/gmail-down-problems_n_1094689.html"
             }
         ],
-        "duration": "7h",
+        "duration": 427,
         "planned": "no",
         "causes": [
             {
@@ -845,7 +845,7 @@
                 "url": "http://arstechnica.com/information-technology/2012/12/why-gmail-went-down-google-misconfigured-chromes-sync-server/"
             }
         ],
-        "duration": "18m",
+        "duration": 18,
         "planned": "no",
         "causes": [
             {

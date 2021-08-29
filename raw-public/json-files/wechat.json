@@ -13,7 +13,7 @@
                 "url": "http://weibo.com/1930378853/zrx2h8Un5"
             }
         ],
-        "duration": "10m",
+        "duration": 10,
         "planned": "no",
         "causes": [
             {
@@ -45,7 +45,7 @@
                 "url": "http://thenextweb.com/asia/2013/07/22/line-mocks-messaging-rival-tencent-for-failing-to-prevent-wechats-first-major-outage/"
             }
         ],
-        "duration": "6h30m",
+        "duration": 390,
         "planned": "no",
         "causes": [
             {
@@ -80,7 +80,7 @@
                 "url": "http://weibo.com/1930378853/A5x623fGA"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -106,7 +106,7 @@
                 "url": "http://www.allchinatech.com/not-without-my-wechat-people-panic-as-wechat-sees-outage/"
             }
         ],
-        "duration": "1d",
+        "duration": 1441,
         "planned": "no",
         "causes": [
             {

@@ -7,7 +7,7 @@
                 "url": "http://cloutage.org/incidents/137-google-inc-google-apps"
             }
         ],
-        "duration": "5h",
+        "duration": 305,
         "planned": "no",
         "causes": [
             {
@@ -35,7 +35,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2010/03/08/when-the-power-goes-out-at-google/"
             }
         ],
-        "duration": "2h21m",
+        "duration": 141,
         "planned": "no",
         "causes": [
             {
@@ -60,7 +60,7 @@
         "date": "03/05/2015",
         "title": "Google App Engine Incident #15006",
         "links": [],
-        "duration": "84m",
+        "duration": 84,
         "planned": "no",
         "causes": [],
         "implications": [
@@ -88,7 +88,7 @@
                 "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide5"
             }
         ],
-        "duration": "3h45m",
+        "duration": 225,
         "planned": "no",
         "causes": [
             {
@@ -113,7 +113,7 @@
         "date": "03/18/2014",
         "title": "Google App Engine issues on March 18, 2014",
         "links": [],
-        "duration": "91m",
+        "duration": 91,
         "planned": "no",
         "causes": [
             {
@@ -134,7 +134,7 @@
         "date": "06/05/2014",
         "title": "Google App Engine issues on Thursday June 5th 2014",
         "links": [],
-        "duration": "43m",
+        "duration": 43,
         "planned": "no",
         "causes": [
             {
@@ -156,7 +156,7 @@
                 "url": "http://cloutage.org/incidents/132-google-inc-google-apps"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -184,7 +184,7 @@
                 "url": "http://www.cnet.com/news/google-app-engine-misfires/"
             }
         ],
-        "duration": "6h",
+        "duration": 366,
         "planned": "no",
         "causes": [
             {
@@ -202,7 +202,7 @@
         "date": "07/05/2014",
         "title": "Google App Engine Issues With Datastore OverQuota Errors Beginning August 5th, 2014",
         "links": [],
-        "duration": "2d7h36m",
+        "duration": 3336,
         "planned": "no",
         "causes": [
             {
@@ -224,7 +224,7 @@
         "date": "09/26/2014",
         "title": "Google App Engine Issues on Fri September 26th 2014",
         "links": [],
-        "duration": "150m",
+        "duration": 50,
         "planned": "no",
         "causes": [
             {
@@ -242,7 +242,7 @@
         "date": "10/04/2014",
         "title": "App Engine issues on Saturday 4 October, 2014",
         "links": [],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -273,7 +273,7 @@
                 "url": "http://googleappengine.blogspot.com/2012/10/about-todays-app-engine-outage.html"
             }
         ],
-        "duration": "4h",
+        "duration": 244,
         "planned": "no",
         "causes": [],
         "implications": [],
@@ -287,7 +287,7 @@
         "date": "12/07/2015",
         "title": "Google App Engine Incident #15025",
         "links": [],
-        "duration": "17h3m",
+        "duration": 1023,
         "planned": "no",
         "causes": [
             {

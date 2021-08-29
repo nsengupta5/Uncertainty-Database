@@ -7,7 +7,7 @@
                 "url": "http://talkincloud.com/public-cloud/010714/east-coast-blizzard-takes-down-amazon-customers"
             }
         ],
-        "duration": "2h15m",
+        "duration": 135,
         "planned": "no",
         "causes": [
             {
@@ -36,7 +36,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2012/03/15/amazon-ec2-recovers-after-brief-downtime/"
             }
         ],
-        "duration": "21m",
+        "duration": 21,
         "planned": "no",
         "causes": [
             {
@@ -67,7 +67,7 @@
                 "url": "http://www.infoq.com/news/2011/04/Amazon-EC2-Outage-Explained"
             }
         ],
-        "duration": "2d5h28m",
+        "duration": 3208,
         "planned": "no",
         "causes": [
             {
@@ -105,7 +105,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2010/05/10/amazon-addresses-ec2-power-outages/"
             }
         ],
-        "duration": "4h13m",
+        "duration": 253,
         "planned": "no",
         "causes": [
             {
@@ -131,7 +131,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2010/05/10/amazon-addresses-ec2-power-outages/"
             }
         ],
-        "duration": "7h",
+        "duration": 427,
         "planned": "no",
         "causes": [
             {
@@ -157,7 +157,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2010/05/13/car-crash-triggers-amazon-power-outage/"
             }
         ],
-        "duration": "1h3m",
+        "duration": 63,
         "planned": "no",
         "causes": [
             {
@@ -186,7 +186,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2009/06/11/lightning-strike-triggers-amazon-ec2-outage/"
             }
         ],
-        "duration": "4h",
+        "duration": 244,
         "planned": "no",
         "causes": [
             {
@@ -218,7 +218,7 @@
                 "url": "http://www.wired.com/2012/06/amazon-outage-pilot-error/"
             }
         ],
-        "duration": "6h36m",
+        "duration": 396,
         "planned": "no",
         "causes": [
             {
@@ -253,7 +253,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2012/07/03/multiple-generator-failures-caused-amazon-outage/"
             }
         ],
-        "duration": "24h",
+        "duration": 1464,
         "planned": "no",
         "causes": [
             {
@@ -282,7 +282,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2009/07/19/outage-for-amazon-web-services/"
             }
         ],
-        "duration": "15m",
+        "duration": 15,
         "planned": "no",
         "causes": [
             {
@@ -306,7 +306,7 @@
                 "url": "http://techcrunch.com/2011/08/08/amazon-ec2-outage/"
             }
         ],
-        "duration": "3d9h44m",
+        "duration": 4904,
         "planned": "no",
         "causes": [
             {
@@ -341,7 +341,7 @@
                 "url": "http://www.information-age.com/technology/cloud-and-virtualisation/123459971/amazon-investigating-major-cloud-outage-github-and-heroku-report-issues"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -372,7 +372,7 @@
                 "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide11"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -404,7 +404,7 @@
                 "url": "http://www.infoq.com/news/2013/09/aws-east-outage"
             }
         ],
-        "duration": "1h50m",
+        "duration": 110,
         "planned": "no",
         "causes": [
             {
@@ -433,7 +433,7 @@
                 "url": "http://www.informationweek.com/cloud/infrastructure-as-a-service/amazon-disruption-produces-cloud-outage-spiral/d/d-id/1322279"
             }
         ],
-        "duration": "4h55m",
+        "duration": 295,
         "planned": "no",
         "causes": [
             {
@@ -462,7 +462,7 @@
                 "url": "http://www.zdnet.com/article/aws-users-fret-over-downtime-ahead-of-amazons-massive-ec2-reboot/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -491,7 +491,7 @@
                 "url": "http://www.theregister.co.uk/2009/10/05/amazon_bitbucket_outage/"
             }
         ],
-        "duration": "19h",
+        "duration": 1159,
         "planned": "no",
         "causes": [
             {
@@ -529,7 +529,7 @@
                 "url": "http://techcrunch.com/2012/10/27/amazon-web-services-outage-caused-by-memory-leak-and-failure-in-monitoring-alarm/"
             }
         ],
-        "duration": "6h15m",
+        "duration": 375,
         "planned": "no",
         "causes": [
             {
@@ -555,7 +555,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2009/12/10/power-outage-for-amazon-data-center/"
             }
         ],
-        "duration": "45m",
+        "duration": 45,
         "planned": "no",
         "causes": [
             {
@@ -581,7 +581,7 @@
                 "url": "http://www.cnet.com/news/amazon-ec2-cloud-service-hit-by-botnet-outage/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {

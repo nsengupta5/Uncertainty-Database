@@ -7,7 +7,7 @@
                 "url": "http://9to5google.com/2015/03/05/google-service-disruptions/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -32,7 +32,7 @@
                 "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide5"
             }
         ],
-        "duration": "3h30m",
+        "duration": 210,
         "planned": "no",
         "causes": [
             {
@@ -61,7 +61,7 @@
                 "url": "http://mashable.com/2015/03/30/gmail-is-down-5/#x4uykXk.tuqr"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -89,7 +89,7 @@
                 "url": "http://storageservers.wordpress.com/2013/07/11/google-outage-caused-due-to-backlash-at-us-nsa-prism/"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -111,7 +111,7 @@
                 "url": "http://www.v3.co.uk/v3-uk/news/2289646/google-outage-acrosf-search-gmail-and-talk-causef-40-percent-drop-in-web-activity"
             }
         ],
-        "duration": "5m",
+        "duration": 5,
         "planned": "no",
         "causes": [
             {
@@ -139,7 +139,7 @@
                 "url": "http://www.cmswire.com/cms/customer-experience/google-talk-messagef-going-astray-af-it-explainf-earlier-gmail-outage-022634.php"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -157,7 +157,7 @@
                 "url": "http://lab.digitblog.org/tag/google-hangouts-down/"
             }
         ],
-        "duration": "2h51m",
+        "duration": 171,
         "planned": "no",
         "causes": [
             {

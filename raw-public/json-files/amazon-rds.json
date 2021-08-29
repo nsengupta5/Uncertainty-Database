@@ -16,7 +16,7 @@
                 "url": "http://www.infoq.com/news/2011/04/Amazon-EC2-Outage-Explained"
             }
         ],
-        "duration": "2d5h28m",
+        "duration": 3208,
         "planned": "no",
         "causes": [
             {
@@ -60,7 +60,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2012/07/03/multiple-generator-failures-caused-amazon-outage/"
             }
         ],
-        "duration": "3h36m",
+        "duration": 216,
         "planned": "no",
         "causes": [
             {
@@ -95,7 +95,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2011/08/07/lightning-in-dublin-knocks-amazon-microsoft-data-centers-offline/"
             }
         ],
-        "duration": "3d9h44m",
+        "duration": 4904,
         "planned": "no",
         "causes": [
             {
@@ -133,7 +133,7 @@
                 "url": "http://www.networkworld.com/article/2160922/cloud-computing/amazon-outage-started-small--snowballed-into-12-hour-event.html"
             }
         ],
-        "duration": "6h15m",
+        "duration": 375,
         "planned": "no",
         "causes": [
             {

@@ -10,7 +10,7 @@
                 "url": "http://techcrunch.com/2014/01/24/gmail-goes-down-across-the-world/"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -42,7 +42,7 @@
                 "url": "http://www.cio.com/article/2388283/internet/google--suffers-outage-friday-morning.html"
             }
         ],
-        "duration": "20m",
+        "duration": 20,
         "planned": "no",
         "causes": [
             {
@@ -70,7 +70,7 @@
                 "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide5"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -105,7 +105,7 @@
                 "url": "http://9to5google.com/2014/10/22/google-plus-hangouts-youtube-comments-outage/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {

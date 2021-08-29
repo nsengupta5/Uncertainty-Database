@@ -7,7 +7,7 @@
                 "url": "http://techcrunch.com/2015/01/02/following-bing-coms-brief-outage-search-yahoo-com-goes-down-too/"
             }
         ],
-        "duration": "20m",
+        "duration": 20,
         "planned": "no",
         "causes": [
             {
@@ -29,7 +29,7 @@
                 "url": "http://www.latintimes.com/hotmail-outage-today-users-report-third-day-service-interruption-125247"
             }
         ],
-        "duration": "3d",
+        "duration": 4323,
         "planned": "no",
         "causes": [
             {
@@ -51,7 +51,7 @@
                 "url": "http://techpaul.wordpress.com/2012/02/14/sorry-theres-a-problem-with-hotmail-right-now/"
             }
         ],
-        "duration": "1h30m",
+        "duration": 90,
         "planned": "no",
         "causes": [
             {
@@ -76,7 +76,7 @@
                 "url": "http://windowsitpro.com/exchange-server/after-hotmail-outage-privacy-fears"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -98,7 +98,7 @@
                 "url": "http://www.zdnet.com/outlook-com-outage-leaves-users-locked-out-of-accounts-7000011792/"
             }
         ],
-        "duration": "7h",
+        "duration": 427,
         "planned": "no",
         "causes": [
             {
@@ -123,7 +123,7 @@
                 "url": "http://www.liveside.net/2009/03/12/hotmail-is-down/"
             }
         ],
-        "duration": "7h",
+        "duration": 427,
         "planned": "no",
         "causes": [
             {
@@ -151,7 +151,7 @@
                 "url": "http://blog.chron.com/techblog/2013/03/hotmail-outlook-com-experiencing-an-outage/"
             }
         ],
-        "duration": "15h",
+        "duration": 915,
         "planned": "no",
         "causes": [
             {
@@ -182,7 +182,7 @@
                 "url": "http://www.windowscentral.com/psa-microsoft-currently-looking-issues-outlookcom"
             }
         ],
-        "duration": "6h",
+        "duration": 366,
         "planned": "no",
         "causes": [
             {
@@ -204,7 +204,7 @@
                 "url": "http://www.cnet.com/news/hotmail-users-suffer-through-outage/"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -226,7 +226,7 @@
                 "url": "http://www.huffingtonpost.com/2010/02/16/hotmail-problems-resolved_n_464503.html"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -248,7 +248,7 @@
                 "url": "http://www.huffingtonpost.com/2011/01/03/microsoft-lost-hotmail-em_n_803721.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -270,7 +270,7 @@
                 "url": "http://www.washingtonpost.com/blogs/the-switch/wp/2014/06/24/microsoft-outlook-outage-reported-across-much-of-the-country/"
             }
         ],
-        "duration": "9h",
+        "duration": 549,
         "planned": "no",
         "causes": [
             {
@@ -297,7 +297,7 @@
                 "url": "http://www.infoworld.com/article/2610247/applications/microsoft-s-skydrive--outlook-com-are-down-for-some-users.html"
             }
         ],
-        "duration": "3d22h",
+        "duration": 5662,
         "planned": "no",
         "causes": [
             {
@@ -344,7 +344,7 @@
                 "url": "http://www.channelregister.co.uk/2011/09/21/microsoft_reveals_cloud_outage_causes/"
             }
         ],
-        "duration": "3h30m",
+        "duration": 210,
         "planned": "no",
         "causes": [
             {
@@ -379,7 +379,7 @@
                 "url": "http://www.pcworld.com/article/215442/microsoft_blames_server_problem_for_hotmail_outage.html"
             }
         ],
-        "duration": "5d",
+        "duration": 7205,
         "planned": "no",
         "causes": [
             {

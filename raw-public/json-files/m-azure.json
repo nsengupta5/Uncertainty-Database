@@ -13,7 +13,7 @@
                 "url": "http://redmondmag.com/articles/2013/02/22/worldwide-windows-azure-storage-outage.aspx"
             }
         ],
-        "duration": "11h40m",
+        "duration": 700,
         "planned": "no",
         "causes": [
             {
@@ -51,7 +51,7 @@
                 "url": "http://arstechnica.com/information-technology/2012/02/prolonged-microsoft-azure-outtage-casts-dark-cloud-over-customers/"
             }
         ],
-        "duration": "12h",
+        "duration": 732,
         "planned": "no",
         "causes": [
             {
@@ -83,7 +83,7 @@
                 "url": "http://www.crn.com/news/cloud/300076160/network-glitch-takes-down-microsofts-azure-iaas-paas-services-for-central-u-s-customers.htm?itc=hp_tax_cloud"
             }
         ],
-        "duration": "2h19m",
+        "duration": 139,
         "planned": "no",
         "causes": [
             {
@@ -105,7 +105,7 @@
                 "url": "http://oakleafblog.blogspot.com/2010/04/windows-azure-live-dns-brief-outage-at.html"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -127,7 +127,7 @@
                 "url": "http://www.itnews.com.au/news/microsoft-azure-australia-east-hit-by-outage-406110"
             }
         ],
-        "duration": "7h",
+        "duration": 427,
         "planned": "no",
         "causes": [
             {
@@ -155,7 +155,7 @@
                 "url": "http://allthingsd.com/20120803/microsoft-explains-last-weeks-azure-outage-whoops/"
             }
         ],
-        "duration": "2h24m",
+        "duration": 144,
         "planned": "no",
         "causes": [
             {
@@ -193,7 +193,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2014/08/18/cloud-outages-make-for-rough-monday-at-microsoft-azure/"
             }
         ],
-        "duration": "5h",
+        "duration": 305,
         "planned": "no",
         "causes": [
             {
@@ -215,7 +215,7 @@
                 "url": "http://oakleafblog.blogspot.com/2010/09/sql-azure-portal-database-provisioning.html"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -240,7 +240,7 @@
                 "url": "http://www.pcworld.com/article/2059901/microsofts-windows-azure-cloud-hit-by-worldwide-management-interuption.html"
             }
         ],
-        "duration": "8h",
+        "duration": 488,
         "planned": "no",
         "causes": [
             {
@@ -268,7 +268,7 @@
                 "url": "http://www.computerworld.com/article/2860833/human-error-root-cause-of-november-microsoft-azure-outage.html"
             }
         ],
-        "duration": "10h55m",
+        "duration": 655,
         "planned": "no",
         "causes": [
             {
@@ -309,7 +309,7 @@
                 "url": "http://redmondmag.com/articles/2013/11/21/windows-azure-outages.aspx"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -341,7 +341,7 @@
                 "url": "http://www.computerweekly.com/news/4500259905/European-Office-365-and-Microsoft-Azure-users-hit-by-service-outage"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -366,7 +366,7 @@
                 "url": "http://www.computing.co.uk/ctg/news/2439832/another-microsoft-office-365-and-azure-outage-hits-uk-and-europe"
             }
         ],
-        "duration": "2h5m",
+        "duration": 125,
         "planned": "no",
         "causes": [
             {
@@ -394,7 +394,7 @@
                 "url": "http://www.zdnet.com/microsofts-december-azure-outage-what-went-wrong-7000010021/"
             }
         ],
-        "duration": "2d14h23m",
+        "duration": 3743,
         "planned": "no",
         "causes": [
             {

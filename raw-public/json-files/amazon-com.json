@@ -16,7 +16,7 @@
                 "url": "http://cloutage.org/incidents/528-amazon-web-site"
             }
         ],
-        "duration": "49m",
+        "duration": 49,
         "planned": "no",
         "causes": [
             {
@@ -41,7 +41,7 @@
                 "url": "http://cloutage.org/incidents/92-amazon-amazon-com"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -78,7 +78,7 @@
                 "url": "http://cloutage.org/incidents/1150-amazon-website"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -106,7 +106,7 @@
                 "url": "http://cloutage.org/incidents/429-amazon-amazon-com"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {

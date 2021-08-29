@@ -10,7 +10,7 @@
                 "url": "http://arstechnica.com/business/2011/04/amazons-lengthy-cloud-outage-shows-the-danger-of-complexity/"
             }
         ],
-        "duration": "2d5h28m",
+        "duration": 3208,
         "planned": "no",
         "causes": [
             {
@@ -48,7 +48,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2010/05/10/amazon-addresses-ec2-power-outages/"
             }
         ],
-        "duration": "7h",
+        "duration": 427,
         "planned": "no",
         "causes": [
             {
@@ -80,7 +80,7 @@
                 "url": "http://readwrite.com/2011/08/08/amazons-ireland-services-still"
             }
         ],
-        "duration": "3d9h44m",
+        "duration": 4904,
         "planned": "no",
         "causes": [
             {
@@ -115,7 +115,7 @@
                 "url": "http://www.theregister.co.uk/2013/08/26/amazon_ebs_cloud_problems/"
             }
         ],
-        "duration": "49m",
+        "duration": 49,
         "planned": "no",
         "causes": [
             {
@@ -144,7 +144,7 @@
                 "url": "http://www.networkworld.com/article/2160902/cloud-computing/amazon-ebs-failure-brings-down-reddit--imgur--others.html"
             }
         ],
-        "duration": "6h15m",
+        "duration": 375,
         "planned": "no",
         "causes": [
             {

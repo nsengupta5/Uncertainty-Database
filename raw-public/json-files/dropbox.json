@@ -16,7 +16,7 @@
                 "url": "http://blog.vembu.com/dropbox-started-with-a-snap/#more-4607"
             }
         ],
-        "duration": "15h43m",
+        "duration": 943,
         "planned": "no",
         "causes": [
             {
@@ -50,7 +50,7 @@
                 "url": "http://thenextweb.com/insider/2014/01/11/dropbox-is-down-due-to-routine-maintenance-issue-not-security-breach/"
             }
         ],
-        "duration": "1d23h10m",
+        "duration": 2830,
         "planned": "no",
         "causes": [
             {
@@ -85,7 +85,7 @@
                 "url": "http://www.thewhir.com/web-hosting-news/dropbox-suffers-temporary-outage-impacting-file-sharing-synchronizing"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -113,7 +113,7 @@
                 "url": "http://aws.amazon.com/message/65648/"
             }
         ],
-        "duration": "2d5h28m",
+        "duration": 3208,
         "planned": "no",
         "causes": [
             {
@@ -151,7 +151,7 @@
                 "url": "http://mashable.com/2013/05/30/dropbox-outage/"
             }
         ],
-        "duration": "90m",
+        "duration": 90,
         "planned": "no",
         "causes": [
             {
@@ -185,7 +185,7 @@
                 "url": "http://www.cloudcow.com/content/aws-outage-%E2%80%93-thoughts-disaster-recovery-policies"
             }
         ],
-        "duration": "4h",
+        "duration": 244,
         "planned": "no",
         "causes": [
             {
@@ -217,7 +217,7 @@
                 "url": "http://techcrunch.com/2011/06/20/dropbox-security-bug-made-passwords-optional-for-four-hours/"
             }
         ],
-        "duration": "3h52m",
+        "duration": 232,
         "planned": "no",
         "causes": [
             {
@@ -246,7 +246,7 @@
                 "url": "http://techcrunch.com/2012/07/17/dropbox-users-targeted-by-spam-possible-address-leak-to-blame/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -268,7 +268,7 @@
                 "url": "http://techcrunch.com/2012/08/21/dropbox-users-experiencing-slowness-inaccessible-files/"
             }
         ],
-        "duration": "9h",
+        "duration": 549,
         "planned": "no",
         "causes": [],
         "implications": [
@@ -296,7 +296,7 @@
                 "url": "http://webscripts.softpedia.com/blog/botched-maintenance-leaves-dropbox-offline-for-a-few-hours-490462.shtml"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -324,7 +324,7 @@
                 "url": "http://techfruit.com/2012/10/26/its-a-bad-day-for-the-cloud-as-dropbox-google-app-engine-and-tumblr-go-down/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {

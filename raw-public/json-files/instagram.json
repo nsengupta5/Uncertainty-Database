@@ -13,7 +13,7 @@
                 "url": "http://www.techgeekandmore.com/2015/01/27/alert-facebook-instagram-currently-12715/"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -47,7 +47,7 @@
                 "url": "http://www.hindustantimes.com/tabloid/did-bieber-s-posting-of-selena-s-oscar-pic-take-down-instagram/article1-1190855.aspx"
             }
         ],
-        "duration": "50m",
+        "duration": 50,
         "planned": "no",
         "causes": [
             {
@@ -78,7 +78,7 @@
                 "url": "http://www.idesigntimes.com/articles/4128/20130321/instagram-outage-glitch-didnt-stop-celebrities-posting.htm"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -107,7 +107,7 @@
                 "url": "http://mashable.com/2014/04/12/instagram-is-down-users-flock-to-twitter-to-complain/"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -129,7 +129,7 @@
                 "url": "http://mashable.com/2014/05/27/instagram-down-all-users/"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -163,7 +163,7 @@
                 "url": "http://www.cnet.com/news/modern-life-halted-as-netflix-pinterest-instagram-go-down/"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -189,7 +189,7 @@
                 "url": "http://techcrunch.com/2011/08/08/amazon-ec2-outage/"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -215,7 +215,7 @@
                 "url": "http://www.pcmag.com/article2/0,2817,2423582,00.asp"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -241,7 +241,7 @@
                 "url": "http://mashable.com/2014/08/28/instagram-down-technical/"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -263,7 +263,7 @@
                 "url": "http://mashable.com/2014/10/10/instagram-down-october-2014/"
             }
         ],
-        "duration": "6h",
+        "duration": 366,
         "planned": "no",
         "causes": [
             {
@@ -291,7 +291,7 @@
                 "url": "http://tech.firstpost.com/news-analysis/instagram-goes-down-briefly-after-facebook-faces-outage-107945.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {

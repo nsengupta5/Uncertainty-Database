@@ -7,7 +7,7 @@
                 "url": "http://www.vrworld.com/2014/03/12/youtube-outage-today2c-follows-yesterdays-twitter-outage/"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -35,7 +35,7 @@
                 "url": "http://phys.org/news188729978.html#nRlv"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -57,7 +57,7 @@
                 "url": "http://www.fastcompany.com/3015942/most-innovative-companies-2013/a-brief-google-outage-made-total-internet-traffic-drop-by-40"
             }
         ],
-        "duration": "5m",
+        "duration": 5,
         "planned": "no",
         "causes": [
             {
@@ -79,7 +79,7 @@
                 "url": "http://www.bgr.in/news/youtube-is-down/#more-322086"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -101,7 +101,7 @@
                 "url": "http://dailycaller.com/2012/10/18/youtube-is-down-the-great-10-minute-or-so-youtube-outage-of-2012/"
             }
         ],
-        "duration": "10m",
+        "duration": 10,
         "planned": "no",
         "causes": [
             {
@@ -129,7 +129,7 @@
                 "url": "http://mashable.com/2015/10/28/youtube-down-red-launch/#90Pp37XYRSqk"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -154,7 +154,7 @@
                 "url": "http://www.youtube.com/oops/error.html"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -179,7 +179,7 @@
                 "url": "http://google.com/press-release"
             }
         ],
-        "duration": "10m",
+        "duration": 10,
         "planned": "no",
         "causes": [
             {

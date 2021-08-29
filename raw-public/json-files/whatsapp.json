@@ -3,7 +3,7 @@
         "date": "01/09/2012",
         "title": "System is currently having issues",
         "links": [],
-        "duration": "1h6m",
+        "duration": 66,
         "planned": "no",
         "causes": [
             {
@@ -21,7 +21,7 @@
         "date": "01/12/2012",
         "title": "Issues with our push notifications and 'last seen' status",
         "links": [],
-        "duration": "1h22m",
+        "duration": 82,
         "planned": "no",
         "causes": [
             {
@@ -39,7 +39,7 @@
         "date": "01/28/2012",
         "title": "Issue with sending photos and other multimedia",
         "links": [],
-        "duration": "48m",
+        "duration": 48,
         "planned": "no",
         "causes": [
             {
@@ -76,7 +76,7 @@
                 "url": "http://techcrunch.com/2014/02/25/line-gets-whatsapp-outage-bump/"
             }
         ],
-        "duration": "3h40m",
+        "duration": 220,
         "planned": "no",
         "causes": [],
         "implications": [
@@ -90,7 +90,7 @@
         "date": "03/11/2012",
         "title": "System is having problems",
         "links": [],
-        "duration": "25m",
+        "duration": 25,
         "planned": "no",
         "causes": [
             {
@@ -108,7 +108,7 @@
         "date": "04/11/2012",
         "title": "Servers problems at the moment",
         "links": [],
-        "duration": "3h10m",
+        "duration": 190,
         "planned": "no",
         "causes": [
             {
@@ -126,7 +126,7 @@
         "date": "05/08/2012",
         "title": "Experience server issues",
         "links": [],
-        "duration": "1h17m",
+        "duration": 77,
         "planned": "no",
         "causes": [
             {
@@ -144,7 +144,7 @@
         "date": "05/30/2013",
         "title": "Experiencing an outage",
         "links": [],
-        "duration": "12m",
+        "duration": 12,
         "planned": "no",
         "causes": [
             {
@@ -162,7 +162,7 @@
         "date": "07/29/2013",
         "title": "Network is currently experiencing issues",
         "links": [],
-        "duration": "2h37m",
+        "duration": 157,
         "planned": "no",
         "causes": [
             {
@@ -180,7 +180,7 @@
         "date": "08/10/2012",
         "title": "Updating system to deal with new Sao Paulo numbers",
         "links": [],
-        "duration": "3h",
+        "duration": 183,
         "planned": "yes",
         "causes": [
             {
@@ -198,7 +198,7 @@
         "date": "10/15/2013",
         "title": "Service issues with sending and receiving messages",
         "links": [],
-        "duration": "41m",
+        "duration": 41,
         "planned": "no",
         "causes": [
             {
@@ -216,7 +216,7 @@
         "date": "11/08/2011",
         "title": "System is currently having issues",
         "links": [],
-        "duration": "8h32m",
+        "duration": 512,
         "planned": "no",
         "causes": [
             {
@@ -234,7 +234,7 @@
         "date": "12/01/2011",
         "title": "A brief outage today",
         "links": [],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -252,7 +252,7 @@
         "date": "12/05/2011",
         "title": "System is having problems",
         "links": [],
-        "duration": "11h41m",
+        "duration": 701,
         "planned": "no",
         "causes": [
             {
@@ -270,7 +270,7 @@
         "date": "12/07/2013",
         "title": "System is currently experiencing an outage",
         "links": [],
-        "duration": "4h32m",
+        "duration": 272,
         "planned": "no",
         "causes": [
             {
@@ -288,7 +288,7 @@
         "date": "12/12/2011",
         "title": "System is having issues",
         "links": [],
-        "duration": "2h32m",
+        "duration": 152,
         "planned": "no",
         "causes": [
             {
@@ -306,7 +306,7 @@
         "date": "12/15/2012",
         "title": "Experiencing system issues",
         "links": [],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -328,7 +328,7 @@
         "date": "12/21/2011",
         "title": "System is having problems",
         "links": [],
-        "duration": "20m",
+        "duration": 20,
         "planned": "no",
         "causes": [
             {
@@ -346,7 +346,7 @@
         "date": "12/31/2012",
         "title": "New year capacity problems",
         "links": [],
-        "duration": "1h41m",
+        "duration": 101,
         "planned": "no",
         "causes": [],
         "implications": [
@@ -373,7 +373,7 @@
                 "url": "http://mashable.com/2015/12/31/whatsapp-goes-down-on-new-years-eve/#f15AiJi0Wuqy"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {

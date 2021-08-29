@@ -7,7 +7,7 @@
                 "url": "http://www.cloudpro.co.uk/saas/5248/office-365-and-outlookcom-outage-hits-north-american-users"
             }
         ],
-        "duration": "2h20m",
+        "duration": 140,
         "planned": "no",
         "causes": [
             {
@@ -35,7 +35,7 @@
                 "url": "http://www.theverge.com/2013/3/14/4102720/outlook-outage-overheating-datacenter"
             }
         ],
-        "duration": "16h18m",
+        "duration": 978,
         "planned": "no",
         "causes": [
             {
@@ -73,7 +73,7 @@
                 "url": "http://www.huffingtonpost.ca/2013/08/14/outage-hits-microsoft-out_n_3756291.html"
             }
         ],
-        "duration": "2d22h",
+        "duration": 4222,
         "planned": "no",
         "causes": [
             {
@@ -113,7 +113,7 @@
                 "url": "http://www.channelregister.co.uk/2011/09/21/microsoft_reveals_cloud_outage_causes/"
             }
         ],
-        "duration": "3h30m",
+        "duration": 210,
         "planned": "no",
         "causes": [
             {
@@ -145,7 +145,7 @@
                 "url": "http://storageservers.wordpress.com/2013/09/25/microsoft-skydrive-offers-200gb-free-storage-for-surface-2-tablet-users-and-starts-wrestling-with-outage/"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -170,7 +170,7 @@
                 "url": "http://mywindowshub.com/microsoft-onedrive-was-down-globally-back-in-action-now/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -192,7 +192,7 @@
                 "url": "http://answers.microsoft.com/en-us/onedrive/forum/odoptions-odweb/one-drive-files-and-account-not-loading-error/b2b17610-dbb2-4dc8-9e2b-02d003cfdee7?auth=1"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -216,7 +216,7 @@
                 "url": "http://redmondmag.com/articles/2013/11/21/windows-azure-outages.aspx"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {

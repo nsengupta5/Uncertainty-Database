@@ -7,7 +7,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/15313993723/streaming-delivery-delay"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -25,7 +25,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/107269077628/timeline-delivery-issue"
             }
         ],
-        "duration": "1h39m",
+        "duration": 99,
         "planned": "no",
         "causes": [
             {
@@ -43,7 +43,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/68751921/delivery-delays"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -65,7 +65,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/320662716/working-on-tweet-delivery-delays"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -83,7 +83,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/69184677/catching-back-up"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -104,7 +104,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/331413664/investigating-sms-delivery-issues"
             }
         ],
-        "duration": "2h26m",
+        "duration": 146,
         "planned": "no",
         "causes": [
             {
@@ -126,7 +126,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/73429900886/brief-service-issue"
             }
         ],
-        "duration": "9m",
+        "duration": 9,
         "planned": "no",
         "causes": [
             {
@@ -148,7 +148,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/108206544668/service-issue"
             }
         ],
-        "duration": "21m",
+        "duration": 21,
         "planned": "no",
         "causes": [
             {
@@ -170,7 +170,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/70991844/twitter-downtime"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -195,7 +195,7 @@
                 "url": "http://techcrunch.com/2013/01/16/twitter-com-experiencing-rendering-issues-so-if-you-like-ugly-websites-visit-it-now/"
             }
         ],
-        "duration": "38m",
+        "duration": 38,
         "planned": "no",
         "causes": [
             {
@@ -217,7 +217,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/71697063/search-behind-realtime"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -242,7 +242,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/71824634/slowness"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -267,7 +267,7 @@
                 "url": "http://www.cnn.com/2010/TECH/01/20/twitter.outage/"
             }
         ],
-        "duration": "1h30m",
+        "duration": 90,
         "planned": "no",
         "causes": [
             {
@@ -295,7 +295,7 @@
                 "url": "http://techcrunch.com/2013/01/21/twitters-having-connectivity-issues-but-the-fail-whale-is-nowhere-to-be-found/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29"
             }
         ],
-        "duration": "7h",
+        "duration": 427,
         "planned": "no",
         "causes": [
             {
@@ -317,7 +317,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/356402310/working-on-tweet-delivery-delays"
             }
         ],
-        "duration": "3h9m",
+        "duration": 189,
         "planned": "no",
         "causes": [
             {
@@ -335,7 +335,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/74877960893/brief-service-issue"
             }
         ],
-        "duration": "18m",
+        "duration": 18,
         "planned": "no",
         "causes": [
             {
@@ -357,7 +357,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/74391295/some-fixes-out-more-coming"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -386,7 +386,7 @@
                 "url": "http://www.huffingtonpost.com/2013/01/31/twitter-downtime-server-trouble_n_2590266.html"
             }
         ],
-        "duration": "2h50m",
+        "duration": 170,
         "planned": "no",
         "causes": [
             {
@@ -411,7 +411,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/75182201/missing-updates-were-bringing-them-back"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -433,7 +433,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/42401746370/photo-upload-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -458,7 +458,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/76230951/seeing-inconsistencies-in-followers-followings"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -476,7 +476,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/42539886184/profile-viewing-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -501,7 +501,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/77325694/updates-on-a-couple-bugs"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -523,7 +523,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/110673635718/some-users-unable-to-tweet"
             }
         ],
-        "duration": "53m",
+        "duration": 53,
         "planned": "no",
         "causes": [
             {
@@ -545,7 +545,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/77438630/site-back-up"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -567,7 +567,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/78228774/back-from-maintenance-mode"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -595,7 +595,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/79591466/exiting-maintenance-window"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "yes",
         "causes": [
             {
@@ -613,7 +613,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/82874378/power-failure-this-morning"
             }
         ],
-        "duration": "5m",
+        "duration": 5,
         "planned": "no",
         "causes": [
             {
@@ -635,7 +635,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/78400054104/brief-service-issue"
             }
         ],
-        "duration": "24m",
+        "duration": 24,
         "planned": "no",
         "causes": [
             {
@@ -660,7 +660,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/83611682/signing-in-back-to-normal"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -685,7 +685,7 @@
                 "url": "http://cloutage.org/incidents/471-twitter-inc-twitter"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -710,7 +710,7 @@
                 "url": "http://cloutage.org/incidents/470-twitter-inc-twitter"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -732,7 +732,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/84921942/inbound-sms-delay"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -759,7 +759,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/85594220/virgin-mobile-sms-service-restored"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "yes",
         "causes": [
             {
@@ -784,7 +784,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/441927368/high-rate-of-site-errors-and-general-slowness"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -829,7 +829,7 @@
                 "url": "http://paktribune.com/news/Micro-blogging-website-Twitter-restored-267473.html"
             }
         ],
-        "duration": "46m",
+        "duration": 46,
         "planned": "no",
         "causes": [
             {
@@ -855,7 +855,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/86067236/some-missing-updates-actions"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -876,7 +876,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/86986973/some-delays-on-followings-direct-messages"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -897,7 +897,7 @@
                 "url": "http://cloutage.org/incidents/468-twitter-inc-twitter"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -919,7 +919,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/87310160/update-on-bugs-device-registration-and-image"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -944,7 +944,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/455797119/general-site-outage"
             }
         ],
-        "duration": "27m",
+        "duration": 27,
         "planned": "no",
         "causes": [
             {
@@ -972,7 +972,7 @@
                 "url": "http://status.twitter.com/post/3917818236/timelines-delayed"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -994,7 +994,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/87625680/some-users-experiencing-missing-tweets"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1016,7 +1016,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/88044976/update-on-service-issues"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1034,7 +1034,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/45844838185/twitter-api-v1-temporary-shutdown"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "yes",
         "causes": [
             {
@@ -1056,7 +1056,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/89846045/update-on-site-reliability-progress"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1074,7 +1074,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/473971477/high-error-rate-and-page-loading-issues"
             }
         ],
-        "duration": "1h3m",
+        "duration": 63,
         "planned": "no",
         "causes": [
             {
@@ -1099,7 +1099,7 @@
                 "url": "http://stats.pingdom.com/wx4vra365911/23773/2011/03"
             }
         ],
-        "duration": "15m",
+        "duration": 15,
         "planned": "no",
         "causes": [
             {
@@ -1117,7 +1117,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/80718245447/tweet-display-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1142,7 +1142,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/90073257/problems-reaching-search"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1173,7 +1173,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/91605373/user-search-and-facebook-updating-are-temporarily"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1195,7 +1195,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/20305499891/connect-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1223,7 +1223,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/92334992/not-finding-yourself-in-people-search"
             }
         ],
-        "duration": "90m",
+        "duration": 90,
         "planned": "no",
         "causes": [
             {
@@ -1241,7 +1241,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/92929468/planned-maintenance-on-sunday-10a-pacific"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "yes",
         "causes": [
             {
@@ -1263,7 +1263,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/20538871523/search-and-timeline-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1294,7 +1294,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/93598738/tracking-improvement-in-error-rate-combatting"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "yes",
         "causes": [
             {
@@ -1316,7 +1316,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/20687669549/photo-upload-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1347,7 +1347,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/94203159/site-improvements-updates-on-delays-and-missing"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1369,7 +1369,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/20849139466/delay-in-email-delivery"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1402,7 +1402,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/95921401/continuing-to-improve-stability-over-next-several"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1424,7 +1424,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/47701778304/issue-with-links-contained-within-tweets"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1449,7 +1449,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/96196695/search-results-are-delayed-about-20-minutes"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1467,7 +1467,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/96959513/duplicate-text-messages"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1489,7 +1489,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/21263579323/tweetdeck-log-in-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1511,7 +1511,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/21357519025/profile-settings-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1533,7 +1533,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/97946629/site-is-slow"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1557,7 +1557,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/99012318/whats-the-deal-with-oauth"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1582,7 +1582,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/99706258/cleanup-continues-profile-issues-and-direct"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1604,7 +1604,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/552207312/outbound-emails-delayed-for-next-4-5-hours"
             }
         ],
-        "duration": "4h",
+        "duration": 244,
         "planned": "no",
         "causes": [
             {
@@ -1622,7 +1622,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/100725928/nearing-the-end-of-data-cleanup-project"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1643,7 +1643,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/101237008/fixing-the-elevated-error-rate"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1668,7 +1668,7 @@
                 "url": "http://stats.pingdom.com/wx4vra365911/23773/2011/04"
             }
         ],
-        "duration": "22m",
+        "duration": 22,
         "planned": "no",
         "causes": [
             {
@@ -1690,7 +1690,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/22183459549/twitter-site-issue-resolved"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1712,7 +1712,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/49351191080/photo-upload-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1734,7 +1734,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/103533181/search-running-behind"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1756,7 +1756,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/575428225/site-largely-unavailable"
             }
         ],
-        "duration": "1h12m",
+        "duration": 72,
         "planned": "no",
         "causes": [
             {
@@ -1778,7 +1778,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/22461580252/twitter-site-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1803,7 +1803,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/105202075/back-from-site-maintenance-working-on-site"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "yes",
         "causes": [
             {
@@ -1825,7 +1825,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/22658242281/tweetdeck-planned-maintenance"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -1847,7 +1847,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/22727475234/profile-background-image-upload-issues"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1869,7 +1869,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/107561169/temporary-timeline-delays"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -1904,7 +1904,7 @@
                 "url": "http://stats.pingdom.com/wx4vra365911/23773/2011/05"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -1926,7 +1926,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/85654361638/service-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1948,7 +1948,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/107824532/unplanned-downtime"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -1970,7 +1970,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/86247488608/tweet-display-delay-in-home-timeline"
             }
         ],
-        "duration": "13m",
+        "duration": 13,
         "planned": "no",
         "causes": [
             {
@@ -1988,7 +1988,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/110639419/user-search-temporarily-unavailable"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2010,7 +2010,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/23437927667/image-upload-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2032,7 +2032,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/111054487/fixing-robot-errors"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2054,7 +2054,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/111769727/search-temporarily-down"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2076,7 +2076,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/51182356736/twitter-service-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2098,7 +2098,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/23683509180/twitter-site-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2123,7 +2123,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/113891094/recovering-from-unplanned-downtime"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2145,7 +2145,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/114566780/unable-to-create-new-accounts"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2167,7 +2167,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/23926833510/profile-background-image-upload-issues"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2195,7 +2195,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/115523264/unscheduled-downtime"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2217,7 +2217,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/116659950/trouble-updating-profile-settings"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2239,7 +2239,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/24213556741/image-upload-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2261,7 +2261,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/116882596/all-tweets-credited-as-coming-from-web"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2283,7 +2283,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/117482837/delayed-followings"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2313,7 +2313,7 @@
                 "url": "http://www.huffingtonpost.com/2013/06/03/twitter-down-site-experie_n_3380400.html"
             }
         ],
-        "duration": "37m",
+        "duration": 37,
         "planned": "no",
         "causes": [
             {
@@ -2339,7 +2339,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/118301197/one-hour-of-planned-maintenance-friday-8p-pacific"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "yes",
         "causes": [
             {
@@ -2361,7 +2361,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/87929090503/brief-service-issue"
             }
         ],
-        "duration": "19m",
+        "duration": 19,
         "planned": "no",
         "causes": [
             {
@@ -2386,7 +2386,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/677213273/site-availability-issues"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -2408,7 +2408,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/680470291/site-availability-issues"
             }
         ],
-        "duration": "5h18m",
+        "duration": 318,
         "planned": "no",
         "causes": [
             {
@@ -2426,7 +2426,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/121298103/sms-delivery-delays"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2447,7 +2447,7 @@
                 "url": "http://status.twitter.com/post/687390666/high-error-rate-on-twitter-com"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [],
         "implications": [],
@@ -2461,7 +2461,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/122606485/search-delay"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2486,7 +2486,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/694019720/bursts-of-errors"
             }
         ],
-        "duration": "4h40m",
+        "duration": 280,
         "planned": "no",
         "causes": [
             {
@@ -2514,7 +2514,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/697956375/working-on-incorrect-tweet-counts"
             }
         ],
-        "duration": "5h54m",
+        "duration": 354,
         "planned": "no",
         "causes": [
             {
@@ -2536,7 +2536,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/124145031/maintenance-window-tonight-9-45p-pacific"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -2558,7 +2558,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/704415654/network-maintenance-june-16th-13-00-14-30-utc"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "yes",
         "causes": [
             {
@@ -2580,7 +2580,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/125333318/sms-delivery-issues"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2602,7 +2602,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/709347163/twitter-unavailable"
             }
         ],
-        "duration": "39m",
+        "duration": 39,
         "planned": "no",
         "causes": [
             {
@@ -2624,7 +2624,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/25457569817/email-delivery-issues"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2661,7 +2661,7 @@
                 "url": "http://en.wikipedia.org/wiki/Twitter"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -2687,7 +2687,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/130350715/search-results-temporarily-disabled-from-logged-in"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2709,7 +2709,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/750140886/site-tweaks"
             }
         ],
-        "duration": "11h49m",
+        "duration": 709,
         "planned": "yes",
         "causes": [
             {
@@ -2731,7 +2731,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/761957887/investigating-elevated-error-rates"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2753,7 +2753,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/808469968/ssl-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2774,7 +2774,7 @@
                 "url": "http://stats.pingdom.com/wx4vra365911/23773/2011/07"
             }
         ],
-        "duration": "20m",
+        "duration": 20,
         "planned": "no",
         "causes": [
             {
@@ -2792,7 +2792,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/124550411718/stale-timeline-issue"
             }
         ],
-        "duration": "18m",
+        "duration": 18,
         "planned": "no",
         "causes": [
             {
@@ -2822,7 +2822,7 @@
                 "url": "http://www.theguardian.com/technology/2012/jul/26/twitter-down-olympics"
             }
         ],
-        "duration": "2h20m",
+        "duration": 140,
         "planned": "no",
         "causes": [
             {
@@ -2847,7 +2847,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/867427356/ssl-certificate-errors"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2872,7 +2872,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/881383317/planned-network-maintenance-saturday-july-31st"
             }
         ],
-        "duration": "5h",
+        "duration": 305,
         "planned": "yes",
         "causes": [
             {
@@ -2900,7 +2900,7 @@
                 "url": "http://mashable.com/2009/08/06/twitter-down/"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -2922,7 +2922,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/57549594622/accessing-twitter"
             }
         ],
-        "duration": "24m",
+        "duration": 24,
         "planned": "no",
         "causes": [
             {
@@ -2944,7 +2944,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/1004400550/a-known-api-issue-is-causing-some-clients-to-crash"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -2966,7 +2966,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/59528478030/twitter-service-issue"
             }
         ],
-        "duration": "1h40m",
+        "duration": 100,
         "planned": "no",
         "causes": [
             {
@@ -2991,7 +2991,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/127819343633/service-issue"
             }
         ],
-        "duration": "19m",
+        "duration": 19,
         "planned": "no",
         "causes": [
             {
@@ -3013,7 +3013,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/1045402781/potential-errors-due-to-maintenance"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -3035,7 +3035,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/128078726508/service-issue"
             }
         ],
-        "duration": "41m",
+        "duration": 41,
         "planned": "no",
         "causes": [
             {
@@ -3060,7 +3060,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/1050106371/log-in-issues-for-users-of-some-mobile-clients"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -3082,7 +3082,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/60295900552/twitter-site-issue"
             }
         ],
-        "duration": "31m",
+        "duration": 31,
         "planned": "no",
         "causes": [
             {
@@ -3104,7 +3104,7 @@
                 "url": "http://www.huffingtonpost.com/2011/09/14/twitter-down_n_963014.html"
             }
         ],
-        "duration": "75m",
+        "duration": 75,
         "planned": "no",
         "causes": [
             {
@@ -3126,7 +3126,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/129089856308/twittercom-service-impact"
             }
         ],
-        "duration": "54m",
+        "duration": 54,
         "planned": "no",
         "causes": [
             {
@@ -3148,7 +3148,7 @@
                 "url": "http://mashable.com/2009/09/21/twitpocalypse-ii-update/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -3174,7 +3174,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/1210596976/recovering-from-streaming-api-issue"
             }
         ],
-        "duration": "5h",
+        "duration": 305,
         "planned": "no",
         "causes": [
             {
@@ -3196,7 +3196,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/1243709031/experiencing-high-error-rates"
             }
         ],
-        "duration": "2h20m",
+        "duration": 140,
         "planned": "no",
         "causes": [
             {
@@ -3221,7 +3221,7 @@
                 "url": "http://stats.pingdom.com/wx4vra365911/23773/2011/10"
             }
         ],
-        "duration": "1h1m",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -3243,7 +3243,7 @@
                 "url": "http://www.cnet.com/news/twitter-outage-caused-by-human-error-domain-briefly-yanked/"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -3268,7 +3268,7 @@
                 "url": "http://www.businessinsider.co.id/twitter-is-down-2015-10/?r=US&IR=T#.V0CGymF969k"
             }
         ],
-        "duration": "10m",
+        "duration": 10,
         "planned": "no",
         "causes": [
             {
@@ -3290,7 +3290,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/63765159379/issue-viewing-timelines"
             }
         ],
-        "duration": "5m",
+        "duration": 5,
         "planned": "no",
         "causes": [
             {
@@ -3316,7 +3316,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/100522661788/service-issue"
             }
         ],
-        "duration": "28m",
+        "duration": 28,
         "planned": "no",
         "causes": [
             {
@@ -3338,7 +3338,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/1367581151/database-maintenance-today"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "yes",
         "causes": [
             {
@@ -3360,7 +3360,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/1390480236/experiencing-elevated-error-rates"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -3382,7 +3382,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/100881862808/service-issue"
             }
         ],
-        "duration": "34m",
+        "duration": 34,
         "planned": "no",
         "causes": [
             {
@@ -3404,7 +3404,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/102300469523/service-issue"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -3426,7 +3426,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/66717974698/brief-mobile-service-issue"
             }
         ],
-        "duration": "14m",
+        "duration": 14,
         "planned": "no",
         "causes": [
             {
@@ -3454,7 +3454,7 @@
                 "url": "http://stats.pingdom.com/wx4vra365911/23773/2011/10"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -3476,7 +3476,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/133544525543/service-issue"
             }
         ],
-        "duration": "20m",
+        "duration": 20,
         "planned": "no",
         "causes": [
             {
@@ -3501,7 +3501,7 @@
                 "url": "http://techcrunch.com/2009/12/06/twitter-day-off/"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -3523,7 +3523,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/104973862588/service-issue"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -3545,7 +3545,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/283934158/sms-service-temporarily-unavailable-we-are"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -3570,7 +3570,7 @@
                 "url": "http://stats.pingdom.com/wx4vra365911/23773/2011/12"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -3592,7 +3592,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/287676075/known-issues-timeline-delays-and-missing-tweets"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -3614,7 +3614,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/2369720246/streaming-outage"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -3636,7 +3636,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/2419359354/twitter-down-for-some-users"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -3658,7 +3658,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/297424154/working-on-critical-issue-involving-undelivered"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -3680,7 +3680,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/2459228829/site-availability-issues"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -3702,7 +3702,7 @@
                 "url": "http://twitterstatus.tumblr.com/post/38799068981/photo-upload-issue"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -3727,7 +3727,7 @@
                 "url": "http://www.theregister.co.uk/2014/12/29/twitter_outage/"
             }
         ],
-        "duration": "5h25m",
+        "duration": 325,
         "planned": "no",
         "causes": [
             {
@@ -3755,7 +3755,7 @@
                 "url": "http://stats.pingdom.com/wx4vra365911/23773/2011/12"
             }
         ],
-        "duration": "90m",
+        "duration": 90,
         "planned": "no",
         "causes": [],
         "implications": [

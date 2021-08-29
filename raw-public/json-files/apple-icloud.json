@@ -27,7 +27,7 @@
                 "url": "http://9to5mac.com/2013/02/21/apple-confirms-app-store-itunes-and-calendar-outages-services-still-down-for-many/"
             }
         ],
-        "duration": "6h55m",
+        "duration": 415,
         "planned": "no",
         "causes": [
             {
@@ -64,7 +64,7 @@
                 "url": "http://9to5mac.com/2013/02/28/icloud-hasnt-had-its-coffee-yet-today-folks-multiple-services-remain-down/"
             }
         ],
-        "duration": "10h45m",
+        "duration": 645,
         "planned": "no",
         "causes": [
             {
@@ -89,7 +89,7 @@
                 "url": "http://www.bloomberg.com/news/articles/2015-03-11/apple-s-itunes-and-app-stores-experience-outages-worldwide?hootPostID=56aa160ad6b27fd647080f4534ebbb13"
             }
         ],
-        "duration": "12h",
+        "duration": 732,
         "planned": "no",
         "causes": [
             {
@@ -111,7 +111,7 @@
                 "url": "http://z6mag.com/featured/apple-icloud-is-down-for-less-than-1-percent-of-users-167943.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -136,7 +136,7 @@
                 "url": "http://appleinsider.com/articles/13/04/19/apples-icloud-problems-persist-with-two-new-service-outages"
             }
         ],
-        "duration": "27h",
+        "duration": 1647,
         "planned": "no",
         "causes": [
             {
@@ -161,7 +161,7 @@
                 "url": "http://cloutage.org/incidents/619-apple-game-center-itunes-icloud-apple-id"
             }
         ],
-        "duration": "5h",
+        "duration": 305,
         "planned": "no",
         "causes": [
             {
@@ -183,7 +183,7 @@
                 "url": "http://www.macrumors.com/2015/05/07/testflight-itunes-connect-down-may-2015/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -211,7 +211,7 @@
                 "url": "http://talkincloud.com/cloud-computing/06172015/7-worst-cloud-outages-2015-so-far#slide-5-field_images-46431"
             }
         ],
-        "duration": "7h",
+        "duration": 427,
         "planned": "no",
         "causes": [
             {
@@ -239,7 +239,7 @@
                 "url": "http://appleinsider.com/articles/15/06/02/icloud-itunes-again-hit-with-global-outages-impacting-important-services"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -264,7 +264,7 @@
                 "url": "http://www.infoworld.com/article/2606209/cloud-computing/162288-The-worst-cloud-outages-of-2014-so-far.html#slide11"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -286,7 +286,7 @@
                 "url": "http://appleinsider.com/articles/12/06/20/icloud_outage_prevents_some_imessages_from_being_delivered"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -308,7 +308,7 @@
                 "url": "http://appleinsider.com/articles/13/06/27/apples-icloud-and-itunes-see-service-outages-20-of-users-affected"
             }
         ],
-        "duration": "45m",
+        "duration": 45,
         "planned": "no",
         "causes": [
             {
@@ -330,7 +330,7 @@
                 "url": "http://appleinsider.com/articles/13/06/27/apples-icloud-and-itunes-see-service-outages-20-of-users-affected"
             }
         ],
-        "duration": "80m",
+        "duration": 80,
         "planned": "no",
         "causes": [
             {
@@ -358,7 +358,7 @@
                 "url": "http://www.macrumors.com/2013/07/19/apples-developer-center-experiences-daylong-outage/"
             }
         ],
-        "duration": "8d",
+        "duration": 11528,
         "planned": "no",
         "causes": [
             {
@@ -380,7 +380,7 @@
                 "url": "http://www.idownloadblog.com/2012/07/31/app-store-icloud-imessage-issues/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -418,7 +418,7 @@
                 "url": "http://www.infoworld.com/article/2606921/cloud-computing/133109-The-worst-cloud-outages-of-2013-part-2.html#slide13"
             }
         ],
-        "duration": "11h",
+        "duration": 671,
         "planned": "no",
         "causes": [
             {
@@ -446,7 +446,7 @@
                 "url": "http://appleinsider.com/articles/14/09/03/apples-itunes-store-hit-with-hours-long-outage-affecting-music-app-and-e-book-downloads"
             }
         ],
-        "duration": "6h",
+        "duration": 366,
         "planned": "no",
         "causes": [
             {
@@ -477,7 +477,7 @@
                 "url": "http://www.macworld.com/article/1168577/icloud_outage_strikes_discordant_tone_with_professional_musician.html"
             }
         ],
-        "duration": "30h",
+        "duration": 1830,
         "planned": "no",
         "causes": [
             {
@@ -505,7 +505,7 @@
                 "url": "http://www.geekwire.com/2014/hold-onto-iphones-icloud/"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -527,7 +527,7 @@
                 "url": "http://www.cultofmac.com/248131/its-not-you-how-to-know-when-apple-services-are-down/"
             }
         ],
-        "duration": "1h29m",
+        "duration": 89,
         "planned": "no",
         "causes": [
             {
@@ -549,7 +549,7 @@
                 "url": "http://appleinsider.com/articles/13/10/09/apples-icloud-down-for-some-users-online-store-down-until-until-4am"
             }
         ],
-        "duration": "3h30m",
+        "duration": 210,
         "planned": "yes",
         "causes": [
             {
@@ -571,7 +571,7 @@
                 "url": "http://gizmodo.com/5961893/apple-just-cant-keep-icloud-in-the-air"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -593,7 +593,7 @@
                 "url": "http://appleinsider.com/articles/12/10/25/apples-imessage-down-for-many-ios-and-os-x-users"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -615,7 +615,7 @@
                 "url": "http://appleinsider.com/articles/12/10/30/briefly-imessage-and-facetime-facing-second-widespread-outage-in-less-than-a-week"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -640,7 +640,7 @@
                 "url": "http://www.cultofmac.com/129461/apple-and-users-reporting-icloud-outages-are-you-affected/"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -662,7 +662,7 @@
                 "url": "http://thenextweb.com/apple/2012/11/13/icloud-experiencing-minor-service-outage-affecting-documents-photo-stream-and-backup-restore/"
             }
         ],
-        "duration": "1h56m",
+        "duration": 116,
         "planned": "no",
         "causes": [
             {
@@ -684,7 +684,7 @@
                 "url": "http://www.phonearena.com/news/iCloud-authentication-issues-from-last-night-resolved_id24843"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -709,7 +709,7 @@
                 "url": "http://appleinsider.com/articles/12/12/17/apples-icloud-sees-more-outages-following-icloud-status-webpage-update"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {

@@ -16,7 +16,7 @@
                 "url": "http://mashable.com/2014/01/24/google-gmail-outage-response/"
             }
         ],
-        "duration": "28m",
+        "duration": 28,
         "planned": "no",
         "causes": [
             {
@@ -45,7 +45,7 @@
                 "url": "http://blogs.computerworld.com/17897/google_apps_and_gmail_outage_outrage_problem_resolved"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -86,7 +86,7 @@
                 "url": "http://googledrive.blogspot.co.id/2014/03/save-more-with-google-drive.html"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -115,7 +115,7 @@
                 "url": "http://mashable.com/2013/04/17/google-apps-down-again/#aS2lH8Hdtiqa"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -137,7 +137,7 @@
                 "url": "http://techcrunch.com/2010/04/21/google-docs-just-picked-a-bad-time-to-fail-but-theres-a-fix/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -171,7 +171,7 @@
                 "url": "http://www.buzzfeed.com/charliewarzel/google-drive-is-down#45p6xeu"
             }
         ],
-        "duration": "25m",
+        "duration": 25,
         "planned": "no",
         "causes": [
             {
@@ -199,7 +199,7 @@
                 "url": "http://storageservers.wordpress.com/2013/07/11/google-outage-caused-due-to-backlash-at-us-nsa-prism/"
             }
         ],
-        "duration": "40m",
+        "duration": 40,
         "planned": "no",
         "causes": [
             {
@@ -233,7 +233,7 @@
                 "url": "http://techcrunch.com/2011/09/07/google-docs-stumbles-goes-down/"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -271,7 +271,7 @@
                 "url": "http://www.techtimes.com/articles/93822/20151011/google-docs-outage-was-the-perfect-excuse-for-workers-to-slack-around-and-create-these-hilarious-memes.htm"
             }
         ],
-        "duration": "1h9m",
+        "duration": 69,
         "planned": "no",
         "causes": [
             {
@@ -293,7 +293,7 @@
                 "url": "http://thenextweb.com/google/2014/10/27/google-drive-docs-users-company-investigating/"
             }
         ],
-        "duration": "5h30m",
+        "duration": 330,
         "planned": "no",
         "causes": [
             {

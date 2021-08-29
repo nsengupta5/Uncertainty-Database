@@ -19,7 +19,7 @@
                 "url": "http://www.reuters.com/article/2014/03/04/us-blackberry-outage-idUSBREA231RQ20140304"
             }
         ],
-        "duration": "5h55m",
+        "duration": 355,
         "planned": "no",
         "causes": [
             {
@@ -50,7 +50,7 @@
                 "url": "http://www.loopinsight.com/2011/09/16/blackberry-messenger-outage-hits-canada-latin-america/"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -90,7 +90,7 @@
                 "url": "http://www.dailymail.co.uk/sciencetech/article-2047518/BlackBerry-outage-leaves-users-cut-hours-dozens-countries.html"
             }
         ],
-        "duration": "3d",
+        "duration": 4323,
         "planned": "no",
         "causes": [
             {

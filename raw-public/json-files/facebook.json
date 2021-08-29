@@ -16,7 +16,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2015/01/27/facebook-outage-affects-sites-used-social-networks-log-system/"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -56,7 +56,7 @@
                 "url": "http://venturebeat.com/2012/01/23/anonymous-facebook/"
             }
         ],
-        "duration": "12h",
+        "duration": 732,
         "planned": "no",
         "causes": [
             {
@@ -81,7 +81,7 @@
                 "url": "http://cloutage.org/incidents/2376-facebook-social-networking"
             }
         ],
-        "duration": "3h55m",
+        "duration": 235,
         "planned": "no",
         "causes": [
             {
@@ -115,7 +115,7 @@
                 "url": "http://www.hollyit.net/blog/facebook-outage-highlights-possible-privacy-concerns"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -153,7 +153,7 @@
                 "url": "http://www.huffingtonpost.com/2014/02/07/facebook-down_n_4747815.html"
             }
         ],
-        "duration": "54m",
+        "duration": 54,
         "planned": "no",
         "causes": [
             {
@@ -175,7 +175,7 @@
                 "url": "http://www.ibtimes.co.uk/facebook-down-social-network-offline-outage-affects-europe-us-1493877"
             }
         ],
-        "duration": "3h10m",
+        "duration": 190,
         "planned": "yes",
         "causes": [
             {
@@ -197,7 +197,7 @@
                 "url": "http://www.idigitaltimes.com/facebook-down-outage-confirmed-social-media-users-panic-twitter-351188"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -222,7 +222,7 @@
                 "url": "http://www.product-reviews.net/2015/04/08/facebook-app-down-and-not-connecting-on-april-8/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -247,7 +247,7 @@
                 "url": "http://cloutage.org/incidents/992-facebook-social-networking"
             }
         ],
-        "duration": "90m",
+        "duration": 90,
         "planned": "no",
         "causes": [
             {
@@ -269,7 +269,7 @@
                 "url": "http://techcrunch.com/2014/05/09/facebook-is-down-for-many/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -294,7 +294,7 @@
                 "url": "http://cloutage.org/incidents/967-facebook-instant-messaging"
             }
         ],
-        "duration": "90m",
+        "duration": 90,
         "planned": "no",
         "causes": [
             {
@@ -319,7 +319,7 @@
                 "url": "http://techcrunch.com/2014/06/19/facebook-goes-down-in-global-outage/"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -353,7 +353,7 @@
                 "url": "http://www.businessinsider.com/facebook-outage-on-tuesday-causes-frenzy-on-twitter-2013-6?IR=T&"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -375,7 +375,7 @@
                 "url": "http://mashable.com/2010/07/11/facebook-like-broken/"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -409,7 +409,7 @@
                 "url": "http://blog.chartbeat.com/2014/08/04/facebook-traffic/"
             }
         ],
-        "duration": "1h30m",
+        "duration": 90,
         "planned": "no",
         "causes": [
             {
@@ -440,7 +440,7 @@
                 "url": "http://readwrite.com/2009/08/06/twitter_facebook_and_livejournal_down_at_the_same"
             }
         ],
-        "duration": "2h",
+        "duration": 122,
         "planned": "no",
         "causes": [
             {
@@ -461,7 +461,7 @@
                 "url": "http://www.huffingtonpost.com/2011/08/10/facebook-goes-down_n_924016.html"
             }
         ],
-        "duration": "16h",
+        "duration": 976,
         "planned": "no",
         "causes": [
             {
@@ -492,7 +492,7 @@
                 "url": "http://www.tmcnet.com/topics/articles/2013/08/16/349809-facebook-sorry-massive-app-outage.htm"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -527,7 +527,7 @@
                 "url": "http://thedailyedge.thejournal.ie/facebook-went-down-september-1653235-Sep2014/"
             }
         ],
-        "duration": "20m",
+        "duration": 20,
         "planned": "no",
         "causes": [
             {
@@ -555,7 +555,7 @@
                 "url": "http://mashable.com/2010/09/23/facebook-downtime-explained/"
             }
         ],
-        "duration": "3h30m",
+        "duration": 210,
         "planned": "no",
         "causes": [
             {
@@ -593,7 +593,7 @@
                 "url": "http://techcrunch.com/2015/09/28/yes-facebook-is-down/"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -628,7 +628,7 @@
                 "url": "http://cloutage.org/incidents/985-facebook-social-networking"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -656,7 +656,7 @@
                 "url": "http://cloutage.org/incidents/7-facebook-facebook"
             }
         ],
-        "duration": "10d",
+        "duration": 14410,
         "planned": "no",
         "causes": [
             {
@@ -718,7 +718,7 @@
                 "url": "http://venturebeat.com/2013/10/21/welcome-to-the-great-monday-morning-facebook-outage/"
             }
         ],
-        "duration": "1h35m",
+        "duration": 95,
         "planned": "no",
         "causes": [
             {
@@ -743,7 +743,7 @@
                 "url": "http://mashable.com/2010/10/22/facebook-down-again-2/"
             }
         ],
-        "duration": "25m",
+        "duration": 25,
         "planned": "no",
         "causes": [
             {
@@ -780,7 +780,7 @@
                 "url": "http://cloutage.org/incidents/1658-facebook-social-networking"
             }
         ],
-        "duration": "5h15m",
+        "duration": 315,
         "planned": "no",
         "causes": [
             {
@@ -802,7 +802,7 @@
                 "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-down-site-breaks-for-many-people-though-not-for-everyone-a6732906.html"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -827,7 +827,7 @@
                 "url": "http://cloutage.org/incidents/988-facebook-website"
             }
         ],
-        "duration": "20m",
+        "duration": 20,
         "planned": "no",
         "causes": [
             {
@@ -858,7 +858,7 @@
                 "url": "http://www.itproportal.com/2012/12/12/facebook-outage-blamed-dns-issue/#ixzz3uMBFahqp"
             }
         ],
-        "duration": "25m",
+        "duration": 25,
         "planned": "no",
         "causes": [
             {
@@ -883,7 +883,7 @@
                 "url": "http://mashable.com/2012/12/10/facebook-gone-down/"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -908,7 +908,7 @@
                 "url": "http://downdetector.com/status/facebook-messenger/news/15295-problems-at-facebook-messenger"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -930,7 +930,7 @@
                 "url": "http://mashable.com/2010/12/16/facebook-down-rollout/"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {

@@ -10,7 +10,7 @@
                 "url": "http://www.bizjournals.com/sanantonio/news/2013/01/14/rackspace-resolves-email-outage.html"
             }
         ],
-        "duration": "6h25m",
+        "duration": 385,
         "planned": "no",
         "causes": [],
         "implications": [
@@ -28,7 +28,7 @@
                 "url": "http://www.datacenterknowledge.com/archives/2010/01/14/performance-problems-for-rackspace-cloud/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -46,7 +46,7 @@
                 "url": "http://readymadeweb.com/2013/03/27/rackspace-outage-global-ddos-attack/"
             }
         ],
-        "duration": "unk",
+        "duration": -1,
         "planned": "no",
         "causes": [
             {
@@ -68,7 +68,7 @@
                 "url": "http://iwgcr.org/3-difficult-days-for-rackspace-cloud-load-balancers/"
             }
         ],
-        "duration": "3h",
+        "duration": 183,
         "planned": "no",
         "causes": [
             {
@@ -99,7 +99,7 @@
         "date": "06/12/2013",
         "title": "Network Virtualization Platform (NVP) Incident Reports",
         "links": [],
-        "duration": "6h",
+        "duration": 366,
         "planned": "no",
         "causes": [
             {
@@ -124,7 +124,7 @@
         "date": "06/14/2013",
         "title": "Network Virtualization Platform (NVP) Incident Reports",
         "links": [],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -150,7 +150,7 @@
                 "url": "http://www.systemswatch.com/blog/2013/06/rackspace-fanatical-support/"
             }
         ],
-        "duration": "5h20m",
+        "duration": 320,
         "planned": "no",
         "causes": [
             {
@@ -187,7 +187,7 @@
                 "url": "http://techcrunch.com/2009/06/30/what-went-down-at-rackspace-yesterday-a-power-outage-and-some-backup-failures/"
             }
         ],
-        "duration": "45m",
+        "duration": 45,
         "planned": "no",
         "causes": [
             {
@@ -216,7 +216,7 @@
                 "url": "http://blog.rackspace.com/update-on-scheduled-maintenanceinterruption/"
             }
         ],
-        "duration": "1h",
+        "duration": 61,
         "planned": "no",
         "causes": [
             {
@@ -245,7 +245,7 @@
                 "url": "http://www.realestatewebmasters.com/blogs/rew-steven/rackspace-outage-nov-12th/show/"
             }
         ],
-        "duration": "90m",
+        "duration": 90,
         "planned": "no",
         "causes": [
             {
@@ -273,7 +273,7 @@
                 "url": "http://mashable.com/2009/12/18/rackspace-outage/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29"
             }
         ],
-        "duration": "30m",
+        "duration": 30,
         "planned": "no",
         "causes": [
             {
@@ -305,7 +305,7 @@
                 "url": "http://www.techweekeurope.co.uk/cloud/datacenter/rackspace-ddos-security-cloud-158093"
             }
         ],
-        "duration": "11h5m",
+        "duration": 665,
         "planned": "no",
         "causes": [
             {
