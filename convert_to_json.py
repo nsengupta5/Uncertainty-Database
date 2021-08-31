@@ -29,6 +29,13 @@ def convert_to_time(duration):
 
 def main():
     directory = "./raw-public/txt-files"
+    total_durations = []
+    total_causes = []
+    total_implications = []
+    total_fixes = []
+    total_planned = []
+
+    total_result = {}
 
     for files in os.listdir(directory):
         file = os.path.join(directory, files)
@@ -36,6 +43,7 @@ def main():
 
             # Result dictionary
             result = {}
+            entries = []
             case = 0
             fields = ['date', 'title', 'links', 'duration', 'planned', 'causes', 'implications', 'fixes']
 
@@ -101,12 +109,18 @@ def main():
                         entry[fields[5]] = causes
                         entry[fields[6]] = implications
                         entry[fields[7]] = fixes
-                    
+
+                        entries.append(entry)
                         result["Case " + str(case)] = entry
 
+            total_result[file[:-4]] = entries
             out_file = open(file[:-4] + ".json", "w")
             json.dump(result, out_file, indent = 4)
             out_file.close()
+
+    out_file = open("total_aggregate.json", "w")
+    json.dump(total_result, out_file, indent = 4)
+    out_file.close()
 
 if __name__ == "__main__":
     main()
