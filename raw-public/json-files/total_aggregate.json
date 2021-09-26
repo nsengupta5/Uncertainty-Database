@@ -1057,8 +1057,8 @@
                     "url": "http://www.techtimes.com/articles/128496/20160128/apple-crushes-safari-bug-that-caused-crashes-on-mac-and-ios-worldwide.htm"
                 }
             ],
-            "duration": "",
-            "planned": "",
+            "duration": -1,
+            "planned": "no",
             "causes": [],
             "implications": [],
             "fixes": []

@@ -29,11 +29,6 @@ def convert_to_time(duration):
 
 def main():
     directory = "./raw-public/txt-files"
-    total_durations = []
-    total_causes = []
-    total_implications = []
-    total_fixes = []
-    total_planned = []
 
     total_result = {}
 
